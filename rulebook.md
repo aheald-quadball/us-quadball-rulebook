@@ -1,5 +1,5 @@
-![][image1]**USQ Rulebook 2023**  
-**Version 1.0**
+![][image1]**US Quadball Rulebook 2024**  
+**Version 1.1**
 
 *Contents*
 
@@ -27,7 +27,7 @@
 4.2. Restarting After A Goal 30
 4.3. Broken Or Fallen Hoops 31
 4.4. The Flag Catch 32
-4.5 Closely Timed Plays 33  
+4.5  Closely Timed Plays 33  
 **5\. Dodgeballs And The Knockout Effect 33**
 5.1. The Mounted Broom 33
 5.2. Knocking Out Players 34
@@ -73,9 +73,9 @@ B-3. Forfeit Fouls 85
 
 **Basics of the Game**
 
-**QUADBALL: AN OVERVIEW**
+**QUADBALL™: AN OVERVIEW**
 
-Quadball is a mixed gender contact sport with a unique mix of elements from rugby, dodgeball, wrestling, flag football, and other sports. A quadball team is made up of at least seven athletes who play with brooms between their legs when in play. While the game can appear chaotic to the casual observer, once familiar with the basic rules, quadball is an exciting sport to watch and even more exciting to play.
+Quadball is a mixed gender contact sport with a unique mix of elements from rugby, dodgeball, wrestling, flag football, and other sports. A Quadball team is made up of at least seven athletes who play with brooms between their legs when in play. While the game can appear chaotic to the casual observer, once familiar with the basic rules, Quadball is an exciting sport to watch and even more exciting to play.
 
 **POSITIONS OVERVIEW**
 
@@ -89,7 +89,7 @@ Game ball used: Quadball
 
 Headband color: Green (keeper) & White (chaser)
 
-Objective: Throw, kick, or in any way propel the quadball through the opposing team’s hoops to score ten points and prevent opponents from propelling the quadball through their own hoops.
+Objective: Throw, kick, or in any way propel the Quadball through the opposing team’s hoops to score ten points and prevent opponents from propelling the Quadball through their own hoops.
 
 Beater overview
 
@@ -115,10 +115,9 @@ Objective: Remove the flag from the flag runner to score 35 points.
 
 Chasers
 
-A. The chasers and keepers use the quadball to score goals. Goals are worth ten points each. B. Chasers advance the ball down the field by running with it, passing it to teammates, or kicking it.
-
+A. The chasers and keepers use the Quadball to score goals. Goals are worth ten points each.
+B. Chasers advance the ball down the field by running with it, passing it to teammates, or kicking it.
 C. Chasers defend against potential goals by the opposing team through positioning themselves or through initiating legal physical contact with other Chasers.
-
 D. While in their team’s own keeper zone, the keeper is immune to the knockout effect and has several other specialized powers (See: 7.2.2. Keeper-specific powers). During this time, the keeper is considered to be a protected keeper. Otherwise, the keeper position is the same as the chaser position.
 
 Beaters
@@ -130,7 +129,6 @@ B. Any player hit by a dodgeball propelled by an opponent is out until they comp
 Seekers
 
 A. The seekers try to remove the flag from the flag runner to score 35 points.
-
 B. The flag is a ball attached to the waistband of the flag runner, a neutral official dressed in yellow, whose job it is to remain fair to both teams while avoiding capture for as long as possible.
 
 **FOULS OVERVIEW**
@@ -183,11 +181,8 @@ Non-playing members of the team, including non-playing coaches, are team staff.
 
 A. Tournament directors may limit the number of team staff allowed in the player area.
 i. This number cannot be limited to less than three.
-
 B. The names of team staff must be communicated to the tournament director prior to the event if they are not on the roster as a coach.
-
 C. Team staff are not eligible to enter play.
-
 i. If a team staffer engages in any action that would result in a penalty for a substitute, the team staffer shall receive the same penalty.
 
 ⚑ *Blue Card*—Encroaching on the pitch
@@ -197,49 +192,30 @@ i. If a team staffer engages in any action that would result in a penalty for a 
 1.2.1. Rosters
 
 A. Each team is made up of between seven and twenty-one players.
-
 i. A team must be able to field a legal set of required players to begin or continue a game.
-
 a. A team must be able to field six eligible players while the flag is not on the field.
-
 b. A team must be able to field seven eligible players while the flag is on the field.
-
 c. If a player’s injury would cause their team to forfeit, and the onsite medical staff believes the player can safely return to the field with approximately a minute or less of treatment, the game shall remain stopped until the player returns, rather than declaring a forfeit.
-
 B. Team rosters must abide by all USQ regulations regarding rosters.
 
-⚑ *Forfeit*—Falling below seven eligible players on
+⚑ *Forfeit*—Falling below seven eligible players
 
-1.2.2.Positions
+1.2.2. Positions
 
 A. A team shall have four chasers in play, one of which is the keeper.
-
 i. Keepers must wear a green headband on their forehead.
-
 ii. The remaining chasers must wear a white headband on their forehead.
-
-iii.Chasers may use the quadball in any legal manner.
-
+iii. Chasers may use the Quadball in any legal manner.
 iv. Keepers and chasers shall be considered separate positions for the purposes of substitution and position changes.
-
 B. A team shall have two beaters in play.
-
 i. Beaters must wear a black headband on their forehead.
-
 ii. Beaters may use the dodgeballs in any legal manner.
-
 C. A team shall have one seeker in play while the flag is in play.
-
 i. Seekers must wear a yellow headband on their forehead.
-
 D. Any players not in play are substitutes.
-
 i. Substitutes are not designated as being at any position.
-
 ii. Substitutes are not required to wear a headband.
-
 E. Players in the penalty box are considered in play and count toward the position requirements for their teams.
-
 F. No penalty shall be given if teams are lacking a full complement of players due to an active substitution or because a seeker neglects to enter the field at the end of the seeker floor.
 
 ⚑ *Speaking Captain Yellow Card*—Illegal set of players in play
@@ -248,119 +224,89 @@ F. No penalty shall be given if teams are lacking a full complement of players d
 
 1.2.3. Legal Set of Players
 
-1. Teams must adhere to the current gameplay policy on fielding a legal set of players
+1. Teams must adhere to the current gameplay policy on fielding a legal set of players. An illegal set of players that significantly impacts play will result in a yellow card to the speaking captain.  
+   i. An illegal set of players that does not significantly impact play will be treated as no harm, no foul.  
+   ii. When the card is given, the set of players on the field must be made legal with as few substitutions as possible before play is restarted.
 
 ⚑ *Speaking Captain Yellow Card—*Illegal set of players in play
 
-1.2.4. Correcting illegal sets of players
-
-When the speaking captain receives a penalty for having an illegal set of players in play, they must correct the violation with as few substitutions as possible before play is restarted.
-
 **1.3. SUBSTITUTIONS**
 
-1.3.1. Substitution procedure
+1.3.1. Substitution restrictions
 
-During a timeout, all substitutions are legal.
+A. Standard substitutions must be made while play is live.  
+B. Substitutions may be made while play is stopped in accordance with the following exceptions:
+i. During a time out.  
+ii. During Intermission  
+iiI. Replacing an injured player (See: 1.3.4. Substitutions due to injury).
+iv. A keeper changing positions with another player in play when sent to the penalty box (See: 9.4.2. Proceeding to the penalty box).  
+v. Replacing an ejected player
+vi. Replacing a player in play with a fouling substitute (See: 9.4.5. Penalties to substitutes and team staff).
+vii. Correcting an illegal set of players after a penalty has been given. (See: 1.2.4. Correcting illegal sets of players).
+
+1.3.2. Live play substitution procedure
 
 To replace a player with a substitute while play is not stopped, the following conditions must be observed:
 
-A. The player substituting out is not knocked out.
-
-B. The player substituting out exits the pitch within the team’s substitution area and then promptly dismounts.
-
+A. The exiting player is not knocked out.
+B. The exiting player leaves the pitch within the team’s substitution area and then promptly dismounts.
 i. The player must not dismount before crossing the boundary line.
-
-ii. The player substituting out is no longer eligible to be knocked out once they have dismounted.
-
+ii. The exiting player is no longer eligible to be knocked out once they have dismounted.
 C. Any equipment (including position headbands), must be traded while off the pitch.
-D. The substitute entering play must mount the broom in the substitution area and step onto the pitch before interacting with play.
-i. The substitute enters the pitch along the boundary of the team’s substitution area.
-ii. A substitution is complete when the substitute crosses the boundary of the team’s substitution area into the pitch and is only touching the ground inside the pitch.
-a. The substitute is then immediately eligible to engage in gameplay and is eligible to be knocked out.
-
-E. The entering player receives the penalty for any violations of this procedure.
-
-F. If a player enters play through a substitution that violates this procedure and interacts with play it is an illegal substitution.
-
-i. If the entering player has not yet interacted with play, the official shall call a substitution violation instead of an illegal substitution.
-
-ii. A player who repeatedly commits substitution violations must be penalized for an illegal substitution.
+D. The entering player must mount the broom in the substitution area and step onto the pitch before interacting with play.
+i. The entering player enters the pitch along the boundary of the team’s substitution area.
+E. A substitution is complete when the entering player crosses the boundary of the team’s substitution area into the pitch and is only touching the ground inside the pitch.
+i. The entering player is then immediately eligible to engage in gameplay and is eligible to be knocked out.
+F. A player that enters play through a substitution that violates this procedure has committed a substitution violation.  
+i. A player that repeatedly commits substitution violations may be penalized for an illegal substitution.  
+G. A player that enters play through a substitution that violates this procedure and interacts with play has committed a substitution violation.  
+i. The entering player receives the card for violations of this procedure.
 
 ⚑ *Repeat Procedure—*Substitution violation
 
 ⚑ *Blue Card—*Illegal substitution
 
-1.3.2. Substitution requirements
+1.3.3. Stopped play substitution procedure
 
-A. Players may only change positions by substituting, changing headbands, and re-entering the game.
+A. The entering player replaces the exiting player at the spot of the exiting player when play was stopped.
+i. The substitute retains possession of any ball held by the exiting player.
+ii. If the exiting player was knocked out, the entering player is off broom when play is restarted.
 
-B. Substitutions may only be made while play is not stopped with the following exceptions: i. Replacing an ejected player (See: 9.1.6. Ejection).
+1.3.4. Substitutions due to injury
 
-ii. Replacing an injured player (See: 1.3.3. Substitutions due to injury).
-
-iii. A keeper changing positions with another player in play when sent to the penalty box (See: 9.4.2. Proceeding to the penalty box).
-
-iv. Replacing a player in play with a fouling substitute (See: 9.4.5. Penalties to substitutes and team staff).
-
-v. Correcting violations after receiving a penalty for having an illegal set of players in play (See: 1.2.4. Correcting illegal sets of players).
-
-1.3.3. Substitutions due to injury
-
-A. The head referee may, at their discretion, require that a player leave the player area to receive medical attention.
-B. If a player is injured and play is not stopped, any substitution must follow all of the substitution procedures as outlined in 1.3.1. Substitution procedure.
-C. Play must be stopped for an injury when a player in play is openly bleeding or is down and too injured to continue to play or substitute.
-i. Play should be stopped immediately if the injured player is obstructing gameplay or has a serious injury, including any non-superficial head injury.
-ii. If the injury is not serious and the player is not obstructing active gameplay, the head referee should allow play to continue until stopping play would not significantly advantage either team or play moves into the area of the injured player.
-D. If a player is injured and play is stopped:
-i. The injured player may leave the pitch to be replaced by a substitute.
-a. If play is stopped for a player’s injury, that player must leave the pitch.
-b. The referee may require a player to receive assessment by a medical professional or treatment before allowing them to return if the player is bleeding or their injury is deemed severe.
-1\. This player is ineligible to return to play until they receive permission from an official, who must be satisfied that any bleeding has stopped or a medical professional has cleared them.
-ii. Any injured player who leaves the pitch must be replaced by an eligible substitute.
-a. While play is stopped, the substitute replaces the player at the spot of the injured player when play was stopped.
-b. The opposing team may also make a substitution of the same position, following the same procedures.
-c. The substitute retains possession of any ball held by the injured player.
-d. If the injured player was knocked out, the substitute is off broom when play is restarted.
-e. If a player is forced, by rule, to leave the pitch for an injury that requires no treatment and there is no eligible substitute, that player may take their broom and resume play at the boundary of their substitution area.
-E. A player may not feign an injury for any reason.
+A. An injured player is expected to follow all of the substitution procedures as outlined in *1.3.2. Live play substitution procedure* unless they are unable to do so.  
+i. If an injured player is openly bleeding or too injured to follow the substitution procedure, play must be stopped.  
+a. If the player has sustained a serious injury, is obstructing gameplay, or has sustained a non-superficial head injury, play must be stopped immediately.  
+b. If the previous conditions are not met, the head referee should allow play to continue until stopping play would not significantly advantage either team.  
+ii. If play is stopped due to an injured player:  
+a. The player must leave the pitch and be replaced by a substitute.  
+1\. If a player is forced, by rule, to leave the pitch for an injury that requires no treatment and there is no eligible substitute, that player may take their broom and resume play at the boundary of their substitution area.
+a. If there is no penalty on the play related to the injury, the opposing team may also make a substitution of the same position.  
+B. The head referee may require that a player receive medical attention before allowing them to return if the player is bleeding, is suspected of a concussion, or their injury is otherwise severe.
+i. This player is ineligible to return to play until they receive permission from an official, who must be satisfied that any bleeding has stopped or a medical professional has cleared them.
+C. A player may not feign an injury for any reason.
 
 ⚑ *Yellow Card—*Feigning an injury
 
 **1.4. SUBSTITUTION AREA AND THE TEAM BENCH**
 
-1.4.1. Team bench and substitution area restrictions
+1.4.1. Substitution area restrictions
 
-A. All substitutions must occur in the substitution area and not in the team bench.
-
-B. Substitutes and team staff must remain in the team bench or substitution area whenever play is not stopped and must not crowd the pitch boundary line unless about to substitute into the game.
-
+A. All substitutions must occur in the substitution area.
+B. Whenever play is live, substitutes, coaches and team staff should never enter the pitch.  
+C. Teams should use the substitution area for players about to substitute into the game and the team bench for all others.  
 i. If a team is repeatedly illegally crowding the pitch boundary line, the officials may require all substitutes on that team to remain in the team bench unless about to substitute into the game.
+D. Any extra equipment or property not necessary for play should be kept out of the substitution area.  
+i. Any extra balls kept in the team bench must be stored in a bag or other storage container.  
+E. One substitute or team staffer at a time may leave the substitution area or team bench to check information with the scorekeeper or timekeeper, but must neither interfere with the scorekeeper or timekeeper’s duties, nor enter the pitch.
 
-C. Any extra equipment or property not necessary for play must be kept securely stored in the team’s bench.
+1.4.2. Sideline interference
 
-i. Any extra balls kept in the team bench must be stored in a bag or other storage container.
+A. Sideline interference occurs when a substitute or team staffer directly affects play in a way that disadvantages the opposing team.
 
-1.4.2. Leaving the substitution area, bench, or player area
+⚑ *Speaking Captain Blue Card*—Sideline interference
 
-A. One substitute or team staffer at a time may leave the substitution area or team bench to check information with the scorekeeper or timekeeper, but must neither interfere with the scorekeeper or timekeeper’s duties, nor enter the pitch.
-
-B. The team’s speaking captain may leave the player area in order to communicate with tournament staff.
-
-C. Any person in need of medical attention may leave the player area to receive it.
-i. All players who leave the player area in this way may return to the game if they are medically cleared.
-ii. If necessary, anyone designated by the team’s speaking captain may leave the player area to attend to an injured teammate.
-
-⚑ *Blue Card*—Sideline interference
-
-1.4.3. Sideline interference
-
-A. It is sideline interference if a substitute directly affects play when either of the following are true:
-
-i. The substitute is intentionally and illegally outside of both the substitution area and team bench.
-
-ii. The substitute failed to make every reasonable effort to avoid the play. ⚑ *Blue Card*—Sideline interference
-
-⚑ *Red Card*—Intentional sideline interference
+⚑ *Speaking Captain Red Card*—Intentional sideline interference
 
 **2\. Equipment and Dimensions**
 **![][image2]2.1. FIELD LINES AND MARKS**
@@ -369,11 +315,10 @@ ii. The substitute failed to make every reasonable effort to avoid the play. ⚑
 
 The pitch consists of four boundary lines which form a 36 by 66 yard rectangle.
 
-A. The 36 yard boundary lines are the endlines.
-
-B. The 66 yard boundary lines are the sidelines.
-
-i. The sideline closest to the scorekeeper’s table is the “scorekeeper’s sideline.” C. Tournaments may apply to gameplay for a waiver to use a shorter field. That pitch must still consist of 36 yard endlines and 66 yard sidelines, but is not required to have the full 48 yard by 72 yard player area.
+A. The 36 yard boundary lines are the endlines.  
+B. The 66 yard boundary lines are the sidelines.  
+i. The sideline closest to the scorekeeper’s table is the “scorekeeper’s sideline.”  
+C. Tournaments may apply to gameplay for a waiver to use a shorter field. That pitch must still consist of 36 yard endlines and 66 yard sidelines, but is not required to have the full 48 yard by 72 yard player area.
 
 2.1.2. Midfield line
 
@@ -399,7 +344,7 @@ A. There will be four starting ball positions on the midline.
 
 a. Dodgeballs will be placed at 9 yards, 12 yards, and 27 yards from the penalty box
 
-b. The quadball will be placed 24 yards from the penalty box
+b. The Quadball will be placed 24 yards from the penalty box
 
 ![][image3]
 
@@ -407,7 +352,8 @@ b. The quadball will be placed 24 yards from the penalty box
 
 Each team’s substitution area is a 21 by 3 yard rectangle outside of the pitch and bordering their own keeper zone.
 
-A. One side of the substitution area is the scorekeeper’s sideline inside the keeper zone. B. The substitution area extends 3 yards away from the sideline.
+A. One side of the substitution area is the scorekeeper’s sideline inside the keeper zone.  
+B. The substitution area extends 3 yards away from the sideline.
 
 2.1.8. Team benches
 
@@ -418,25 +364,15 @@ Each team’s bench is a 21 by 3 yard rectangle that extends 3 yards farther fro
 The player area is a rectangle enclosing the pitch with the pitch at its center.
 
 A. This rectangle is:
-
 i. 48 yards wide and 72 yards long.
-
 B. The player area must be clear of obstacles and dangerous terrain.
-
 i. No non-tournament specific obstructions, such as spectators, may be set up within the player area.
-
 C. During gameplay, the player area is reserved for:
-
 i. Players on the active roster of the teams in play.
-
 ii. Referees and officials assigned to the game currently in play.
-
 iii.Tournament staff are given access to the player area (at their own risk) at the discretion of the head referee or tournament director.
-
-iv. Team staff as designated in 1.1.2. Team staff.
-
+iv. Team staff (as designated in 1.1.2. Team staff).
 D. No spectators may enter the player area.
-
 E. Tournaments may apply to gameplay for a waiver to use a field with a player area 48 yards wide and 54 yards long.
 
 2.1.10. Field markings
@@ -444,27 +380,16 @@ E. Tournaments may apply to gameplay for a waiver to use a field with a player a
 Various parts of the pitch and surrounding area should be marked in a clear manner. These markings are usually made with cones or lines.
 
 A. The following must be marked in some way:
-
-i. The pitch boundary as described in 2.1.1.
-
-ii. The midfield line as described in 2.1.2.
-
-iii.The keeper zone lines as described in 2.1.3
-
+i. The pitch boundary (as described in 2.1.1).
+ii. The midfield line (as described in 2.1.2).  
+iii.The keeper zone lines (as described in 2.1.3)
 B. The following markings are optional, though recommended:
-
-i. The goal lines as described in 2.1.4.
-
-ii. The penalty boxes as described in 2.1.5.
-
-iii. The ball positions as described in 2.1.6.
-
-iv. The team benches as described in 2.1.8.
-
-v. The player area as described in 2.1.9.
-
-vi. The hoop positioning as described in 2.2.3.
-
+i. The goal lines (as described in 2.1.4).
+ii. The penalty boxes (as described in 2.1.5).
+iii. The ball positions (as described in 2.1.6).
+iv. The team benches (as described in 2.1.8).
+v. The player area (as described in 2.1.9).
+vi. The hoop positioning (as described in 2.2.3).
 a. These markings must not interfere with the stability of the hoops.
 
 **2.2. HOOPS**
@@ -472,64 +397,48 @@ a. These markings must not interfere with the stability of the hoops.
 2.2.1. Hoop composition and construction
 
 A. Each hoop must be made up of a post and a circular loop attached to the top. These may be made of any material other than metal or concrete and must not be dangerous to players.
-
 B. A hoop must be attached to a base to keep it upright.
-
 i. This base should be included in the hoop pole height.
-
-ii. Other than metal fasteners, the base must not be made of hard metal or concrete. C. Hoops must be freestanding and able to withstand play.
-
+ii. Other than metal fasteners, the base must not be made of hard metal or concrete.
+C. Hoops must be freestanding and able to withstand play.
 i. Referees must disallow any hoops or bases that they believe are dangerous to the players.
 
 2.2.2. Hoop shape
 
 A. Each set of hoops must have posts of three different heights.
-
 i. These heights must be 3 feet, 4.5 feet, and 6 feet.
-
 B. A hoop loop must be fastened to the top of each post.
-
 i. The inner diameter of each hoop loop must be 33 inches.
-
 ii. The attachment of the hoop loop must not make the total height of the post exceed the required post heights.
 
 2.2.3. Hoop positioning
 
 A. Three hoops are positioned on each goal line.
-
 i. The 6 foot hoop must be placed at the center of the goal line.
-
 ii. The other two hoops are placed on the goal line, 3 yards away from the 6 foot hoop on either side.  
 iii.Facing either set of hoops from midfield, the 3 foot hoop must be on the left and the 4.5 foot hoop must be on the right.
-
 B. The hoop loops must be in line with the goal line.
 
 **2.3. GAME BALLS**
 
-2.3.1. The quadball
+2.3.1. The Quadball
 
-The quadball must be:
-
+The Quadball must be:
 A. A volleyball.
-
 B. Between 25.6 and 26.4 inches in circumference.
-
-C. The quadball must maintain its spherical shape and must be neither inflated all the way nor so flat that the average player could grip a bulk of the leather in one hand.
+C. The Quadball must maintain its spherical shape and must be neither inflated all the way nor so flat that the average player could grip a bulk of the leather in one hand.
 
 2.3.2. Dodgeballs
 
 The three dodgeballs must be:
-
-A. Spherical balls made of flexible rubber or rubber-like covers (such as dodgeballs). B. 8.5 inches in diameter, 26.7 inches in circumference.
-
+A. Spherical balls made of flexible rubber or rubber-like covers (such as dodgeballs).
+B. 8.5 inches in diameter, 26.7 inches in circumference.
 C. The dodgeballs must maintain their spherical shape and must be neither inflated all the way nor so flat that the average player could grip a bulk of the rubber in one hand.
 
 2.3.3. The Flag
 
 The flag must be:
-
 A. A standard tennis ball held within a tail.
-
 i. The tail must have a visible and unobstructed length of between 10 and 12 inches.
 a. If the tail is attached to the outside of the shorts, up to 2 inches of the attachment may be counted toward this minimum length.
 B. The flag must be tucked in or attached to the shorts of the flag runner in a manner that is secure and allows for the removal of the tail by the seeker.
@@ -537,18 +446,15 @@ B. The flag must be tucked in or attached to the shorts of the flag runner in a 
 2.3.4. Defective balls mid-play
 
 If a game ball becomes defective (e.g. deflates) while in play, the head referee must stop play to replace the ball. The following conditions apply:
-
 A. The head referee must stop play immediately when any ball becomes defective.
-
-B. If a ball was in midair when it became defective, the replaced or repaired ball is returned to the player who last held possession, except the quadball after a good goal.  
-i. If this player is knocked out or dismounted before play is stopped, then the ball is given to the nearest eligible player on the same team to this player’s current location.   a. If no such player exists, then the ball shall be left at the player’s current location.
+B. If a ball was in midair when it became defective, the replaced or repaired ball is returned to the player who last held possession, except the Quadball after a good goal.  
+i. If this player is knocked out or dismounted before play is stopped, then the ball is given to the nearest eligible player on the same team to this player’s current location.     
+a. If no such player exists, then the ball shall be left at the player’s current location.
 C. No goals or knockouts may happen with a ball an official recognized as defective before the knockout or goal occurred.
-
 D. If a dodgeball becomes defective while hitting a player, the knockout counts and the dodgeball is considered dead.
-
 i. If the dodgeball becomes defective in the final motion of being otherwise successfully caught, that catch shall count.
-
-E. If the flag becomes defective during the flag catch (e.g. the tail breaks in half and the seeker gets half of it), the catch counts if the seeker cleanly removed the actual ball. i. If the flag becomes defective before the catch, the catch must be called no good.
+E. If the flag becomes defective during the flag catch (e.g. the tail breaks in half and the seeker gets half of it), the catch counts if the seeker cleanly removed the actual ball.
+i. If the flag becomes defective before the catch, the catch must be called no good.
 
 **2.4. BROOMS**
 
@@ -557,14 +463,12 @@ E. If the flag becomes defective during the flag catch (e.g. the tail breaks in 
 All players in play must have a broom. The broom:
 
 A. Must consist of a rigid pole made of plastic.
-
 i. This pole must be between 39 and 41 inches long.
-
 ii. The outer diameter of this pole must be between .75 and 1.25 inches.
-
 B. Must not have splinters or sharp points.
+C. Must not be attached to the body, clothing, or other equipment of the player.
 
-C. Must not be attached to the body, clothing, or other equipment of the player. 2.4.2. Broken brooms
+2.4.2. Broken brooms
 
 If a broom breaks during the course of play, the head referee must immediately stop play and it must be replaced before its player may make any play
 
@@ -580,15 +484,10 @@ The tournament director for a game must provide equal brooms to both teams. Team
 2.4.4. Limited brooms in the player area
 
 A. During the seeker floor, each team may have a maximum of six brooms within the player area, excluding any extra brooms securely stored in the team bench.
-
 B. The broom limit is increased to seven after the seeker floor ends.
-
 i. Seekers will receive the seventh broom when called to the scorekeeper’s table.
-
 C. All additional brooms, including replacements for broken brooms, must be stored outside the player area, at the scorekeeper’s table, or securely in the team bench.
-
 i. These additional brooms must not enter the pitch or substitution area unless replacing a broken broom during a stoppage of play.
-
 ii. If a team illegally brings an additional broom into the pitch or substitution area, they must be penalized for exceeding the broom limit.
 
 ⚑ *Speaking Captain Blue Card—*Exceeding the broom limit
@@ -604,53 +503,40 @@ Players must not use any equipment or wear anything that is dangerous to themsel
 While in play, each player must properly wear the following equipment:
 
 A. A colored headband at least half an inch wide and worn on the forehead distinguishing the player’s position.
-
 B. A jersey.
-
 i. Jerseys for players on the same team must be readily identifiable, of the same base color, and distinguishable from the opposing team.
-
 ii. The primary jersey color may not be yellow or gold.
-
-iii.The jersey design must not primarily consist of vertical black and white stripes. C. Some sort of bottom (such as shorts, pants, or a skirt).
-
-i. The primary color of the outermost layer of the bottoms must not be yellow or gold. ii. Some form of undergarment must be worn under the bottoms.
-
+iii.The jersey design must not primarily consist of vertical black and white stripes.
+C. Some sort of bottom (such as shorts, pants, or a skirt).
+i. The primary color of the outermost layer of the bottoms must not be yellow or gold.
+ii. Some form of undergarment must be worn under the bottoms.
 D. Shoes or cleats.
-
 i. Spikes or studs must not be sharp.
-
-ii. Spikes or studs must not be completely made of metal or affixed with metal caps. E. A mouthguard which shall:
-
-i. Include an occlusal (protecting and separating the biting surfaces) portion. ii. Include a labial (protecting the teeth and supporting structures) portion. iii.Cover the posterior teeth with adequate thickness.
+ii. Spikes or studs must not be completely made of metal or affixed with metal caps.
+E. A mouthguard which shall:
+i. Include an occlusal (protecting and separating the biting surfaces) portion.
+ii. Include a labial (protecting the teeth and supporting structures) portion.
+iii.Cover the posterior teeth with adequate thickness.
 
  ⚑ *Blue Card*—Entering play without wearing mandatory equipment
 
-⚑ *Blue Card*—Intentionally removing mandatory equipment while in play 2.5.3. Headband requirements
+⚑ *Blue Card*—Intentionally removing mandatory equipment while in play
+
+2.5.3. Headband requirements
 
 Position headbands are subject to the following standards.
 
 A. The color of the headband must be distinct enough to unambiguously identify the player’s position.
-
 B. The headband must be easily visible from a reasonable distance and be identifiable through a player’s hair or other equipment.
-
 C. Hats or other headgear may not be used as headbands.
-
 i. The positional headband must be worn over the headgear and the headgear must be a color that is clearly distinguishable from the headband.
-
 ii. Headwear that is both in the shape of a band and is a positional color shall be considered a headband.
-
 a. No other positional headband may be worn over this item.
-
 D. If a player’s headband is lost mid-play, they may continue to play without it. However they must replace the headband whenever any of the following occur:
-
 i. They are knocked out.
-
 ii. There is a stoppage in play.
-
 iii.A goal is scored.
-
 a. Seekers and beaters do not have to replace their headband when a goal is scored.
-
 E. If an official deems a player’s headband unacceptable for any reason, the player must immediately correct the issue.
 i. If this cannot be completed immediately on the pitch, the accidental equipment infringement procedure shall be applied (See: 2.5.7. Accidental equipment infringement).
 
@@ -661,23 +547,16 @@ i. If this cannot be completed immediately on the pitch, the accidental equipmen
 Each player must have an integer between 0 and 99 clearly visible on the back of their jersey.
 
 A. The number may not exceed two digits including preceding zeros.
-
 B. No two players in the player area for the same team may share the same number.
-
 i. Leading zeros are ignored when determining a player’s number.
-
 ii. If a team is penalized for having two players wearing the same number in the player area, the speaking captain must designate one of the players to change their number.
 a. The designated player is ineligible to be in play until they have a new number affixed to their back and the new number is reported to the scorekeeper.
-
-C. If a player’s number becomes damaged beyond recognition while in play: i. Play is not stopped.
-
+C. If a player’s number becomes damaged beyond recognition while in play:
+i. Play is not stopped.
 ii. The referee informs the player that their jersey number has been damaged.
-
 iii.The player must fix the number the next time they substitute out of the game, or during the next stoppage in play, whichever occurs first.
 a. If there is a stoppage in play and the number cannot be quickly fixed, the player must substitute out during that stoppage.
-
 b. If the issue can only be addressed by giving the player a new number, that new number must be reported to the scorekeeper.
-
 D. No player may enter play without a legal and recognizable number on their back.
 
 ⚑ *Blue Card*—Entering play without a legal and recognizable jersey number
@@ -689,30 +568,19 @@ D. No player may enter play without a legal and recognizable number on their bac
 The following are considered “additional equipment” and may be worn with the listed limitations.
 
 A. Padding—All padding must:
-
 i. Be one inch or less in thickness. If the player is wearing multiple pads, they may not exceed this total thickness.
-
 ii. Pass the “knock test,” i.e. when a referee raps on it with a knuckle, it should not make a knocking sound.
-
 iii.Bend easily when a minimal amount of force is applied to it.
-
 B. Braces—Athletic braces are allowed but must meet the standards of padding above.
-
 i. A brace may include a hard element; however, any hard plastic or metal must be covered at all times during a game and, once covered, must pass the knock test.
-
 ii. If any hard plastic or metal becomes exposed, the player must leave the pitch and fix the problem (See: 2.5.7. Accidental equipment infringement).
-
 iii.Referees reserve the right to refuse any brace that they believe presents a danger to anyone on the field.
-
-C. Athletic supporters—Athletic supporters (cups) which protect the groin are allowed. D. Glasses and eyewear—Players may wear glasses, goggles, or other eyewear.  
+C. Athletic supporters—Athletic supporters (cups) which protect the groin are allowed.
+D. Glasses and eyewear—Players may wear glasses, goggles, or other eyewear.  
 i. No eyewear actually made of glass is allowed unless it is worn underneath goggles so the glass is not exposed.
-
 ii. Goggles made of metal, such as lacrosse “cage” goggles, are not allowed.
-
 E. Gloves—Gloves are allowed and are subject to the same rules as padding.
-
 F. Special equipment—Equipment approved through the waiver process.
-
 G. Any additional equipment must be approved by the head referee before the game. Any equipment that the referee determines to be dangerous or unfair to either team must not be permitted.
 
 ⚑ *Blue Card*—Using illegal additional equipment in play
@@ -729,15 +597,10 @@ In the event that a player’s previously legal equipment becomes illegal as a r
 
 A. Play is not stopped unless the referee determines the infringement presents a danger.
 B. The player at fault must leave the pitch to correct the infringement immediately and may be replaced with a substitute.
-
 i. Players do not need to leave the pitch to replace a broken broom.
-
 C. Any player required to leave the pitch to correct equipment must not re-enter until the equipment has been replaced, repaired, or removed.
-
 i. Mandatory equipment must be replaced or repaired.
-
 a. If there is no replacement for a broom or headband available, the head referee must stop play until the equipment is provided.
-
 D. If the player does not leave the pitch upon being informed of the infringement, or re-enters play without correcting the infringement, that player is subject to penalty for disregarding an official’s directive.
 
 ⚑ *Yellow Card*—Disregarding an official’s directive
@@ -759,7 +622,6 @@ It is illegal to intentionally alter any game equipment, including the game ball
 The following are forbidden equipment and may never be worn by players while in play:
 
 A. Audio or visual recording devices.
-
 B. Grip enhancing substances which might transfer to and affect a ball.
 
 ⚑ *Red Card*—Wearing forbidden equipment
@@ -767,13 +629,9 @@ B. Grip enhancing substances which might transfer to and affect a ball.
 2.5.11. Jewelry
 
 A. Players are not permitted to wear jewelry while in play.
-
 i. Piercing retainers which are flush with the skin are allowed.
-
 ii. Medical alert bracelets designed for contact sports by being soft and flush to the skin are allowed
-
 B. Players wearing forbidden jewelry that does not impact gameplay will be ejected.
-
 C. Players wearing forbidden jewelry that impacts gameplay or the other team must receive a red card.
 
 ⚑ *Ejection*—Wearing forbidden jewelry that does not impact the game.
@@ -786,24 +644,18 @@ Players may seek exceptions to equipment rules. Such equipment is considered spe
 
 **3\. Game Procedures**
 
-**3.1. PRELIMINARIES**
+**3.1. PREGAME**
 
 3.1.1. Pregame meeting
 
 Before any game, the head referee calls together representatives of the two teams to go over general rules.
 
 A. Each team must designate one person to serve as speaking captain to represent the team during the game.
-
 i. The speaking captain must attend the pregame meeting.
-
 ii. Additional team representatives may also attend the pregame meeting.
-
 B. The head referee should discuss the following with the team representatives:
-
 i. Any ground rules specific to the field.
-
 ii. The identity of the flag runner.
-
 iii. Any players the officials should be aware of regarding fielding a legal set of players.  
 iv. Any other concerns from the attending parties that are specific to the game.
 
@@ -812,13 +664,9 @@ iv. Any other concerns from the attending parties that are specific to the game.
 Teams will participate in a coin toss to decide starting offense, defense, and field position.
 
 A. The toss shall be called while the coin is in the air by the team with the lower USQ ranking.
-
 i. If the ranking is inapplicable or unknown, the team that has traveled farthest from its point of origin shall call the toss.
-
 B. The winner of the coin toss will get to choose one of the options below. The team that loses the coin toss will make the other decision.
-
 i. Choose whether to start on offense or defense.
-
 ii. Choose which set of hoops they are attacking.
 
 **3.2. STARTING THE GAME**
@@ -828,55 +676,37 @@ ii. Choose which set of hoops they are attacking.
 In order to begin the game:
 
 A. The starters on each team must begin the game on the pitch.
-
 i. Each team must start the game with three chasers, one keeper, and two beaters.
-
 ii. Players may change position headbands and location until brooms down.
-
 iii. Any player who receives a penalty card prior to the start of the game (or their substitute in the case of a red card) must start the game in the penalty box instead.
-
 B. Offensive team:
-
 i. One chaser and one beater will be positioned on the half of their keeper zone farther from the score table.
-
 ii. All other players will be on or behind the half of their goal line further from the score table.
-
-C. Defensive team:
-
+C. Defensive team:  
 i. Two beaters will be positioned on the half of their opponents keeper zone line closer to the score table.
-
 ii. All other players will be on or behind the half of their goal line closer to the score table.
-
-D. The head referee confirms that both teams and all other officials are ready. E. The head referee shouts “Brooms down\!”
-
+D. The head referee confirms that both teams and all other officials are ready.
+E. The head referee shouts “Brooms down\!”
 F. Once brooms down has been called:
-
 i. Players may not change their position, headbands, or location.
-
 ii. No part of a player’s body may contact the ground on or in front of their starting line.
-
 iii. Each player must have a broom in hand.
-
 a. The broom must remain otherwise flat on the ground until brooms up.
-
 G. The head referee shouts “Ready\!”
-
 H. The head referee shouts “brooms up\!”
-
 i. On the first “B” sound of brooms up, all players must immediately mount their brooms.
-
 ii. If there is a false brooms up call, the head referee resets the players and repeats the full brooms up procedure.
-
 iii. In the event of any foul prior to brooms up, the head referee adjudicates the penalty, resets the players, and repeats the full brooms up procedure.
-
-I. A player has committed a false start if:
-
-i. The player already has their broom off the ground at brooms up call.
-
-ii. The player moves early and touches the other side of their starting line before brooms up.
+I. A player that does either of the following after the head referee calls “Ready” but before the referee calls “Brooms Up” has committed a false start and should send themselves back to hoops.  
+i. The player already has their broom off the ground at brooms up call.  
+ii. The player moves early and touches the other side of their starting line before brooms up.  
+J. A player that commits a false start and continues to pursue active play shall be given a blue card.
 
 ⚑ *Blue Card*—Changing position headbands or location after brooms down.
-⚑ *Blue Card*—False start.
+
+⚑ *Back to Hoops*—False Start.
+
+⚑ *Blue Card*—False Start which results in pursuing active play.
 
 **3.3. STOPPAGES**
 
@@ -885,16 +715,11 @@ ii. The player moves early and touches the other side of their starting line bef
 To stop play:
 
 A. The referee blows a whistle in paired short blasts.
-
 B. The timekeeper stops the game time and all other time clocks.
-
 C. All players currently in play must stop, drop their brooms, and hold their respective positions unless otherwise directed by a referee.
-
 i. The players maintain any balls they possessed at the stoppage whistle, unless the ball is turned over.
-
 a. Players must not take hold of or otherwise move any other balls during a stoppage.  
 ii. Any players who are paused in an illegal position are adjusted immediately to a legal position.
-
 iii. Any players who accidentally and significantly moved after the whistle are returned to their location at the time the whistle was blown.
 
 ⚑ Blue Card— Substantially illegally moving during a stoppage.
@@ -906,74 +731,43 @@ iii. Any players who accidentally and significantly moved after the whistle are 
 While play is stopped:
 
 A. The head referee consults with other officials as necessary.
-
 B. The head referee adjudicates any fouls and communicates the type of foul to the players, scorekeeper, and spectators:
-
 i. Any player who receives penalty time is sent to the penalty box.
-
 ii. Any person who is ejected is removed from the player area.
-
 C. If a change of possession occurs, the appropriate procedure shall be followed before play is restarted.
-
 D. Any loose ball rolling or bouncing on the ground after the stoppage is returned to the spot an official first sees it on the ground after the whistle.
-
-i. Players may not stop these balls unless directed to by an official.
-
+i. Players may not stop these balls unless directed to by an official.  
 E. Any loose live ball that was propelled and had not touched anything (including other players, equipment, or the ground) before the whistle to stop play is returned to the player who propelled it.
-
 i. This rule does not take effect if the ball is otherwise turned over.
-
 ii. If the propelling player is not eligible to receive the ball, it shall not be moved by this rule.
-
 F. Any loose ball out-of-bounds after the whistle to stop play follows the below inbounding procedures (also see 7.5.4. Inbounding Procedure).
-
-i. If a dodgeball is out-of-bounds during a stoppage, the closest eligible beater will be given the option to move to the inbounding point and be provided possession of the dodgeball.
-
-a. If the closest eligible beater declines the ball, the ball will instead be moved approximately 1 foot inside the boundary and left on the ground unpossessed.
-
-ii. If the quadball is out-of-bounds during a stoppage, the closest eligible player will be moved to the inbounding point and provided possession of the quadball.
-
+i. If a dodgeball is out-of-bounds during a stoppage, the closest eligible beater will be given the option to move to the inbounding point and be provided possession of the dodgeball.  
+a. If the closest eligible beater declines the ball, the ball will instead be moved approximately 1 foot inside the boundary and left on the ground unpossessed.  
+ii. If the Quadball is out-of-bounds during a stoppage, the closest eligible player will be moved to the inbounding point and provided possession of the Quadball.  
 iii. The above two clauses do not apply to balls in the process of being inbounded through penalty adjudications, including turnovers and other rules moving the ball elsewhere.
 G. Any external interference is removed.
 H. Any other concerns, including injured players and defective equipment, are addressed.  
-I. If the quadball will be dead when play is restarted, it is given to the formerly defending keeper.
+I. If the Quadball will be dead when play is restarted, it is given to the formerly defending keeper.
 
 3.3.3. Restarting play
 
-In order to restart play:
-
-A. The head referee indicates to the players that play is about to resume by calling for the players to “Remount\!”
-
+In order to restart play:  
+A. The head referee indicates to the players that play is about to resume by calling for the players to “Remount\!”  
 i. Players must remount their brooms where the brooms were left when play was stopped.
-
 ii. Players must stand at the call to remount.
-
 a. If two or more players on the ground each had a grip on a ball at the moment when play was stopped, they still must stand. Once standing, each may retake hold of that ball. They do not need to hold it in the same way they had on the ground.
-
 iii. Players may otherwise reposition themselves to prepare for the restart but must not commit a false restart.
-
 a. It is a false restart if a player does any of the following before the restart whistle:
-
 1\. Begin the forward motion of a throw.
-
 2\. Initiate new contact.
-
 3\. Begin to move off of their location.
-
 4\. Attempting to directly affect a ball which the player does not solely possess.
-
 b. If there is a false restart, play remains stopped, and any player who moved is returned to their previous location.
-
 c. The first false restart of a stoppage will result in a warning to all players on the field.
-
 1\. Any subsequent false restart by any player on the same stoppage shall result in a penalty.
-
 B. The head referee blows one short whistle blast. On this whistle blast:
-
 i. Play resumes.
-
 a. Any player who is not mounted on their broom at the restart whistle is dismounted.
-
 ii. The timekeeper resumes the game time and all other time clocks.
 
 ⚑ *Back to Hoops*—Second false restart
@@ -981,16 +775,11 @@ ii. The timekeeper resumes the game time and all other time clocks.
 3.3.4. Timeouts
 
 A. Once during regulation time, the speaking captain may call a timeout for a one minute stoppage.
-
-B. Procedure:
-
+B. Procedure:  
 i. A speaking captain informs the head referee they would like to use their timeout.
-
 a. When play is stopped, the head referee must first follow all procedures of 3.3.2 before starting the timeout.  
 b. If requested during play the head referee may stop play to accommodate a timeout if they determine there is no active play immediately occurring.
-
 ii. The head referee shall blow one long whistle blast 45 seconds into the timeout.
-
 iii. After the completion of the timeout, the head referee shall resume play using the standard restart procedure (See: 3.3.3. Restarting play).
 
 **3.4. REGULATING GAME TIME**
@@ -1003,7 +792,10 @@ A. The game time, and any time associated with it, must be paused for all stoppa
 
 3.4.2. Regulation time
 
-Regulation time consists of two periods separated by a one minute intermission. 3.4.3. Seeker floor
+Regulation time consists of two periods separated by a one minute intermission.
+
+3.4.3. Seeker floor
+
 The seeker floor is the first period of the game.
 
 A. During the seeker floor, there are no seekers in play.
@@ -1016,7 +808,7 @@ i. When the clock reaches 20 minutes of game time, the timekeeper will alert the
 
 ii. The head referee will allow play to continue until the end of the current drive.
 
-a. If the quadball is dead, play will be stopped immediately for the intermission.
+a. If the Quadball is dead, play will be stopped immediately for the intermission.
 
 iii. The game clock will continue to run until the head referee stops play.
 
@@ -1025,29 +817,17 @@ iv. If a stoppage occurs due to a penalty by the defending team during the final
 3.4.4. Intermission
 
 A. The head referee will stop play for one minute once the last possession of the seeker floor period ends.
-
 B. Once all stoppage procedures are completed (see rule 3.3.2.) the one minute intermission starts.
-
 C. During the intermission:
-
-i. All clocks remain stopped.
-
-ii. The head referee will establish completion requirements following current gameplay policy, checking with speaking captains to confirm any necessary information (concession, legal set of players, etc).
-
+i. All clocks remain stopped.  
+ii. The head referee will establish completion requirements following current gameplay policy, checking with speaking captains to confirm any necessary information (concession, legal set of players, etc).  
 iii. The Head referee will establish and announce a set score of 60 points over the current leading score
-
 a. This set score should be displayed at the score table where it can be easily seen by both teams for the remainder of the game.
-
 iv. A seeker from each team should report to the timekeeper
-
 v. The flag runner must enter the player area
-
 vi. Players may not substitute during the intermission.
-
 D. Resuming after an intermission
-
 i. The head referee shall blow one long whistle blast 45 seconds into the intermission.
-
 ii. After the completion of the intermission, the head referee shall resume play using the standard restart procedure (See: 3.3.3. Restarting play).
 
 3.4.5. Flag Period
@@ -1079,49 +859,37 @@ C. The game will end when either team reaches the set score (see: 3.4.4.C.ii.)
 3.5.1. Declaring a forfeit
 
 A. The head referee must declare a game forfeit if:
-
 i. The speaking captain of a team officially requests a forfeit.  
 ii. A team refuses to resume a suspended game without the agreement of their opponent and the tournament director.
-
 iii. A forfeit penalty is administered.
-
-B. A game may be declared forfeit due to violations of league or tournament policy. C. In the event of a forfeit:
-i. The game is over immediately and the forfeiting team is declared the losing team. ii. All players should clear the pitch.
+B. A game may be declared forfeit due to violations of league or tournament policy.
+C. In the event of a forfeit:
+i. The game is over immediately and the forfeiting team is declared the losing team.
+ii. All players should clear the pitch.
 
 **3.6. SUSPENDED GAMES**
 
 3.6.1. Declaring a suspended game
 
 A. The head referee or tournament director may declare a game suspended due to weather, safety concerns, extreme or inappropriate unsporting behavior (6.5. Unsporting Behavior), danger from spectators, or external interference.
-
 B. Suspended games must be recorded with the current game time, score, players in play, and possession of all game balls.
-
 C. Suspended games should be resumed as soon as it has become safe to do so.
 
 3.6.2. Resuming a suspended game
 
 A. If any of the game’s original officials are unavailable, the tournament director or head referee shall ensure they are replaced.
-
 B. All players in play at the suspension must line up behind their respective keeper zone lines.
-
 i. If, while play was suspended, a player who was in play became unavailable to play for any reason, another player on the roster may replace them.
-
 C. Game balls must be given to the appropriate players based on the possession information recorded at the time the game was suspended.
-
 i. Any balls which were not possessed when play was stopped shall be placed at one of the four ball positions, filling the inner positions first, followed by the outer positions.
-
-a. If the quadball was unpossessed, it must go on an inner position.
-
+a. If the Quadball was unpossessed, it must go on an inner position.
 D. If the suspension occurred after the seekers were released, the flag runner should enter the player area before the game resumes and the seekers must line up behind their keeper zone lines.
-
 E. The head referee begins play by following the brooms up procedure with the exception of ball possession (See: 3.2.1. Brooms up procedure).
 
 3.6.3. Abandoned games
 
 A. If a suspended game cannot be resumed during the event at which it is being held, the tournament director must declare the game abandoned.
-
 B. If both teams and the tournament director mutually decide to not restart a suspended game, then the tournament director may declare the game abandoned.
-
 i. If one or both teams refuses to resume play without the agreement of the opposing team and the tournament director, the team(s) refusing to play shall be declared to have forfeited the game.
 
 **4\. Scoring**
@@ -1130,65 +898,48 @@ i. If one or both teams refuses to resume play without the agreement of the oppo
 
 4.1.1. Good goal
 
-Ten points are scored for a team when the quadball passes entirely through their opponent’s hoops, regardless of who propelled it, and the goal is confirmed as good.
+Ten points are scored for a team when the Quadball passes entirely through their opponent’s hoops, regardless of who propelled it, and the goal is confirmed as good.
 
 A. All of the following must be true for a goal to be counted as good:
-
-i. The whole quadball passed through one of the hoops.
-
+i. The whole Quadball passed through one of the hoops.
 a. Goals may be scored through either side of the hoops.
-
-ii. The quadball was not dead.
-
-iii. The quadball was not unscorable (See: 5.6.3 Unscorable quadball).
-
+ii. The Quadball was not dead.
+iii. The Quadball was not unscorable (See: 5.6.3 Unscorable Quadball).
 iv. The goal did not occur between a foul resulting in a red card, a yellow card, or a turnover by any member of the scoring team and the time the penalty was administered.
-
-v. The scoring player did not commit a foul resulting in a back to hoops penalty, penalty card, or ejection immediately before receiving the quadball or while in contact with a live quadball.
-
+v. The scoring player did not commit a foul resulting in a back to hoops penalty, penalty card, or ejection immediately before receiving the Quadball or while in contact with a live Quadball.
 vi. The hoop was not dislodged or otherwise unplayable (See: 4.3.1. Scoring through a dislodged hoop).
-
-B. The quadball becomes dead as soon as a good goal has been scored.
-
+B. The Quadball becomes dead as soon as a good goal has been scored.
 C. The head referee confirms that a goal is good by blowing one long whistle blast and raising both arms.
 
-4.1.2.Goaltending
+4.1.2. Goaltending
 
-A. A play is considered goaltending, and is scored as if the quadball had gone through the hoop, if either of the following are true:
-
-i. A player within their own keeper zone, other than the keeper, touches the quadball with a part of themselves or their equipment that is extended through a hoop from the side where the quadball would exit.
-
-ii. A player within their own keeper zone, other than the keeper, touches the quadball while it is part way through a hoop with a part of themselves or their equipment that is positioned on the opposite side of the hoop from where the quadball entered.
+A. A play is considered goaltending, and is scored as if the Quadball had gone through the hoop, if either of the following are true:
+i. A player within their own keeper zone, other than the keeper, touches the Quadball with a part of themselves or their equipment that is extended through a hoop from the side where the Quadball would exit.
+ii. A player within their own keeper zone, other than the keeper, touches the Quadball while it is part way through a hoop with a part of themselves or their equipment that is positioned on the opposite side of the hoop from where the Quadball entered.
 
 **4.2. RESTARTING AFTER A GOAL**
 
-4.2.1. Dead quadball
+4.2.1. Dead Quadball
 
-After a goal is scored the quadball is dead until the Keeper Restart Procedure (see 4.2.2)  is completed.
+After a goal is scored the Quadball is dead until the Keeper Restart Procedure (see 4.2.2)  is completed.
 
-A. Any player on the formerly defending keeper’s team may carry or pass the dead quadball to the keeper in that keeper’s own keeper zone, but may not otherwise interact with the dead quadball.
+A. Any player on the formerly defending keeper’s team may carry or pass the dead Quadball to the keeper in that keeper’s own keeper zone, but may not otherwise interact with the dead Quadball.
+i. Substitutes may pass the dead Quadball to their keeper in this manner, but must always remain in the substitution area or bench while doing so.
+ii. The formerly offensive team may not pick up or otherwise intentionally interact with the dead Quadball, unless they are providing it to the keeper at the request of the formerly defending team or an official.
+B. Players shall not be penalized for playing as if the Quadball is live before the goal is confirmed.
+i. This shall not apply if the player is ruled to be acting with the intent to affect the restart of the Quadball game.
+C. If a penalty turns over a dead Quadball to the formerly offensive team, the Quadball becomes live upon the restart after the turnover.
 
-i. Substitutes may pass the dead quadball to their keeper in this manner, but must always remain in the substitution area or bench while doing so.
+⚑ *Blue Card*—Intentionally and illegally interacting with a dead Quadball
 
-ii. The formerly offensive team may not pick up or otherwise intentionally interact with the dead quadball, unless they are providing it to the keeper at the request of the formerly defending team or an official.
+4.2.2. Keeper restart
 
-B. Players shall not be penalized for playing as if the quadball is live before the goal is confirmed.
-
-i. This shall not apply if the player is ruled to be acting with the intent to affect the restart of the quadball game.
-
-C. If a penalty turns over a dead quadball to the formerly offensive team, the quadball becomes live upon the restart after the turnover.
-
-⚑ *Blue Card*—Intentionally and illegally interacting with a dead quadball 4.2.2. Keeper restart
-A. The keeper must possess the quadball in their own keeper zone to make it live if:  
-i. The quadball is touched by anyone else after the goal.
-
-ii. The quadball leaves the pitch boundaries.
-
-iii.The quadball enters the opposing team’s half.
-
-B. The referee shall pass the quadball to the keeper either at their request or if the keeper must possess the quadball in their zone and doing so would expedite the quadball restart.
-
-C. The head referee shall blow one short whistle blast after quadball play is restarted by the keeper’s possession.
+A. The keeper must possess the Quadball in their own keeper zone to make it live if:  
+i. The Quadball is touched by anyone else after the goal.
+ii. The Quadball leaves the pitch boundaries.
+iii.The Quadball enters the opposing team’s half.
+B. The referee shall pass the Quadball to the keeper either at their request or if the keeper must possess the Quadball in their zone and doing so would expedite the Quadball restart.
+C. The head referee shall blow one short whistle blast after Quadball play is restarted by the keeper’s possession.
 
 **4.3. BROKEN OR FALLEN HOOPS**
 
@@ -1198,17 +949,11 @@ A hoop that has become dislodged cannot be scored upon.
 
 A. A hoop is dislodged if:  
 i. The hoop loop touches the ground or the hoop otherwise comes to a rest even temporarily in a non-upright position, including on top of a player.
-
 ii. The hoop loop detaches from the pole, or the pole detaches from the base.
-
 iii. Any part of the hoop breaks such that it cannot serve its function.
-
-B. If a hoop is in the process of being dislodged when the quadball passes completely through it, the goal is good.
-
+B. If a hoop is in the process of being dislodged when the Quadball passes completely through it, the goal is good.
 C. A hoop that is turned so that the hoop loop is no longer in line with the goal line is not dislodged and may be scored upon.
-
 i. Turned hoops should be returned to the proper position once active play leaves the area.
-
 D. A dislodged hoop must be fixed and returned to its correct position before a goal may again be scored on that hoop.
 
 4.3.2. Dislodged hoop procedure
@@ -1217,73 +962,53 @@ When a hoop is dislodged, play generally continues.
 
 A. If a hoop is dislodged and any of the following occur, play must be stopped.
 i. A broken hoop poses a threat to the safety of the players.
-
 ii. A broken hoop requires extra parts or an unusually long time to fix and the team defending that broken hoop is the offensive team.
-
 a. The head referee may wait for a lull in play to initiate this stoppage.
-
 iii. All three hoops in the same keeper zone are dislodged.
-
 B. Any dislodged hoops shall be reset to their proper positions during any stoppage.
-
 C. If play is not stopped for a dislodged hoop, it shall be fixed while play has moved away from the area.
-
-D. The quadball carrier may request play be stopped to fix an opponent’s dislodged hoop if the quadball carrier is in their own half of the player area and is not contacted by an opposing player.
+D. The Quadball carrier may request play be stopped to fix an opponent’s dislodged hoop if the Quadball carrier is in their own half of the player area and is not contacted by an opposing player.
 
 4.3.3. Dislodging, spinning, and resetting hoops
 
 A. Players may not reset their opponent’s dislodged hoops while their team is the offensive team.
-
 B. Players may not recklessly dislodge hoops.
-
 C. Players may not repeatedly dislodge hoops.  
-D. A player may not move or alter a hoop to affect whether the quadball will pass through it.
+D. A player may not move or alter a hoop to affect whether the Quadball will pass through it.
 E. The above rules do not apply in the following instances:  
 i. A hoop is unintentionally dislodged or moved by a thrown ball.
-
 ii. An offensive chaser dislodges a hoop while attempting a contested score.
-
 iii. A player dislodges or moves a hoop as a result of their own physical interaction with an opposing player.
-
 F. If a player illegally dislodges a hoop while successfully attempting a goal, that goal shall not be negated by the penalty for dislodging the hoop.
-
 G. A player may not intentionally dislodge a hoop.
 
 ⚑ *Blue Card*—Illegally resetting an opponent’s hoop
 
 ⚑ *Blue Card*—Recklessly dislodging a hoop
 
-⚑ *Blue Card*—Recklessly moving hoops in the quadball’s path
+⚑ *Blue Card*—Recklessly moving hoops in the Quadball’s path
 
 ⚑ *Yellow Card*—Repeatedly dislodging a hoop
 
 ⚑ *Red Card*—Intentionally dislodging a hoop
 
-⚑ *Red Card*—Intentionally moving or altering a hoop to affect whether the quadball will pass through it
+⚑ *Red Card*—Intentionally moving or altering a hoop to affect whether the Quadball will pass through it
 
- **4.4. THE FLAG CATCH**
+**4.4. THE FLAG CATCH**
 
 4.4.1. The flag catch
 
 Thirty-five points are scored for a team that caught the flag after the catch is confirmed good. and the period ends if the catch is confirmed as good.
 
 A. A flag catch is confirmed when all of the following are true:
-
 i. A seeker has detached the flag from the flag runner and holds sole possession of the flag during the instant that it is separated from the flag runner.
-
-ii. The flag was securely attached to the shorts of the flag runner before the catch.
-
-iii. The flag runner was not down at the time of the catch (See: 8.4.1. Down flag runner).
-
-iv. The seeker did not catch the flag after committing a foul resulting in a back to hoops penalty, penalty card, or ejection and the time that penalty was administered.
-
+ii. The flag was securely attached to the shorts of the flag runner before the catch.  
+iii. The flag runner was not down at the time of the catch (See: 8.4.1. Down flag runner).  
+iv. The seeker did not catch the flag after committing a foul resulting in a back to hoops penalty, penalty card, or ejection and the time that penalty was administered.  
 v. The catch did not occur between a foul resulting in a red card, a yellow card, or a turnover by any member of the scoring team and the time the penalty was administered.
-
 vi. The flag was not physically impeded by any game official or member of the catching team in a way that may have contributed to the catch.
-
 a. Physical impediments caused solely by the actions listed under 6.3.1.A. (Seeker interactions with the flag runner) shall be ignored, if those actions were executed legally by the seeker.
 vii. The seeker was not knocked out at the time of the catch.
-
 viii. The seekers did not simultaneously remove the flag from the flag runner.
 ix. Play was not stopped when the flag was caught.
 
@@ -1298,15 +1023,10 @@ B. If the catch is confirmed, the catching team is awarded thirty-five points an
 4.5.1. Closely timed plays
 
 A. When a score and either a foul by the scoring team or another valid score by either team occur in quick succession, the head referee must determine which happened first based on the available evidence.
-
 i. Only statements by game officials shall be treated as evidence.
-
 ii. If a valid score that would end the game occurred before the foul, the score must be counted.
-
 iii. If, and only if, there is no evidence whatsoever available as to which event occurred first, the head referee may declare the events synchronous.
-
 a. If a score-negating foul and an otherwise good score are declared synchronous, the score shall be disallowed.
-
 b. Two good scores are declared synchronous, both scores must be counted.
 
 **5\. Dodgeballs and the Knockout Effect**
@@ -1318,14 +1038,12 @@ b. Two good scores are declared synchronous, both scores must be counted.
 All players must be mounted on a broom in order to participate in play.
 
 A. To mount the broom the player must have their broom between their legs and touching some part of their body.
-
 B. The player remains mounted until one of the following occurs:
-
 i. Their broom (or arm that is holding the broom) no longer crosses the plane between the player’s legs.
-
 ii. The player loses contact with their broom.
+iii.Their broom lays flat on the ground without the player’s hand underneath it.
 
-iii.Their broom lays flat on the ground without the player’s hand underneath it. 5.1.2.Dismounting
+5.1.2. Dismounting
 
 1. If a player becomes dismounted while in play, the player is immediately knocked out and must follow the knockout procedure (see 5.3).
    i. If a player is dismounted by the illegal actions of an opponent, an official may allow the player to immediately remount and continue play. If the player does not immediately remount, then they must follow the knockout procedure.
@@ -1335,25 +1053,16 @@ iii.Their broom lays flat on the ground without the player’s hand underneath i
 5.2.1. Incurring the knockout effect
 
 A. A player is “knocked out” when either of the following occur:
-
 i. The player becomes dismounted.
-
 ii. The player is struck by an opponent’s live dodgeball.
-
 a. This includes being struck on the player’s hair, clothing, or equipment other than a game ball.
-
 b. The following players are not knocked out when struck by an opponent’s live dodgeball:
-
 1\. Protected keepers (See: 7.2.2. Keeper-specific powers).
-
 2\. Beaters with knockout immunity (See: 5.5.2. Knockout immunity).
-
 3\. Inbounding players while out-of-bounds to inbound a ball (See: 7.5.4.
-
 Inbounding procedure).  
 c. Beaters who are not immune may delay dismounting in order to attempt to catch the dodgeball that struck them, until it becomes dead (See: 5.4.3. Struck beater).
 B. Players must immediately follow the knockout procedure once knocked out (See: 5.3.1. Knockout procedure).
-
 i. Players must not willfully ignore being knocked out.
 
 ⚑ *Yellow Card*—Willfully ignoring being knocked out
@@ -1363,16 +1072,11 @@ i. Players must not willfully ignore being knocked out.
 In order to cause the knockout effect, a dodgeball must be live.
 
 A. To be live, a dodgeball must:
-
-i. Either be thrown, kicked, or otherwise intentionally propelled by a beater or be intentionally dropped by a beater when not required to be dropped by a rule.
-
+i. Either be thrown, kicked, or otherwise intentionally propelled by a beater or be intentionally dropped by a beater when not required to be dropped by a rule.  
 ii. Must not have been in contact with an opponent at the moment it was released, or otherwise finished being propelled.
 iii. Must not have touched the ground or any hoop base, become out-of-bounds, or been caught.
-
 a. In these cases, the dodgeball is live until the action indicated has occurred.
-
-iv. Must not have been stripped by an opponent’s body, another dodgeball, or the quadball.
-
+iv. Must not have been stripped by an opponent’s body, another dodgeball, or the Quadball.
 B. Any dodgeball that is not live is considered dead.
 
 5.2.3. Held dodgeballs
@@ -1393,21 +1097,13 @@ If a player is struck by a dodgeball which cannot knock them out, the referee sh
 
 A. Players struck by a dodgeball should dismount and begin the knockout procedure immediately (unless the player is a struck beater attempting to catch the live dodgeball).
 i. If a player has been struck by a dodgeball, and is not called “safe” or “clear” by an official, then that player is subject to the knockout effect.
-
 B. If the player dismounts due to being struck by a dodgeball but is then called “safe” or “clear,” the player may remount at an official’s direction and continue play.
-
 i. If the player does not quickly remount at the official’s direction, that player must instead complete the knockout procedure.
-
 C. If the player fails to begin the knockout procedure immediately, a penalty may apply.
-
 i. If the final call on that dodgeball hit is “safe” or “clear,” play shall continue and no penalty shall apply.
-
 ii. If an official called the player “safe” or “clear” but the call changes to “beat,” the player shall receive no penalty for failing to dismount as long as the player responds to the “beat” call by dismounting.
-
 iii. If no referee called the player “safe” or “clear” and the final call on that dodgeball hit is “beat,” the player shall be considered to be willfully ignoring being knocked out.
-
 a. If the official believes that the player was unaware that the dodgeball touched them, then the official may treat it as an unnoticed knockout (See: 5.3.4. Unnoticed knockout).
-
 1\. A player’s belief that they are otherwise safe from the dodgeball shall not be taken into consideration when determining any appropriate penalty.
 
 ⚑ *Yellow Card*—Willfully ignoring being knocked out
@@ -1417,15 +1113,10 @@ a. If the official believes that the player was unaware that the dodgeball touch
 Propelled live dodgeballs whose first contact is with the head or neck of an opponent are considered headbeats.
 
 A. A headbeat is illegal unless:
-
 a. The struck player changes speed or direction into the path of the dodgeball after the possessing beater has begun the final motion of their knockout attempt.
-
 i. This includes moving a part of the body if that action moves their head into the path of the dodgeball.
-
 b. The headbeat only grazes the head or makes contact with negligible force.
-
 c. The headbeat was propelled when the opposing player was at least 6 yards away.
-
 B. A player who is struck by an illegal headbeat will be instructed to remount by an official.
 
 ⚑ *Yellow Card*—Illegal Headbeat
@@ -1434,41 +1125,33 @@ B. A player who is struck by an illegal headbeat will be instructed to remount b
 
 **5.3. KNOCKOUT PROCEDURE**
 
-5.3.1.Knockout procedure
+5.3.1. Knockout procedure
 
 Knocked out players remain knocked out until they complete the following procedure, in order:
 
 A. Immediately give up possession of any ball by dropping it and dismounting their broom.
 i. The player must not pass, toss, roll, or kick the ball, unless completing a natural motion already begun (See: 5.6.2. Natural motion conditions).
-
 ii. A dodgeball dropped in this way is dead.
-
-iii.A quadball dropped in this way is unscorable.
-
+iii.A Quadball dropped in this way is unscorable.
 B. Touch the center (6ft) hoop.
-
 i. The player must touch either the hoop loop or pole, not the hoop base.
 ii. The player must touch the hoop with some part of their body, not with their broom.
 iii.If the 6ft hoop is dislodged, a player may tag in at any part of it still attached to the hoop base, including the base itself.
-
 C. Remount their broom before leaving the vicinity of the hoops.
 
 ⚑ *Repeat Procedure*—Violating the knockout procedure
 
-⚑ *Yellow Card*—Intentionally or repeatedly violating the knockout procedure 5.3.2. Knocked out players
+⚑ *Yellow Card*—Intentionally or repeatedly violating the knockout procedure
+
+5.3.2. Knocked out players
 
 Knocked out players must not interact with play and must therefore:
 
 A. Not make any plays.
-
 B. Not propel or otherwise play any game ball other than in cases of natural motion (See: 5.6.2. Natural motion conditions).
-
 i. If the player illegally propels a ball immediately after the player is knocked out, it shall be adjudicated as a natural motion violation.
-
 C. Drop any balls that are currently possessed.
-
 D. Actively avoid interactions with other players.
-
 E. Not substitute out while play is not stopped.
 
 ⚑ *Blue Card*—Illegally interacting with play while knocked out
@@ -1479,9 +1162,7 @@ A. A knocked out player may not initiate any physical contact, other than incide
 i. If a player is in the final motion of making contact before becoming knocked out by a dodgeball, they may complete that motion if it could not reasonably be stopped.
 a. The player must immediately act to cease that contact (5.3.3.B.)
 b. If a player takes multiple steps between being knocked out and initiating contact with an opponent, then that contact is illegal.
-
 ii. While knocked out, it is illegal for a player to initiate a push, body block, charge, or wrap.
-
 B. If a knocked out player is already in contact with an opponent before becoming knocked out, they must immediately act to cease contact safely and with as little effect to the opponent as reasonably possible.
 
 ⚑ *Yellow Card*—Illegal contact while knocked out
@@ -1502,14 +1183,16 @@ ii. If a player propels a ball in violation of the natural motion rules immediat
 
 ⚑ *Blue Card*—Affecting play while unknowingly knocked out
 
-**5.4. REDIRECTING AND CATCHING LIVE DODGEBALLS** 5.4.1. Blocking and batting balls
+**5.4. REDIRECTING AND CATCHING LIVE DODGEBALLS**
+
+5.4.1. Blocking and batting balls
 
 A player in possession of a ball may attempt to block or bat an incoming live dodgeball with the ball in their possession:
 
 A. The held ball may be used to bat or otherwise propel the incoming dodgeball.
 B. A block or bat does not affect whether the dodgeball is live.  
-C. A dead quadball may not be used to intentionally interact with a dodgeball.
-D. Players may not intentionally use a held ball to interact with a quadball, a dead dodgeball, or a dodgeball that was made live by a teammate.
+C. A dead Quadball may not be used to intentionally interact with a dodgeball.
+D. Players may not intentionally use a held ball to interact with a Quadball, a dead dodgeball, or a dodgeball that was made live by a teammate.
 i. If the referee determines that the player was not reasonably aware that the dodgeball was either dead or made live by their own teammate, and the play was otherwise legal, the player shall not be penalized.
 
 ⚑ *Blue Card*—Illegal bat
@@ -1520,7 +1203,7 @@ Any attempt to swat or otherwise intentionally propel a live dodgeball, other th
 
 A. Beaters and seekers may generally swat or make any attempt to alter the course of a live dodgeball, under the below conditions:  
 i. A struck beater may not swat any dodgeball, except as part of an attempt to catch it (See: 5.4.3. Struck beater).
- ii. A seeker may not begin the swatting motion of their swat after they are subject to the knockout effect. Judging a swatting motion will follow rules of natural motion.
+ii. A seeker may not begin the swatting motion of their swat after they are subject to the knockout effect. Judging a swatting motion will follow rules of natural motion.
 
 1. After a swat, if the first contact of the propelled ball is out-of-bounds (including a player), the swat shall be intentionally propelling a ball out-of-bounds..  
    iii. A beater who is in possession of a dodgeball may not swat another dodgeball.
@@ -1529,7 +1212,9 @@ i. A struck beater may not swat any dodgeball, except as part of an attempt to c
 
    iv. If the dodgeball was already live, it remains live for the original team.
 
-a. If it was live for the opposing team, the swatting beater becomes a struck beater. ⚑ *Dodgeball Turnover* — Illegal dodgeball swat
+a. If it was live for the opposing team, the swatting beater becomes a struck beater.
+
+⚑ *Dodgeball Turnover*—Illegal dodgeball swat
 
 ⚑ *Blue Card*—Propelling a ball with the intent of sending any ball out-of-bounds
 
@@ -1538,24 +1223,15 @@ a. If it was live for the opposing team, the swatting beater becomes a struck be
 A non-immune beater is a struck beater, rather than knocked out, from the time they are hit by an opponent’s live dodgeball until that dodgeball becomes dead. A struck beater is subject to the following restrictions:
 
 A. A struck beater is unable to make a dodgeball live.
-
 B. A struck beater must immediately drop any dodgeball which they are holding.
-
 i. The player must not pass, toss, roll, or kick the dodgeball, unless completing a natural motion already begun (See: 5.6.2. Natural motion conditions).
 ii. Failure to release the dodgeball is a struck beater violation.
-
 C. A struck beater must either attempt to catch the live dodgeball that struck them or immediately follow the knockout procedure after dropping any dodgeball formerly in their possession.
-
 i. A beater is allowed to propel a dodgeball farther into the air in the process of attempting a catch.
-
 ii. After the initial hit, any intentional attempt by the struck beater to change the direction of any dodgeball, in any manner, other than to attempt to catch the dodgeball that struck them is a struck beater violation.
-
 D. If a struck beater takes any actions other than those outlined in 5.4.3.A-C., they are subject to the same rules and penalties for those actions as a knocked out player.
-
 E. If a struck beater catches the dodgeball before it otherwise becomes dead, that beater is no longer subject to the knockout effect.
-
 i. A struck beater still incurs the knockout effect from all live dodgeballs propelled by opponents which hit them while they are a struck beater unless they also catch those dodgeballs before they become dead.
-
 F. A struck beater who fails to catch the dodgeball before it becomes dead is knocked out and must immediately begin the knockout procedure.
 
 ⚑ *Blue Card*—Struck beater violation
@@ -1568,19 +1244,15 @@ When one team has possession of two dodgeballs and the remaining dodgeball is un
 
 A. This ball remains the third dodgeball until one of the following occurs:
 i. The possessing team makes a reasonable beat attempt.
-
-ii. The possessing team loses a dodgeball due to the direct actions of an opposing player. iii.The team without a dodgeball gains possession of any dodgeball.
-
-B. Players on the possessing team may not commit third dodgeball interference. i. It is third dodgeball interference if either:
+ii. The possessing team loses a dodgeball due to the direct actions of an opposing player.  
+iii.The team without a dodgeball gains possession of any dodgeball.
+B. Players on the possessing team may not commit third dodgeball interference.
+i. It is third dodgeball interference if either:
 a. A player from the possessing team takes possession of or in any way attempts to move the third dodgeball.
-b. A player from the possessing team prevents or delays the other team from getting to the third dodgeball by continually or intentionally moving into their path.
-
+b. A player from the possessing team prevents or delays the other team from getting to the third dodgeball by continually or intentionally moving into their path.  
 ii. The two dodgeballs turned over for third dodgeball interference are chosen at the referee’s discretion, but should:
-
 a. Generally include the third dodgeball.
-
-b. Ensure that the player who violated the rule doesn’t keep a dodgeball.
-
+b. Ensure that the player who violated the rule doesn’t keep a dodgeball.  
 c. Be relevant to active play.
 
 ⚑ *Back to Hoops and Double Dodgeball Turnover*—Third dodgeball interference
@@ -1590,20 +1262,14 @@ c. Be relevant to active play.
 When there is a third dodgeball, a beater on the team with no dodgeballs may raise a hand above their shoulder, fist closed, to claim immunity from being knocked out by live dodgeballs.
 
 A. It is an improper immunity claim if a player claims immunity when the opposing team has two dodgeballs, but:
-
 i. The remaining dodgeball is still live.
-
 ii. The third dodgeball was released by that player without attempting to incur the knockout effect.
-
 iii.Their team’s other beater is also claiming immunity.
-
 a. If both beaters on a team attempt to claim immunity, one of them must put their fist back down to avoid a penalty. If neither beater puts their fist down, only one shall be penalized.
-
 B. An immunity claim is invalid if a beater claims immunity when there is no third dodgeball, unless two dodgeballs are possessed by the opposing team and the remaining dodgeball was made live by the opposing team.
-
 i. If the claim was unintentionally invalid, and did not affect play, the player may instead be penalized for a minor invalid immunity claim.
-
-C. An immune beater is not immune to dodgeballs made live before immunity was claimed. D. If an opponent begins the final singular natural motion on an attempted knockout before the immune beater loses their immunity, the formerly immune beater cannot be knocked out by that attempt.
+C. An immune beater is not immune to dodgeballs made live before immunity was claimed.
+D. If an opponent begins the final singular natural motion on an attempted knockout before the immune beater loses their immunity, the formerly immune beater cannot be knocked out by that attempt.
 
 ⚑ *Back to Hoops*—Improper immunity claim
 
@@ -1616,11 +1282,8 @@ C. An immune beater is not immune to dodgeballs made live before immunity was cl
 While a beater is claiming immunity, they are subject to the following restrictions:
 
 A. The beater must directly and immediately proceed to gain possession of the third dodgeball.
-
 i. The beater may approach the ball from any direction they prefer.
-
 ii. Taking any other action while immune is an immunity violation.
-
 iii.The beater loses their immunity once they gain possession of the dodgeball.  
 a. The beater remains immune while attempting to pick up the third dodgeball, even if their fist is lowered in doing so.  
 B. Once a beater claims immunity, they may not voluntarily give up their immunity and must continue pursuing the dodgeball unless one of the following exceptions occur:  
@@ -1635,7 +1298,7 @@ i. Failure to give up immunity due to an exception is an immunity violation.
 
 5.6.1. Natural motion
 
-When a player is knocked out or becomes a struck beater, that player may finish one singular natural motion that they had already started if that motrion cannot be reasonably stopped.
+When a player is knocked out or becomes a struck beater, that player may finish one singular natural motion that they had already started if that motion cannot be reasonably stopped.
 
 5.6.2. Natural motion conditions
 
@@ -1654,219 +1317,181 @@ D. For the purpose of this rule, a struck beater is treated as knocked out.
 
 ⚑ *Yellow Card*—Egregious natural motion violation
 
-5.6.3.Unscorable quadball
+5.6.3. Unscorable Quadball
 
-If a player is touching the quadball when they become knocked out and releases it or otherwise propels it according to natural motion, the quadball becomes an unscorable quadball.
+If a player is touching the Quadball when they become knocked out and releases it or otherwise propels it according to natural motion, the Quadball becomes an unscorable Quadball.
 
-A. An unscorable quadball cannot result in a goal.
-
-B. The quadball remains live and play continues normally.
-
-C. The quadball becomes scorable again once either of the following occur:
-
-i. It is touched by an eligible chaser teammate of the player who released it.
-
+A. An unscorable Quadball cannot result in a goal.
+B. The Quadball remains live and play continues normally.
+C. The Quadball becomes scorable again once either of the following occur:  
+i. It is touched by an eligible chaser teammate of the player who released it.  
 ii. It is possessed by any player.
 
 **6\. Physical Contact and Interactions**
 
-**6.1. GENERAL INTERACTIONS**
+**6.1. DEFINITIONS**
 
-6.1.1. Illegal physical contact
+**Contact** \- Any situation in which two (or more) players of opposing teams are physically touching.
 
-The following forms of physical contact are always illegal unless the contact is determined by the referee to have been incidental:
+**Incidental Contact** \- Contact that occurs for a short duration and does not affect the overall state of the game. Incidental contact should **not** transfer enough force between players to move a player from their current position.
 
-A. Intentionally contacting a player of another position
+**Forceful Contact** \-
 
-B. Intentionally contacting the flag runner, except for seekers.
+**Wrap** \- Contact that is indicated by a player using their arm or arms to encircle any part of an opponent, usually in an effort to reduce the mobility of an opponent.
 
-C. Kicking an opponent.
+**Tackle** \- Contact that is indicated by a player restricting the mobility of an opponent such that the opponent is brought to the ground. It is usually preceded by a wrap.
 
-D. Making forcible contact using the crown of the head.
+**Push** \- Contact that is indicated by extending an arm that is in contact with an opponent.
 
-E. Making contact with an opponent’s head, neck, or groin.
+**Charge** \- Contact that is indicated by a player with momentum intentionally initiating forceful contact without attempting a wrap or tackle.
 
-F. Initiating contact or exerting force at or below the knees of an opponent.
+**Body Blocking** \- Contact that is initiatedindicated by non-forceful contact that escalates into forceful contact.
 
-G. Tripping an opponent.
+**Bumping** \- a player using their hips and shoulders to gain a more advantageous position than their opponent while the two are moving in the same direction.
 
-H. Sliding or diving into an opponent.
+**Stationary** \- A player whose feet are set and who has no horizontal momentum.
 
-I. Jumping, leaping, or climbing onto any player.
+**“From Behind”** \- A term for determining if some contact is legal. The frontal plane of a player is defined by the plane that bisectsestimates the front of the torso. Contact is considered “from behind” if the navel of the initiating player is behind the frontal plane of the receiving player when contact is initiated.
 
-J. Intentionally lifting or continuing to hold another player off the ground, either an opponent or a teammate.
+**Pick** \- Contact that is indicated by a player planting themselves in the path of an opponent, usually in an effort to force the opponent into a less advantageous position.
 
-K. Grabbing the broom or clothing of an opponent.
+**Reckless** \- Any action that does not take the safety of players into account.
 
-L. Attempting to steal the quadball from, contacting, or otherwise interacting with an opposing protected keeper who is in sole possession of the quadball (See: 7.2.2. Keeper-specific powers).
+**Egregious** \- Excessive or intentional poor sportsmanship such that it compromises that safety of players
 
-⚑ *Standard Contact Penalty*—Illegal physical contact
+**6.2 STANDARD CONTACT PENALTIES**
 
-6.1.2. Picks
+6.2.1 Contact Fouls
 
-When a player gets to a legal position on the field in the path of an opposing player for the purpose of slowing them down or making them change direction without initially engaging in a push, charge, or wrap it is considered a pick.
+Fouls listed as a “Contact Foul” have the following nuances:
 
-A. A pick is considered set once the picking player positions themselves in the anticipated path of their opponent.
-B. All picks are subject to the following rules and restrictions, regardless of whether either player involved has a ball:
-i. It is illegal to pick a player of another position.
-ii. It is illegal to extend a single point of one’s body during a pick, such as the elbow or point of the shoulder, causing the picked player to run into it.
-iii.If the player initiates contact rather than being run into, this is not considered a pick. iv. The player’s feet do not need to be set in order for the play to be legal.
-a. If the would-be picking player is moving directly at their opponent during the pick and contact is forceful, the play will instead be considered a charge.
-C. If neither player has possession of a ball, the following restrictions apply in addition to the general pick restrictions:
-i. A pick set from behind must initially give the picked player a step of room to stop and/or change direction.
-ii. A pick set on a moving player must be set with enough time for the player to stop and/or change direction, as determined by the picked player’s speed at the time that the pick is set, not by their actual awareness of the pick.
-iii.The picked player must make every attempt to avoid charging the picking player, either by slowing down so that the initiation of contact is non-forceful or by avoiding the opposing player entirely.
-a. Incidental contact shall not be penalized.
-D. If a picked player reacts to the pick by changing their path, any motion to move into the new path shall be considered a new pick.
-E. A player charging through an illegal pick shall not be penalized provided they do not increase their force in response to the pick.
+A. The default penalty for a contact foul is a yellow card.
+B. Incidental contact may receive a back to hoops penalty instead of a yellow card.
+C. Violent, reckless or egregious fouls receive a red card instead of a yellow card.
 
-⚑ *Standard Contact Penalty*—Illegal pick
+6.2.2. Defining “from behind”
 
-⚑ *Standard Contact Penalty*—Illegally charging a picking player
+A. In order for contact to not be considered “from behind”, the navel of the contacting player must be in front of the frontal plane of the contacted player. The [frontal plane](https://training.seer.cancer.gov/anatomy/body/terminology.html\#:\~:text=Coronal%20Plane%20(Frontal%20Plane)) is the plane that bisects the body into a front and back half.  
+i. As long as this occurs, the actual first point of contact may be made onto the front or the back of the contacted player.  
+B. Once contact has been legally established, a player may continue contact even when it results in contact from behind, so long as contact is not broken.  
+i. This includes changing the type of contact.  
+C. Contact is not considered “from behind” when a player leads with their back or spins or turns just prior to contact.
 
-6.1.3. Kicking a contested ball
+**6.3. CONTACT LEGALITIES**
 
-It is generally legal to kick a ball that an opponent is attempting to play. The following rules apply:
+Some forms of contact are always illegal:
 
-A. A player must not kick any opponent.
+⚑ *Contact Foul*—Making contact with an opponent’s head, neck, or groin.
 
-B. Kicking a ball that an opponent is touching with their hand is a dangerous kick.
-C. If the referee determines that a player’s kick would have been illegal if the opponent had not reacted to the kick by actively getting out of the way, the kick must be ruled a dangerous kick.
+⚑ *Contact Foul*—Initiating contact or exerting force at or below the knees of an opponent.
 
-D. If the referee determines that the kicked or nearly kicked player was at fault for being kicked or nearly kicked because they moved into the way of the kick late, there is no foul under this rule.
+⚑ *Contact Foul*—Making forcible contact using the crown of the head.
 
-⚑ *Yellow Card*—Dangerous kick
+⚑ *Contact Foul*—Kicking, tripping, sliding into, or diving into an opponent.
 
-⚑ *Yellow Card*—Kicking an opponent
+⚑ *Contact Foul*—Jumping or climbing onto any player.
 
-⚑ *Red Card*—Violent or egregious illegal kick
+⚑ *Contact Foul*—Lifting or continuing to hold any player off the ground.
 
-6.1.4. Sliding and diving
+⚑ *Contact Foul*—Contacting a player of another position.
 
-Players may slide or dive. However, it is illegal to:
+⚑ *Contact Foul*—Contacting another player’s broom.
 
-A. Slide or dive into an opponent.
+⚑ *Contact Foul*—Intentionally contacting the flag runner, except for seekers.
 
-B. Slide or dive toward an opponent or into the path of an opponent in a way that forces the opponent to change their movement to avoid the slide or dive
-i. The opponent does not count as forced if they have to take two or more steps before they would contact the sliding or diving player.
-a. This is determined once the slide intersects their path, not when the slide or dive is initiated.
+Some forms of contact are illegal when initiated from behind:
 
-⚑ *Standard Contact Penalty*—Illegal slide or dive
+⚑ *Contact Foul*—Charging from behind
 
-6.1.5. Hurdling
+⚑ *Contact Foul*—Pushing from behind
 
-Jumping or diving fully over any person is considered hurdling.
+⚑ *Contact Foul*—Wrapping with momentum from behind
 
-A. It is illegal for a player to hurdle or attempt to hurdle any person who is not contacting the ground with any part of their body other than their feet.
+6.3.1 Wrapping
 
-i. If the hurdling player was forced, by the sudden movement of the hurdled person, to make an illegal hurdle to avoid more dangerous contact, the hurdle shall not be penalized.
+A wrap consists of encircling any part of an opponent with an arm or arms. The arm includes the hand.
 
-B. If a player jumps so as to reach over or past another person, including but not limited to attempting to make a throw or catch the flag, and they come back down on the same side of the would-be hurdled person, this shall not be ruled a hurdle.
+A. It is illegal to wrap an opponent who is not in possession of a ball.  
+B. If a player in possession of a ball is being or has been wrapped and releases possession of the ball:  
+i. The referee must shout “ball out” to signal to the wrapping player that the ball has been released.  
+ii. Once aware of the ball being released, the wrapping player cannot continue contact beyond previously created momentum.  
+C. A grab is a wrap that uses the hand to encircle any part of an opponent  
+i. It is illegal to pullgrab an opponent’s clothing.
+D. A yank is an illegal form of contact wherein a wrap or grab is applied to an opposing player’s arm and sudden, rapid force is applied.  
+E. It is illegal to wrap an opponent from behind with momentum.  
+ i. If the wrapping player is stationary, a wrap may be initiated from behind.
 
-i. If a player attempts to jump or dive fully over any person, but fails to do so, this shall be ruled as an attempted hurdle.
+⚑ *Contact Foul*—Wrapping an opponent who is not in possession of a ball
 
-C. If a player jumps without attempting a hurdle but falls over another person due to being contacted while in the air, it shall not be ruled as a hurdle.
+⚑ *Contact Foul*—Grabbing an opponent’s clothing
 
-⚑ *Yellow Card*—Illegally hurdling or attempting to hurdle any person
+⚑ *Contact Foul*—Yanking an opponent
 
-⚑ *Red Card*—Violently or egregiously illegally hurdling any person
+⚑ *Contact Foul*—Wrapping with momentum from behind
 
-6.1.6. Contact through a teammate
+6.3.2 Tackling
 
-A. It is illegal for any player to primarily contact a teammate with the intent of causing or otherwise affecting that teammate’s physical interaction with any opponent.  
-B. Incidental or secondary contact through a teammate shall not be penalized.
+A tackle is the act bringing a player to the ground.
 
-⚑ *Standard Contact Penalty*—Illegal contact through a teammate
+A. It is the tackling player's responsibility to attempt to ensure the safety of the player being tackled. Reckless or dangerous tackles are illegal.  
+ i. Whip tackles, wherein the tackling player slings the tackled player’s body around with significant momentum in an uncontrolled manner.
 
-6.1.7. Helpless receiver
+1. Whip tackles where players are lifted and/or slammed are dangerous
 
-A receiver who is in the process of catching a ball that is in the air is considered a helpless receiver.
+⚑ *Contact Foul*—Whip Tackle
 
-A. A receiver does not have to leave the ground in order to be considered a helpless receiver. B. A receiver remains helpless until they establish their footing on the ground after either gaining sole and complete possession of the ball or they are no longer attempting to catch the ball.
+⚑ *Red Card*—Reckless or dangerous tackle
 
-C. A helpless receiver may not be pushed, wrapped, charged, or tackled by any opponent.
+6.3.3. Pushing
 
-D. A player who the referee determines to have thrown a ball to themselves in an attempt to draw a card for illegal contact with a helpless receiver shall not be considered a helpless receiver on that throw.
+A push consists of applying force upon an opponent with an extended arm, be it extended during or before the initiation of contact.
 
-E. It is not illegally contacting this player if contact was incidental in an attempt to play the ball at the discretion of the referee.
+A. Only one arm may be used to push.  
+i. Laying a hand on another player without applying force is not considered a push.
 
-⚑ *Yellow Card*—Pushing or wrapping a helpless receiver
+B. It is illegal to push using the point of an elbow.
+
+C. It is illegal to push from behind
+
+⚑ *Contact Foul*—Pushing with two arms or the point of an elbow
+
+⚑ *Contact Foul*—Pushing from behind
+
+6.3.4. Charging
+
+A charge consists of forcefully initiating contact with an opponent without attempting to wrap or tackle.
+
+A. It is illegal to charge from behind  
+B. It is illegal to charge an opponent when neither the player nor their opponent have a ball.  
+C. It is illegal to initiate a charge using a single point of the body, such as leading with the point of a shoulder or elbow.  
+i. Side by side point-of-shoulder to point-of-shoulder contact is allowed.  
+D. It is illegal for the charging player’s feet to leave the ground while executing a charge in a manner that they spring forward and upward into their opponent.
+E. It is illegal to charge a stationary opponent  
+i. If the stationary player has not been stationary long enough for the charging player to adjust their movement, that charging player will not be penalized.
+
+⚑ *Contact Foul*—Charging from behind
+
+⚑ *Contact Foul*—Charging when no one has a ball
+
+⚑ *Contact Foul*—Initiating a charge with a single point
+
+⚑ *Contact Foul*—Initiating a charge by leaving the groundLeaving the ground during a charge
+
+⚑ *Contact Foul*—Charging a stationary opponent
+
+6.3.5. Helpless receiver
+
+A receiver who is in the process of catching a ball that is in the air is considered helpless. A player does not have to leave the ground in order to be considered a helpless receiver. A receiver remains helpless until they establish their footing on the ground and have time to brace for contact.
+
+A. A helpless receiver may not be pushed, wrapped, charged, or tackled by any opponent.
+
+B. A player who the referee determines to have thrown a ball to themselves in an attempt to draw a card for illegal contact with a helpless receiver shall not be considered a helpless receiver on that throw.
+
+⚑ *Contact Foul*—Pushing or wrapping a helpless receiver
 
 ⚑ *Red Card*—Charging or tackling a helpless receiver
 
-6.1.8. Stealing
-
-A steal consists of a player’s attempt to extract a ball from an opponent by either stripping or poking it loose.
-
-A. A player may attempt to steal from an opponent while wrapping them.
-B. A player must not wind up or swing at the ball in an attempt to punch it loose.
-C. During a steal attempt, only for the purposes of contact between the stealing player and the player being stolen from, the player being stolen from is considered to have sole possession until they lose direct control of the ball.
-
-⚑ *Standard Contact Penalty*—Illegal attempt to steal
-
-6.1.9. Initial point of contact
-
-When pushing, body blocking, charging, or wrapping, a player must not make initial contact with an opponent from behind (except in cases of 6.1.10).
-
-A. The contact must be initiated from the front of the opponent’s torso.  
-i. The front of the torso is defined as forward of the frontal plane of a person.
-ii. To be considered to be in front of the opponent, the navel of the player initiating contact must be in front of this plane when contact is initiated.
-iii.As long as the body of the contacting player is positioned in this manner, the actual point of contact may occur at any legal part of the opponent’s torso, arms, or legs above the knee.
-B. Once contact has been legally established, a player may continue contact even when it results in contact from behind, so long as contact is not broken.
-i. This includes changing the type of contact.
-C. If a player initiates contact by leading with their back, the opposing player may continue the contact and there is no foul.
-D. If the contacting player has both feet planted and no substantial forward momentum, they may initiate contact with non-forceful wraps or body blocks from behind.
-i. Substantial forward momentum is defined as if, with feet planted below their shoulders, the player would fall over.
-ii. The contacting player can lean forward to initiate contact.
-iii. The contacting player may adjust their feet after stopping their momentum, but they must remain in the same location on the pitch.
-E. If a player spins or turns just prior to contact, causing the opposing player to initiate contact from behind, this contact is considered legal.
-
-⚑ *Standard Contact Penalty*—Illegal contact from behind
-
-6.1.10. Limited contact from behind
-
-A. It is legal to place a hand or hands on an opponent from behind without applying force.  
-i. This includes using an arm, without pushing, to prevent an opponent from moving toward oneself.
-
-B. Limited contact from behind is allowed in the following circumstances: i. Jostling for position.
-
-ii. During an attempt to steal.
-
-iii. The wrapped player is stationary or leaning forward.
-
-C. Contact initiated from behind under this rule does not allow a player to engage in the contacts listed in 6.1.9.
-
-6.1.11. Adjusting illegal contact
-
-A. A player who is forced to make illegal contact on an opposing player due to the direct actions of the opposing player will not be penalized if they act immediately to readjust the contact to a legal position or discontinue the contact.  
-i. The player’s readjustment must not use or further the illegal contact.
-
-ii. If the player has enough time to adjust to a legal position prior to initiating contact, they must do so.
-
-6.1.12. Playing recklessly
-
-It is illegal to play recklessly. This includes playing with complete disregard for danger to others.
-
- ⚑ *Yellow Card*—Playing recklessly
-
-⚑ *Red Card*—Playing egregiously recklessly
-
-6.1.13. Egregious contact
-
-Particularly egregious illegal contact is prohibited. The following are always egregiously illegal contact:
-
-A. Making contact using excessive force.
-i. Using excessive force is defined as when a player both exceeds by far the necessary use of force to complete the action initiated and as a result is in danger of injuring an opponent.
-B. Deliberately injuring or attempting to deliberately injure any person by using one’s body or any equipment including the balls.
-C. Striking or attempting to strike another person including but not limited to intentionally kneeing, elbowing, or headbutting an opponent.
-D. Intentionally physically contacting another person’s head, neck, or groin. E. Intentionally physically contacting an official other than the flag runner.
-
-⚑ *Ejection*—Egregiously illegal contact against a teammate
-
-⚑ *Red Card*—Egregiously illegal contact against an opponent, spectator, official, or event staff
-
-**6.2. SPECIFIC CONTACT**
-6.2.1. Body blocking
+6.3.6. Body blocking
 
 A body block consists of applying force to an opponent using body parts other than arms or hands not pinned to the torso, where any significant force of the contact is applied after non-forceful contact has already been established by the blocking player’s aforementioned body parts.
 
@@ -1874,101 +1499,147 @@ A. It is illegal to body block using the head, or feet.
 
 B. It is illegal to extend the point of the elbow or knee into an opponent during a body block.
 
-⚑ *Standard Contact Penalty*—Illegal body block
+⚑ *Contact Foul*—Illegal body block
 
-6.2.2. Pushing
+6.3.7. Picking
 
-A push consists of applying force upon an opponent with an extended arm, be it extended during or before the initiation of contact.
+When a player places themselves in the path of an opponent, usually in an effort to force the opponent into a less advantageous position, without initially engaging in a push, charge, tackle, or wrap it is considered a pick.
 
-A. Only one arm may be used to push.
+A. It is illegal to pick a player of another position.
+B. It is illegal to extend a single point of one’s body during a pick, such as the elbow or point of the shoulder, causing the picked player to run into it.
+C. A pick set from behind must give the picked player time to brace for contact.  
+D. A pick set on a moving player must be set with enough time for the player to stop and/or change direction, as determined by the picked player’s speed at the time that the pick is set, not by their actual awareness of the pick.  
+i. If neither player has possession of a ball, the picked player must make every attempt to avoid charging the picking player, either by slowing down so that the initiation of contact is non-forceful or by avoiding the opposing player entirely.  
+ii. A player charging through an illegal pick shall not be penalized provided they do not increase their force in response to the pick.
 
-B. It is illegal to push using the point of an elbow.
+⚑ *Contact Foul*—Picking a player of another position
 
-C. It is illegal to directly push an opponent’s broom.
+⚑ *Contact Foul*—Extending a single point of ones body during a pick
 
-i. Incidental pushing of an opponent’s broom is not illegal.
+⚑ *Contact Foul*—Setting a pick with insufficient room
 
-⚑ *Standard Contact Penalty*—Illegal push
+⚑ *Contact Foul*—Charging when no one has a ball
 
-6.2.3. Charging
+6.3.8. Stealing a ball
 
-A charge consists of forcefully initiating contact with an opponent using the torso or arms or hands pinned to the torso.
+A steal consists of a player’s attempt to extract a ball from an opponent by either stripping or poking it loose.
 
-A. It is illegal to charge an opponent who is not in complete and sole possession of a ball unless the charging player has possession of a ball.
-B. It is illegal to initiate contact during a charge so that a single point of the charging player’s body initiates the contact, such as leading with the point of a shoulder or elbow.
-i. Point-of-shoulder to point-of-shoulder contact is allowed.
-C. It is illegal for a charging player’s feet to leave the ground prior to or during a charge to spring forward and upward into their opponent.
-D. It is illegal to charge if contact was initiated from behind (See: 6.1.9. Initial point of contact).
+A. A player may not wind up or swing at the ball in an attempt to punch it loose.
+B. During a steal attempt, contact that requires possession of a ball is allowed until the player being stolen from loses direct control of the ball.  
+C. Incidental contact from behind is allowed during a steal attempt.
 
-⚑ *Standard Contact Penalty*—Illegal charge
+⚑ *Contact Foul*—Winding up or swinging in an attempt to steal
 
-6.2.4. Wrapping
+6.3.9. Kicking a ball
 
-A wrap consists of encircling any part of an opponent with an arm or arms. The arm includes the hand.
+It is generally legal to kick a ball that an opponent is attempting to play. However, the following restrictions apply:
 
-A. It is illegal to wrap an opponent who is not in possession of a ball.
-B. Once a wrap has been initiated legally, the wrapping player may continue the already initiated motion of the wrap due to momentum even if the player being wrapped releases the ball.
-i. The referee must shout “ball out” the moment the ball is released.
-ii. Once aware of the ball being released the player cannot continue contact beyond previously created momentum.
-C. A grab is a form of wrap that involves holding an opponent or any part of an opponent with a closed hand.
-i. It is illegal to grab an opponent’s broom or clothing.
-ii. It is illegal to yank any part of an opponent or pull their arm that is holding the broom during a grab.
-D. It is illegal to yank an opponent’s arm while solely wrapping that arm
-E. A tackle is the act of wrapping a player and bringing them to the ground.  
-i. It is the tackling player's responsibility to attempt to ensure the safety of the player being tackled. Reckless or dangerous tackles fall under 6.1.12.
+A. A player must not kick an opponent.
+B. Kicking a ball that an opponent is touching with their hand is illegal.
+i. If the referee determines that a player’s kick would have been illegal if the opponent had not reacted to the kick by actively getting out of the way, the kick must be ruled illegal.  
+ii. If the referee determines that the kicked or nearly kicked player was at fault for being kicked or nearly kicked because they moved into the way of the kick late, there is no foul under this rule.
 
-⚑ *Standard Contact Penalty*—Illegal wrap
+⚑ *Contact Foul*—Dangerous Kick
 
-**6.3. SEEKERS AND THE FLAG RUNNER**
+6.310. Sliding and diving
 
-6.3.1. Seeker interactions with the flag runner
+Players may slide and dive. However, it is illegal to:
 
-While seekers have the standard contact and interaction rules with regard to interactions with each other, different rules apply to interactions with the flag runner.
+A. Slide or dive into an opposing player.
 
-A. The following interactions are legal for a seeker to do to a flag runner:
-i. Body blocking the flag runner, subject to standard body block rules (See: 6.2.1. Body Blocking).
-ii. Pushing or moving the flag runner’s arms.
-iii.Reaching around or over or under the flag runner with one or both arms.
-a. Any arm reaching around the flag runner must only have incidental contact with them.
-b. It is illegal to squeeze or otherwise restrict the flag runner’s body with an arm that is reaching around them.
-B. The following interactions are illegal for a seeker to do to a flag runner:
-i. Contacting the head, neck, or groin of the flag runner.
-ii. Charging the flag runner.
-iii.Pushing the flag runner’s legs, waist, or torso.
-iv. Holding down or grabbing the flag runner’s arms.
-v. Illegally hurdling the flag runner (See: 6.1.5. Hurdling)
-vi. Tackling or attempting to tackle the flag runner.
-vii. Grabbing the flag runner’s clothing.
-a. No penalty shall apply if the seeker immediately releases the clothing.
-b. Any catch made by the offending seeker during, immediately after, or as a result of grabbing the flag runner’s clothing is invalid, even if no penalty is assessed.
-viii. Making forceful contact with the flag runner while sliding or diving.  
-a. Minor incidental contact shall not be penalized.
-ix. Making egregiously illegal contact with the flag runner (See: 6.1.13. Egregious contact).
-C. If the flag runner’s arms are held tight against or are otherwise pinned against their torso, they shall be treated as part of their torso.
+B. Slide or dive toward an opponent or into the path of an opponent in a way that forces the opponent to change their movement to avoid the slide or dive
+i. The opponent does not count as forced if they have to take two or more steps before they would contact the sliding or diving player.
+a. This is determined once the slide intersects their path, not when the slide or dive is initiated.
 
-⚑ *Standard Contact Penalty*—Illegal interaction with the flag runner
+⚑ *Contact Foul*—Sliding or diving into an opposing player
 
-**6.4. RIGHT OF WAY**
+6.3.11. Hurdling
 
-6.4.1. Interposition right of way
+Jumping or diving fully over any person is considered hurdling.
+
+A. It is illegal for a player to hurdle or attempt to hurdle any person who is standing up.
+
+i. If the hurdling player was forced, by the sudden movement of the hurdled person, to make an illegal hurdle to avoid more dangerous contact, the hurdle shall not be penalized.
+
+ii. If a player jumps without attempting a hurdle but falls over another person due to being contacted while in the air, it shall not be ruled as a hurdle.
+
+⚑ *Contact Foul*—Sliding or diving into an opposing player
+
+6.3.12. Contact through a teammate
+
+A. It is illegal for any player to primarily contact a teammate with the intent of causing or otherwise affecting that teammate’s physical interaction with any opponent.  
+B. Incidental or secondary contact through a teammate shall not be penalized.
+
+⚑ *Contact Foul*—Illegal contact through a teammate
+
+6.3.13. Egregious contact
+
+Egregious contact is illegal. The following are always egregious contact:
+
+A. Greatly exceeding the necessary force to complete an action in a way that jeopardizes the safety of an opponent.  
+B. Deliberately injuring or attempting to deliberately injure any person by using one’s body or any equipment including the balls.  
+C. Striking or attempting to strike another person including but not limited to intentionally kneeing, elbowing, or headbutting an opponent.
+D. Intentionally physically contacting another person’s head, neck, or groin.
+E. Intentionally physically contacting an official other than the flag runner.
+
+⚑ *Ejection*—Egregiously illegal contact against a teammate
+
+⚑ *Red Card*—Egregiously illegal contact against an opponent, spectator, official, or event staff
+
+**6.4. SEEKERS AND THE FLAG RUNNER**
+
+6.4.1. Seeker interactions with the flag runner
+
+While seekers have the standard contact and interaction rules with regard to each other, different rules apply to interactions with the flag runner.
+
+Some interactions are legal for a seeker to do to a flag runner:  
+A. Body blocking the flag runner, subject to standard body block rules (See: 6.3.6. Body Blocking).  
+B. Pushing or moving the flag runner’s arms with one or both arms.  
+C. Reaching around or over or under the flag runner with one or both arms.  
+i. An arm reaching around the flag runner must only have incidental contact with them.
+ii. It is illegal to squeeze or otherwise restrict the flag runner’s body with an arm that is reaching around them.  
+Some interactions are illegal for a seeker to do to a flag runner:\\
+
+⚑ *Contact Foul*—Making contact with the flag runner’s head, neck, or groin.
+
+⚑ *Contact Foul*—Charging the flag runner.
+
+⚑ *Contact Foul*—Pushing the flag runner’s legs, waist, or torso. If the flag runner’s arms are held tight against or are otherwise pinned against their torso, they shall be treated as part of their torso.
+
+⚑ *Contact Foul*—Grabbing or pinning the flag runners arms.
+
+⚑ *Contact Foul*—Tackling or attempting to tackle the flag runner.
+
+⚑ *Contact Foul*—Grabbing the flag runner’s clothing.
+
+Note: Any catch made by the offending seeker during, immediately after, or as a result of grabbing the flag runner’s clothing is invalid, even if no penalty is assessed.
+
+⚑ *Contact Foul*—Making forceful contact with the flag runner while sliding or diving.
+
+⚑ *Contact Foul*—Making egregiously illegal contact with the flag runner (See: 6.1.13. Egregious contact).
+
+**6.5. RIGHT OF WAY**
+
+6.5.1. Interposition right of way
 
 Players of different positions may not physically interact with each other’s movement. The following rules apply to these interactions:
 
 A. The following is the order of priority for right of way between two players of different positions from highest to lowest priority:
-i. A stationary player with a ball.
-ii. A stationary chaser without a ball.
-iii.A moving player with a ball.
-iv. A stationary beater or seeker without a ball.
-v. A moving player without a ball.
-B. Players with lower priority must yield to players with higher priority which may include moving out of the way.
-i. Players of lower priority who fail to yield are generally “at fault.”
-C. When two players of the same priority interact, the player whom the referee judges to be at fault for the interaction shall be deemed at fault.
+i. A stationary player with a ball.  
+ii. A stationary chaser without a ball.  
+iii.A moving player with a ball.  
+iv. A stationary beater or seeker without a ball.  
+v. A moving player without a ball.  
+vi. A knocked out player  
+B. Players with lower priority must yield to players with higher priority which may include moving out of the way.  
+i. Players of lower priority who fail to yield are generally “at fault.”  
+C. When two players of the same priority interact, the player whom the referee judges to be at fault for the interaction shall be deemed at fault.  
 i. If the players are judged to be equally at fault for the interaction, no penalty is given.
-D. If a player clearly acts with the intent of causing an illegal interpositional interaction, that player shall be deemed at fault, regardless of their priority.
-E. If a player moves with the intent of causing an opponent to enter an illegal interpositional interaction with or yield to another player of equal or higher priority, that player shall be deemed at fault rather than either of the interacting parties.
-F. If the referee determines that there was not enough time for the at fault player to reasonably react and yield, the interaction is incidental and no penalty shall be given.
-i. This provision shall not activate if the at fault player could be reasonably expected to be aware or acted to ensure they would be unaware of the opposing player with whom they interacted.
-G. Only the at fault player is penalized for an illegal interpositional interaction.
+D. If a player clearly acts with the intent of causing an illegal interpositional interaction, that player shall be deemed at fault, regardless of their priority.  
+E. If a player moves with the intent of causing an opponent to enter an illegal interpositional interaction with or yield to another player of equal or higher priority, that player shall be deemed at fault rather than either of the interacting parties.  
+F. If the referee determines that there was not enough time for the at fault player to reasonably react and yield, the interaction is incidental and no penalty shall be given.  
+i. This provision shall not activate if the at fault player could be reasonably expected to be aware or acted to ensure they would be unaware of the opposing player with whom they interacted.  
+G. Only the at fault player is penalized for an illegal interpositional interaction.  
 i. If the illegal interpositional interaction was accidental, and overall gameplay was unaffected, it is a minor illegal interpositional interaction.
 
 ⚑ *Back to Hoops*—Minor illegal interpositional interaction
@@ -1977,18 +1648,20 @@ i. If the illegal interpositional interaction was accidental, and overall gamepl
 
 ⚑ *Red Card*—Violent or egregious illegal interpositional interaction
 
-6.4.2. Interactions with knocked out players
+6.5.2. Interactions with knocked out players
 
 A. It is illegal for any player to intentionally attempt to initiate contact, continue contact, or otherwise physically interact with a knocked out opponent.
 
 i. If contact was initiated before or as the knockout occurred, reasonable allowance shall be made for the player to safely disengage from the knocked out opponent.
 
+ii. If a knocked out player initiates illegal contact with a player that is on broom, the broomed player will not be penalized for this contact.
+
 ⚑ *Yellow Card*—Illegally interacting with a knocked out opponent
 
-⚑ *Red Card*—Violently or egregiously illegally interacting with a knocked out opponent
+⚑ *Red Card*—Egregiously illegally interacting with a knocked out opponent
 
-**6.5. UNSPORTING BEHAVIOR**
-6.5.1. Unsporting conduct
+**6.6. UNSPORTING BEHAVIOR**
+6.6.1. Unsporting conduct
 
 A. Players must not engage in unsporting conduct such as taunting or rude or antagonistic behavior with players, spectators, officials, or event staff
 B. Use of explicit, vulgar, extreme, or abusive language, behavior or gestures at any time is considered unsporting conduct.
@@ -2010,7 +1683,7 @@ ii. Egregious.
 
 ⚑ *Ejection*—Egregious internal unsporting conduct
 
-6.5.2. Physical altercations
+6.6.2. Physical altercations
 
 It is illegal to engage in physical altercations with any person.
 
@@ -2018,7 +1691,7 @@ It is illegal to engage in physical altercations with any person.
 
 ⚑ *Red Card*—Engaging in a physical altercation with an opponent, spectator, official, or event staffer
 
-6.5.3. Serious foul play
+6.6.3. Serious foul play
 
 It is illegal to commit serious foul play, including egregious conduct and flagrant cheating.
 
@@ -2026,7 +1699,7 @@ A. If an instance of serious foul play cannot be attributed to a specific player
 
 ⚑ *Red Card*—Serious foul play
 
-6.5.4. Faking a foul
+6.6.4. Faking a foul
 
 It is illegal to pretend to be fouled.
 
@@ -2058,12 +1731,12 @@ D. Players may not use a ball of their position to intentionally interact with t
 
 Players may not possess, touch, kick, throw, or in any way use a ball not associated with their position. The following guidelines apply:
 
-A. Any mounted player who may not play the quadball must take any and all reasonable actions to avoid a propelled quadball. Not doing so and being hit is failure to avoid a propelled quadball.
-i. It is a minor failure to avoid a propelled quadball if the player attempted to avoid it and failed, but the overall play was not affected.
-ii. Intentionally moving into, or remaining in, the path of the quadball to block it or preventing a goal is interpositional ball interference.
-iii.A player unaware of an incoming quadball is not penalized for not avoiding it unless they have acted to ensure they would be unaware.
+A. Any mounted player who may not play the Quadball must take any and all reasonable actions to avoid a propelled Quadball. Not doing so and being hit is failure to avoid a propelled Quadball.
+i. It is a minor failure to avoid a propelled Quadball if the player attempted to avoid it and failed, but the overall play was not affected.
+ii. Intentionally moving into, or remaining in, the path of the Quadball to block it or preventing a goal is interpositional ball interference.
+iii.A player unaware of an incoming Quadball is not penalized for not avoiding it unless they have acted to ensure they would be unaware.
 a. If the player acted to ensure they would be unaware, the interaction shall be treated as intentional.
-iv. A player without time to reasonably avoid an incoming quadball is not penalized for failing to avoid it.
+iv. A player without time to reasonably avoid an incoming Quadball is not penalized for failing to avoid it.
 B. Any mounted player may allow a live dodgeball to hit them or intentionally get in the way of a live dodgeball.
 i. Players may allow a live dodgeball to bounce off of any part of their body or equipment at any angle. Any attempt to propel a live dodgeball with any part of their body is a dodgeball swat.
 
@@ -2075,16 +1748,16 @@ i. Players may allow a live dodgeball to bounce off of any part of their body or
 
    1\. If the referee determines that the player was not reasonably aware that the dodgeball was dead and the play was otherwise legal, the player shall not be penalized.
 
-C. Any position’s players may legally possess a dead quadball to return it to the formerly defending keeper after a score (See: 4.2.1. Dead Quadball).
+C. Any position’s players may legally possess a dead Quadball to return it to the formerly defending keeper after a score (See: 4.2.1. Dead Quadball).
 D. Any other intentional interaction with a ball not associated with one’s position is interpositional ball interference.
 E. Unintentionally and illegally acting on a ball not associated with one’s position in a manner that significantly affects the position or trajectory of that ball is incidental interpositional ball interference and results in the turnover of the affected ball.
 F. Intentionally blocking a score by committing interpositional ball interference is intentionally and illegally blocking a score.
 
-⚑ *Back to Hoops*—Minor failure to avoid a propelled quadball
+⚑ *Back to Hoops*—Minor failure to avoid a propelled Quadball
 
 ⚑ *Turnover*—Incidental interpositional ball interference
 
-⚑ *Blue Card*—Failure to avoid a propelled quadball
+⚑ *Blue Card*—Failure to avoid a propelled Quadball
 
 ⚑ *Blue Card*—Illegal dodgeball interference
 
@@ -2100,11 +1773,11 @@ Substitutes and knocked out players must make a reasonable effort, at the discre
 
 ⚑ *Red Card*—Intentionally and illegally blocking a score
 
-7.1.4. Dodgeball vs quadball
+7.1.4. Dodgeball vs Quadball
 
 A. Players may not propel or use a held ball of their position to interact with a ball of another position with the following exceptions:
-i. Beaters may propel dodgeballs at a live quadball.
-ii. Chasers may use a held or propelled quadball to hit or deflect a live dodgeball.
+i. Beaters may propel dodgeballs at a live Quadball.
+ii. Chasers may use a held or propelled Quadball to hit or deflect a live dodgeball.
 a. If the referee determines that the player was not reasonably aware that the airborne dodgeball was dead and the play was otherwise legal, the player shall not be penalized.
 B. Any intentional illegal use of a held ball to interact with a ball not associated with one’s position is interpositional ball interference.
 C. Unintentionally and illegally acting on a ball not associated with one’s position by using a held ball in a manner that significantly affects the position or trajectory of that ball is incidental interpositional ball interference and results in a turnover of the affected ball.
@@ -2129,13 +1802,13 @@ A keeper within their own keeper zone, except in the situation described in 7.2.
 
 A. A protected keeper has the following powers:
 
-i. While a protected keeper has sole possession of the quadball, opposing players may not contact, interact with, or attempt to steal the quadball from the keeper (See: 6.1.1. Illegal physical contact).
+i. While a protected keeper has sole possession of the Quadball, opposing players may not contact, interact with, or attempt to steal the Quadball from the keeper (See: 6.1.1. Illegal physical contact).
 
-a. Sole possession of the quadball must be established before this immunity from contact goes into effect.
+a. Sole possession of the Quadball must be established before this immunity from contact goes into effect.
 
 ii. A protected keeper is immune from being knocked out by live dodgeballs.
 
-B. Once any player on the keeper’s team possesses the (live) quadball outside their keeper zone:
+B. Once any player on the keeper’s team possesses the (live) Quadball outside their keeper zone:
 
 i. The keeper loses all powers listed above.
 
@@ -2146,15 +1819,15 @@ ii. The powers listed above can be regained when their team’s drive ends.
 
 A. A drive is initiated for a team when one of the following occurs:
 
-i. A player on that team is the first player to gain possession of the quadball at the beginning of a period.
+i. A player on that team is the first player to gain possession of the Quadball at the beginning of a period.
 
-ii. A player on that team gains possession of the quadball during the opposing team’s drive, thus ending the opposing team’s drive.
+ii. A player on that team gains possession of the Quadball during the opposing team’s drive, thus ending the opposing team’s drive.
 
-iii.A player on that team makes the quadball live after a good goal.
+iii.A player on that team makes the Quadball live after a good goal.
 
 B. A drive ends for a team when one of the following occurs.
 
-i. The opposing team gains possession of the quadball, initiating their own drive. ii. A period ends.
+i. The opposing team gains possession of the Quadball, initiating their own drive. ii. A period ends.
 
 iii.A goal is scored for either team.
 
@@ -2168,22 +1841,22 @@ i. The opposing team is the “defensive team.”
 
 7.4.1. Delay of game
 
-Delay of game is defined as an attempt to stop or significantly impede the quadball game from continuing. The exact determination of what constitutes delay of game is at the discretion of the referee, within the following guidelines:
+Delay of game is defined as an attempt to stop or significantly impede the Quadball game from continuing. The exact determination of what constitutes delay of game is at the discretion of the referee, within the following guidelines:
 
-A. A beater or beaters may guard a quadball to prevent the opposing team from gaining possession of it. However, a beater commits delay of game if they continue to protect the quadball while their Chasers are making no reasonable attempt to retrieve it.
+A. A beater or beaters may guard a Quadball to prevent the opposing team from gaining possession of it. However, a beater commits delay of game if they continue to protect the Quadball while their Chasers are making no reasonable attempt to retrieve it.
 B. Keeper delays:
-i. A protected keeper must directly and immediately advance the quadball out of the keeper zone, attempt to complete a pass, or drop the quadball to the ground.
-ii. After a goal, the keeper on the formerly defensive team must not substitute out of the game until they have made the quadball live.
-C. The quadball carrier must at least advance the quadball at a normal walking pace until they have crossed the midfield line.
-i. If the quadball carrier is taking a non direct path, their forward progress must equal or exceed the forward progress of a normal walking pace on a path perpendicular to the midfield line.
-ii. If the quadball carrier is blocked by a defender, they may temporarily delay their forward progress but must clearly attempt to find a way to bypass the defender.
-a. The quadball carrier is considered blocked by a defender if that defender is between the quadball carrier and any part of the defender’s endline and that defender is:
-1\. An opposing chaser or keeper within approximately 2 yards of the quadball carrier.
-2\. An opposing beater in possession of a dodgeball within approximately 4 yards of the quadball carrier.
+i. A protected keeper must directly and immediately advance the Quadball out of the keeper zone, attempt to complete a pass, or drop the Quadball to the ground.
+ii. After a goal, the keeper on the formerly defensive team must not substitute out of the game until they have made the Quadball live.
+C. The Quadball carrier must at least advance the Quadball at a normal walking pace until they have crossed the midfield line.
+i. If the Quadball carrier is taking a non direct path, their forward progress must equal or exceed the forward progress of a normal walking pace on a path perpendicular to the midfield line.
+ii. If the Quadball carrier is blocked by a defender, they may temporarily delay their forward progress but must clearly attempt to find a way to bypass the defender.
+a. The Quadball carrier is considered blocked by a defender if that defender is between the Quadball carrier and any part of the defender’s endline and that defender is:
+1\. An opposing chaser or keeper within approximately 2 yards of the Quadball carrier.
+2\. An opposing beater in possession of a dodgeball within approximately 4 yards of the Quadball carrier.
 
 D. Stalling:
 
-i. On each drive, the Chasers on the offensive team must act with the overall primary intent to score. Players in possession of the quadball may not act with the overall primary intent to waste time for any reason.
+i. On each drive, the Chasers on the offensive team must act with the overall primary intent to score. Players in possession of the Quadball may not act with the overall primary intent to waste time for any reason.
 
 E. The head referee may issue a warning when the referee determines that the team is beginning to delay the game.
 
@@ -2193,12 +1866,12 @@ i. Teams must respond immediately to this warning to avoid a penalty for delay o
 
 7.4.2. Stalled Quadball
 
-A quadball is considered stalled if the player(s) touching it is also touching the ground with any body parts other than their feet or hands and is in contact with an opposing player.
+A Quadball is considered stalled if the player(s) touching it is also touching the ground with any body parts other than their feet or hands and is in contact with an opposing player.
 
-A. Upon a quadball becoming stalled, a head referee must begin counting down from ten silently. If the quadball is still stalled at the count of six, the head referee must count down from five out loud.
+A. Upon a Quadball becoming stalled, a head referee must begin counting down from ten silently. If the Quadball is still stalled at the count of six, the head referee must count down from five out loud.
 
-i. If the quadball ceases to be stalled at any point before the count of zero, the head referee ends their count.
-B. After the count of zero the head referee stops play and turns the quadball over to the keeper defending the half the quadball is currently in, in their keeper zone.
+i. If the Quadball ceases to be stalled at any point before the count of zero, the head referee ends their count.
+B. After the count of zero the head referee stops play and turns the Quadball over to the keeper defending the half the Quadball is currently in, in their keeper zone.
 
 i. If the keeper is not in their keeper zone, they shall be moved to the center hoop.
 
@@ -2208,35 +1881,35 @@ iii. The keeper shall receive immunity (See: 7.2.2 Keeper-specific powers.)
 
 7.4.3. Restrictor Lines
 
-Teams are partially restricted from carrying or propelling the quadball backward toward their own hoops. The following rules apply:
+Teams are partially restricted from carrying or propelling the Quadball backward toward their own hoops. The following rules apply:
 
 A. Each team has two restrictor lines during their drives, each of which extend completely across the width of the pitch at:
 
 i. The team’s own keeper zone line is a hard restrictor line.
 
 ii. The midfield line is a soft restrictor line.
-B. The quadball is considered to have crossed a restrictor line when it touches either the ground or an object or person that is on or past the line.  
+B. The Quadball is considered to have crossed a restrictor line when it touches either the ground or an object or person that is on or past the line.  
 i. A player touching the ground on both sides of the restrictor line is considered to have crossed the line.  
-C. The quadball cannot be moved backwards across the hard restrictor line with the following exceptions:  
+C. The Quadball cannot be moved backwards across the hard restrictor line with the following exceptions:  
 i. The first action of a drive; either by throwing the ball or by walking it backwards if:
 
 1. The ball does not also cross the midpoint restrictor line.  
-   ii. A defensive player deflects the quadball, during or after the propulsion.  
-   iii.A defensive player strips the quadball.
+   ii. A defensive player deflects the Quadball, during or after the propulsion.  
+   iii.A defensive player strips the Quadball.
 
-D. If an offensive player carries or propels the quadball backward across the midpoint line for any reason, it shall be ruled a reset, with the following exceptions:
+D. If an offensive player carries or propels the Quadball backward across the midpoint line for any reason, it shall be ruled a reset, with the following exceptions:
 
-i. If a defensive player deflects the quadball, during or after the propulsion and before it travels backward across a restrictor line, this shall not be considered a reset.
+i. If a defensive player deflects the Quadball, during or after the propulsion and before it travels backward across a restrictor line, this shall not be considered a reset.
 
 a. This includes deflections done with a dodgeball.
-ii. If a defender forces the quadball carrier backwards across the midpoint line through physical contact or strips the quadball causing it to travel across the midpoint line, this shall not immediately be considered a reset.
+ii. If a defender forces the Quadball carrier backwards across the midpoint line through physical contact or strips the Quadball causing it to travel across the midpoint line, this shall not immediately be considered a reset.
 
-a. Once the quadball carrier is free from contact they or their teammates must act to carry or propel the quadball forward across the midpoint restrictor line.
+a. Once the Quadball carrier is free from contact they or their teammates must act to carry or propel the Quadball forward across the midpoint restrictor line.
 
-1.The referee will start a three second count down as soon as contact ends. If the quadball is not across the midpoint restrictor line by the time the referee says “Zero”,  it shall be considered a reset.
+1.The referee will start a three second count down as soon as contact ends. If the Quadball is not across the midpoint restrictor line by the time the referee says “Zero”,  it shall be considered a reset.
 
-iii.The player who initiates a drive may carry or propel the quadball backwards across one restrictor line immediately upon the beginning of the drive without it counting as a reset.  
-a. If the player started the drive while engaged in physical contact with an opponent, they may carry or propel the quadball backwards across the midpoint line during or immediately after that contact without it counting as a reset, provided they did not significantly advance the quadball during that contact.
+iii.The player who initiates a drive may carry or propel the Quadball backwards across one restrictor line immediately upon the beginning of the drive without it counting as a reset.  
+a. If the player started the drive while engaged in physical contact with an opponent, they may carry or propel the Quadball backwards across the midpoint line during or immediately after that contact without it counting as a reset, provided they did not significantly advance the Quadball during that contact.
 
 b. This does not apply to the start of the first drive of the game
 
@@ -2246,13 +1919,13 @@ E. Upon the first legal reset of each drive, the head referee shall loudly decla
 
 F. There are two types of illegally crossing restrictor lines:
 
-i. It is illegal to reset the quadball more than once on a single drive.
+i. It is illegal to reset the Quadball more than once on a single drive.
 
 ii. It is illegal to move backwards across over your own keeper zone line.
 
 G. If an illegal crossing of restrictor lines is called, play must be stopped.
 
-i. If the opposing team would clearly recover the quadball without the turnover call, the referee may allow play to continue under a “no harm no foul” call.
+i. If the opposing team would clearly recover the Quadball without the turnover call, the referee may allow play to continue under a “no harm no foul” call.
 
 ⚑ *Quadball Turnover*—Illegal crossing of restrictor lines
 
@@ -2270,14 +1943,14 @@ C. If a player becomes out-of-bounds, any ball they possess will be turned over 
 
 A. A possessed ball becomes out-of-bounds only when the player possessing it becomes out. B. An unpossessed ball becomes out-of-bounds when one of the following occur:
 i. The ball touches anything that is out-of-bounds, including the boundary line.  
- ii. The quadball is in contact with a player who is out-of-bounds.  
+ ii. The Quadball is in contact with a player who is out-of-bounds.  
 C. A live dodgeball becomes dead immediately upon becoming out-of-bounds. D. Play is not stopped for a dodgeball going out-of-bounds.
-E. When a live quadball goes out-of-bounds, the referee shall declare “boundary” and indicate the inbounding player.
-i. If a player on the opposing team possesses the quadball, they must drop it.
+E. When a live Quadball goes out-of-bounds, the referee shall declare “boundary” and indicate the inbounding player.
+i. If a player on the opposing team possesses the Quadball, they must drop it.
 ii. All chasers on the non-inbounding team must return or remain inbounds and cease interfering with the inbounding player.
-iii.Play is stopped if the non-inbounding team fails to follow the above requirements, or if the head referee judges that retrieval of the quadball may unnecessarily delay the game.
-F. When a dead quadball goes out-of-bounds after a score, it is returned to the formerly defending keeper, and does not need to be inbounded.
-i. Play is not stopped for a dead quadball going out-of-bounds unless the head referee judges that retrieval of the quadball may unnecessarily delay the game.
+iii.Play is stopped if the non-inbounding team fails to follow the above requirements, or if the head referee judges that retrieval of the Quadball may unnecessarily delay the game.
+F. When a dead Quadball goes out-of-bounds after a score, it is returned to the formerly defending keeper, and does not need to be inbounded.
+i. Play is not stopped for a dead Quadball going out-of-bounds unless the head referee judges that retrieval of the Quadball may unnecessarily delay the game.
 G. It is illegal to propel a ball with the intent of sending any ball out-of-bounds.
 H. A ball that is out-of-bounds cannot be used to knock out an opponent or score a goal until it has been properly inbounded.
 
@@ -2307,10 +1980,10 @@ D. Players may go out-of-bounds while attempting to force a ball carrier out-of-
 7.5.4.Inbounding procedure
 
 A. The inbounding procedure begins (during live play):
-i. For the quadball when the ball leaves the pitch boundary.
+i. For the Quadball when the ball leaves the pitch boundary.
 ii. For dodgeballs when the inbounding beater leaves the pitch boundary (see 7.5.5 Determining the inbounding player)
 B. The inbounding player takes possession of the out-of-bounds ball and moves to the inbounding point.
-i. The inbounding point for the quadball is the approximate location where the quadball crossed the boundary line.
+i. The inbounding point for the Quadball is the approximate location where the Quadball crossed the boundary line.
 ii. The inbounding point for a dodgeball is approximately at the closest point on the boundary line to the inbounding beater when they take possession of the out-of-bounds dodgeball.
 iii.The inbounding player is immune from being knocked out by live dodgeballs while out-of-bounds to inbound a ball.
 C. If play was stopped, the head referee shall restart play.
@@ -2319,14 +1992,14 @@ E. The inbounding player must inbound the ball by either carrying the ball back 
 i. If the ball is thrown, it is considered inbounds once it crosses the sideline or endline. The ball will still be dead until:
 
 1. A dodgeball is possessed by a live player  
-2. A quadball is propelled by a live player  
+2. A Quadball is propelled by a live player  
    ii. If the ball is carried inbounds, it is considered inbounds once the player re-establishes themselves inbounds.
    iii.No player on the opposing team may physically prevent the inbounding player from fully re-entering the pitch at the inbounding point. Inbounding players should be given 1 foot of re-entry space inside the boundary line.
 
 F. The inbounding player may only move in a primarily perpendicular direction to the boundary line.
 i. This does not prevent a player from stepping into their throw.
 G. A dodgeball inbounded by a throw is dead.  
-H. A quadball inbounded by a throw is unscorable (See: 5.6.3. Unscorable quadball).
+H. A Quadball inbounded by a throw is unscorable (See: 5.6.3. Unscorable Quadball).
 I. If there is an inbounding procedure violation, the player receiving the resulting turnover does not need to inbound the ball.
 
 ⚑ *Back to Hoops and Turnover*—Inbounding procedure violation
@@ -2344,7 +2017,7 @@ c. The player is not in possession of another ball.
 
 d. The player is not already the inbounding player for another currently out-of-bounds ball.
 B. When a ball goes out-of-bounds while in the possession of a player, the inbounding player is the nearest eligible player on the opposing team.
-C.  When the quadball goes out-of-bounds, the inbounding chaser is immune from being knocked out by live dodgeballs from the time they are designated as the inbounding player until they return to the pitch after the quadball is inbounded.
+C.  When the Quadball goes out-of-bounds, the inbounding chaser is immune from being knocked out by live dodgeballs from the time they are designated as the inbounding player until they return to the pitch after the Quadball is inbounded.
 D. When a loose dodgeball goes out-of-bounds, the inbounding player is the nearest eligible player to the ball at the time that the dodgeball became out-of-bounds.
 
 i. If the inbounding player becomes ineligible for any reason before gaining possession of the out-of-bounds dodgeball or declines to pursue the out-of-bounds dodgeball, the next nearest eligible beater shall be designated as the inbounding player.
@@ -2503,7 +2176,7 @@ i. The referee gives the ball to the closest eligible player to the location of 
 a. If the ball was thrown during or after the foul, the ball is turned over to the closest eligible player from the point of the throw.
 D. If there is no eligible player to receive the ball, the ball is placed at or thrown to the center hoop of the receiving team.
 i. If there are no eligible players to receive a dodgeball because all the receiving team’s beaters already have dodgeballs, the ball is dropped or left in place instead of being turned over.
-E. A quadball to be turned over is unable to result in a goal against the receiving team until the procedure is complete.
+E. A Quadball to be turned over is unable to result in a goal against the receiving team until the procedure is complete.
 F. If both teams have committed fouls which would turn over the same ball, possession of that ball is determined by:
 i. The procedure for the foul receiving the most severe penalty card, if any.
 ii. If multiple fouls tie for the most severe penalty card, among the tied fouls, the procedure for the foul committed last.
@@ -2526,8 +2199,8 @@ ii. A player who receives a red card is ejected and their substitute is sent to 
 a. All requirements and procedures for ejected players must be followed (See: 9.1.6. Ejection).
 D. Penalty cards result in the following turnovers:
 i. Any ball that the fouling player possessed or acted on from the time of the foul until play was stopped must be turned over to the opposing team. This includes any balls that the fouled team was prevented from possessing by the foul.
-ii. If a delayed penalty results in a card and the fouled team lost the quadball between the time of the foul and the stoppage of play, the quadball is turned over to the fouled team.
-iii.For yellow and red cards, if the fouling team is in possession of the quadball or if the quadball is loose, the quadball is turned over to the opposing team.
+ii. If a delayed penalty results in a card and the fouled team lost the Quadball between the time of the foul and the stoppage of play, the Quadball is turned over to the fouled team.
+iii.For yellow and red cards, if the fouling team is in possession of the Quadball or if the Quadball is loose, the Quadball is turned over to the opposing team.
 E. If a player receives a third yellow card in the same game, the player must receive a red card after being shown the yellow card.
 F. Play is resumed.
 
@@ -2608,13 +2281,13 @@ B. If a player commits multiple directly related penalty card offenses in quick 
 
 9.3.2. Fouls before a goal
 
-A. If the fouled team scores a good goal between the time of the foul and the adjudication of the penalty for that foul, the penalty shall not result in a turnover of the quadball.
+A. If the fouled team scores a good goal between the time of the foul and the adjudication of the penalty for that foul, the penalty shall not result in a turnover of the Quadball.
 
 9.3.3. Fouls after a goal.
 
-A. If a player on the formerly defending team receives a penalty for a foul committed while the quadball is dead:
+A. If a player on the formerly defending team receives a penalty for a foul committed while the Quadball is dead:
 
-i. If the foul was committed as part of a play to defend against the goal, the penalty shall not result in a turnover of the quadball.
+i. If the foul was committed as part of a play to defend against the goal, the penalty shall not result in a turnover of the Quadball.
 
 ii. If the foul was not committed as part of a play to defend against the goal, the penalty is assessed in full including any prescribed turnovers.
 
@@ -2717,17 +2390,17 @@ A. If both teams reach this situation on the same play or incident, a double for
 
 9.5.1. Calling advantage
 
-If the head referee determines that stopping play due to a foul would provide an advantage in the quadball game to the fouling team, the referee may delay stopping play by calling advantage.
+If the head referee determines that stopping play due to a foul would provide an advantage in the Quadball game to the fouling team, the referee may delay stopping play by calling advantage.
 
 A. If advantage is called the following procedure applies:
 
-i. The referee throws a marker indicating the location of the quadball at the time of the foul and raises one hand straight into the air.
+i. The referee throws a marker indicating the location of the Quadball at the time of the foul and raises one hand straight into the air.
 
 ii. The referee may send the fouling player back to hoops at the start of the advantage if the situation warrants.
 
 iii.Play continues until the fouling team would no longer benefit from play being stopped including but not limited to the following situations:
 
-a. The fouling team gains possession of the quadball.
+a. The fouling team gains possession of the Quadball.
 
 b. A goal is scored for the fouled team.
 
@@ -2749,13 +2422,13 @@ A. If a goal is scored for the non-fouling team, play restarts according to stan
 
 B. If the originally fouled team did not score before the advantage abated:
 
-i. The quadball carrier at the time of the foul (or their substitute) is returned to the point of the quadball at the time of the foul and is given the quadball before play is resumed.
+i. The Quadball carrier at the time of the foul (or their substitute) is returned to the point of the Quadball at the time of the foul and is given the Quadball before play is resumed.
 
 a. If this player has been knocked out, they are returned to the point of the foul as an eligible player.
 
-b. If this player committed a back to hoops foul during the advantage or has been sent to the penalty box, the eligible chaser from that team nearest to the point of the foul shall move there and receive the quadball instead.
+b. If this player committed a back to hoops foul during the advantage or has been sent to the penalty box, the eligible chaser from that team nearest to the point of the foul shall move there and receive the Quadball instead.
 
-c. If the quadball is turned over to the originally fouling team, no players shall be moved to the point of the foul.
+c. If the Quadball is turned over to the originally fouling team, no players shall be moved to the point of the foul.
 
 ii. All other players remain where they were at the time of the stoppage and, if knocked out before the stoppage, continue to be knocked out.
 
@@ -2819,7 +2492,7 @@ A. The primary focuses of the assistant referees, subject to the discretion of t
 
 i. Calling whether players are subject to the knockout effect.
 
-ii. Watching plays away from the quadball.
+ii. Watching plays away from the Quadball.
 
 iii.Watching for balls and players going out of bounds.
 
@@ -2841,7 +2514,7 @@ C. The seeker referee may stop play only if they believe that a flag catch may h
 A. The primary focuses of the goal judges, subject to the discretion of the head referee, are:
 i. Watching shots taken toward the goals.
 
-ii. Ruling whether the quadball is out of bounds on their endline.
+ii. Ruling whether the Quadball is out of bounds on their endline.
 
 10.1.7. Scorekeeper
 
@@ -2914,7 +2587,7 @@ A. Once the head referee blows the three whistles indicating the end of the game
 
 10.2.4. Adjusting a goal call
 
-The head referee may adjust a goal or no-goal call at any time prior to the formerly defending team having possession of the quadball outside of the keeper zone and a subsequent significant interaction or play by the player with possession of the quadball.
+The head referee may adjust a goal or no-goal call at any time prior to the formerly defending team having possession of the Quadball outside of the keeper zone and a subsequent significant interaction or play by the player with possession of the Quadball.
 
 **10.3. PLAYERS AND OFFICIALS**
 
@@ -2944,17 +2617,17 @@ Players and team staff may not use verbal or visual referee signals or commands.
 
 **Brooms up**—A call made by the referee at the beginning of a period. At the first “B” sound of brooms up, play begins.
 
-**Chasers**—Three players on each team who must wear white headbands and throw, kick, or in any way pass the quadball through the opposing team’s hoops to score 10 points and attempt to stop the other team from doing so.
+**Chasers**—Three players on each team who must wear white headbands and throw, kick, or in any way pass the Quadball through the opposing team’s hoops to score 10 points and attempt to stop the other team from doing so.
 
 **Dead dodgeball**—A dodgeball which cannot inflict the knockout effect due to not being live (See: 5.2.2. Live dodgeball).
 
-**Dead quadball**—A quadball which must be made live before it can be played normally or used to score. (See: 4.2.1. Dead quadball).
+**Dead Quadball**—A Quadball which must be made live before it can be played normally or used to score. (See: 4.2.1. Dead Quadball).
 
 **Free dodgeball**—A dodgeball that is not in the possession of a beater on either team.
 
 **Game time**—The official time of any given game, measured from the start of brooms up until the end of the final period of the game but paused for stoppages in play and between periods.
 
-**Good goal**—Ten points are scored for a team when the quadball in any way passes entirely through their opponent’s hoops and the goal is confirmed as good (See: 4.1.1. Good goal).
+**Good goal**—Ten points are scored for a team when the Quadball in any way passes entirely through their opponent’s hoops and the goal is confirmed as good (See: 4.1.1. Good goal).
 
 **Helpless receiver**—A receiver who is in the process of catching a ball that is in the air. The receiver does not have to leave the ground in order to be considered a helpless receiver. It is illegal to push, charge, tackle, or wrap a helpless receiver (See: 6.1.7. Helpless receiver).
 
@@ -2963,11 +2636,11 @@ Players and team staff may not use verbal or visual referee signals or commands.
 
 considered part of the hoop. Players must touch one of their non-dislodged hoops before remounting to complete the knockout procedure.
 
-**Hoop loop**—The 33” inner diameter circle through which the quadball must pass to score a goal (See: 2.2.2. Hoop shape).
+**Hoop loop**—The 33” inner diameter circle through which the Quadball must pass to score a goal (See: 2.2.2. Hoop shape).
 
 **Incidental**—Occurring merely by chance or without intention or calculation. **Intentional**—An action performed with a specific purpose in mind.
 
-**Keeper**—The chaser on each team who must wear a green headband and has special additional rules related to preventing opponents from scoring with the quadball.
+**Keeper**—The chaser on each team who must wear a green headband and has special additional rules related to preventing opponents from scoring with the Quadball.
 
 **Kick**—To strike with a foot or feet, or with any part of the leg below the knee. At the time of a kick the player striking the ball is considered to have control of that ball, if they are the only player in contact with it. A player may make any number of make any number of kicks to a ball.s to a ball. It is illegal to kick an opponent.
 
@@ -2975,7 +2648,7 @@ considered part of the hoop. Players must touch one of their non-dislodged hoops
 
 **Live dodgeball**—A dodgeball that has been thrown, kicked, or otherwise intentionally propelled by a beater who is in play, unless they are inbounding the ball, knocked out, or struck. A live dodgeball can inflict the knockout effect upon opponents (See: 5.2.2. Live dodgeball).
 
-**Live quadball**—A quadball that is neither dead nor unscorable and may be used to score. (See: 4.2.1. Dead quadball and 5.6.3. Unscorable quadball).
+**Live Quadball**—A Quadball that is neither dead nor unscorable and may be used to score. (See: 4.2.1. Dead Quadball and 5.6.3. Unscorable Quadball).
 
 **Natural motion**—A player’s continued movement in making a play, a singular motion that the player had already started, if that motion cannot be stopped (See: 5.6.1. Natural motion).
 
@@ -3009,7 +2682,7 @@ considered part of the hoop. Players must touch one of their non-dislodged hoops
 
 **Protected Keeper**—A keeper within their own keeper zone, except in the situation described in 7.2.2.B.
 
-**Quadball**—The ball used by chasers and keepers to score goals (See: 2.3.1. The quadball). **Quadball carrier**—The player in possession of the quadball.
+**Quadball**—The ball used by chasers and keepers to score goals (See: 2.3.1. The Quadball). **Quadball carrier**—The player in possession of the Quadball.
 
 **Reckless**—Playing with a complete disregard for the consequences of one’s actions.
 
@@ -3045,7 +2718,7 @@ considered part of the hoop. Players must touch one of their non-dislodged hoops
 
 **Tripping**—Any attempt to knock a player off their feet through contact below their knees. Tripping is always illegal physical contact.
 
-**Unscorable quadball**—A quadball that is live but cannot result in a goal (See: 5.6.3. Unscorable quadball).
+**Unscorable Quadball**—A Quadball that is live but cannot result in a goal (See: 5.6.3. Unscorable Quadball).
 
 **Yank**—To pull with sudden sharp force.
 
@@ -3070,15 +2743,15 @@ The referee must send any player who commits a back to hoops offense back to tha
 5.5.1. Third dodgeball interference (Also results in double dodgeball turnover) 5.5.2. Improper immunity claim
 5.5.2. Minor invalid immunity claim
 6.4.1. Minor illegal interposition interaction
-7.1.2. Minor failure to avoid a propelled quadball
+7.1.2. Minor failure to avoid a propelled Quadball
 7.5.3. Intentionally or egregiously illegally going or remaining out of bounds
-7.5.4. Inbounding procedure violation (Also results in quadball turnover)
+7.5.4. Inbounding procedure violation (Also results in Quadball turnover)
 7.5.4. Illegally physically preventing the inbounding player from re-entering the pitch 8.4.3. Illegally pursuing the flag
 9.1.4. Delaying the completion of the turnover procedure
 
 B-1.3. Turnover offenses
 
-The following offenses result in a turnover of either a quadball or a dodgeball:
+The following offenses result in a turnover of either a Quadball or a dodgeball:
 
 5.5.1 Third dodgeball interference \- Two dodgeballs are turned over (Also results in back to hoops)
 
@@ -3118,13 +2791,13 @@ The following are blue card offenses:
 
 3.4.5. Seeker false start
 
-4.2.1. Intentionally and illegally interacting with a dead quadball
+4.2.1. Intentionally and illegally interacting with a dead Quadball
 
 4.3.3. Illegally resetting an opponent’s hoop
 
 4.3.3. Recklessly dislodging a hoop
 
-4.3.3. Recklessly moving hoops in the quadball’s path
+4.3.3. Recklessly moving hoops in the Quadball’s path
 
 5.2.3. Illegally contacting an opponent with a held dodgeball
 
@@ -3146,13 +2819,13 @@ The following are blue card offenses:
 
 7.1.1. Illegally using a ball of one’s own position
 
-7.1.2. Failure to avoid a propelled quadball
+7.1.2. Failure to avoid a propelled Quadball
 
 7.1.2. Illegal dodgeball Interference
 
 7.1.3. Illegally failing to make a reasonable effort to avoid a ball
 
-7.4.1. Delay of Game (Also results in quadball turnover)
+7.4.1. Delay of Game (Also results in Quadball turnover)
 
 7.5.2. Propelling a ball with the intent of sending any ball out of bounds
 
@@ -3236,7 +2909,9 @@ The following are red card offenses:
 
 4.3.3. Intentionally dislodging a hoop
 
-4.3.3. Moving or altering a hoop to affect whether the quadball will pass through it 5.2.6. Headbeat with Excessive Force
+4.3.3. Moving or altering a hoop to affect whether the Quadball will pass through it
+
+5.2.6. Headbeat with Excessive Force
 
 6.1.3. Violent or egregious illegal kick
 
@@ -3342,7 +3017,7 @@ The following offenses by individual team members or the team as a whole result 
 
 USQ offers support and certification for referees and flag runners. A certified head referee and lead assistant referee are paid per game and are required in order for any game to count as USQ official. Certified flag runners are not required for official games, but certified flag runners are paid for official games they officiate. To learn more, visit
 
-<www.usquadball.org/get-involved/officials/>
+<www.usQuadball.org/get-involved/officials/>
 
 **Appendix C: Changelog 2022 to 2023**
 
@@ -3352,7 +3027,7 @@ MAJOR CHANGES:
 * **1.2.3.A** Gender Rule is now a gameplay policy  
 * **3.3.1** Players are now penalized for “substantially and repeatedly” moving during a stoppage, removing judgement of a player’s intent
 * **3.2.2.F.i** Beaters may now be moved to the spot of an out of play dodgeball during a stoppage  
-* **3.4.4.C.ii** A speaking captain may now elect to concede a game during the intermission  
+* **3.4.4.C.ii** A speaking captain may now elect to conced a game during the intermission  
 * **5.4.2.A** Seekers may now swat dodgeballs, following natural motion  
 * **7.1.5** There is no limit to the number of kicks a player may apply to a ball.  
 * **7.4.3.D.ii.A.1** Players now have 3 seconds to recross a soft restrictor line after contact from being forced across it has abated  
@@ -3360,7 +3035,7 @@ MAJOR CHANGES:
 
 **Credits**
 
-USQ Rulebook 2023 is brought to you by staff members in USQ’s gameplay department, especially those on the rules team.
+USQ Rulebook 2024 is brought to you by staff members in USQ’s gameplay department, especially those on the rules team.
 
 **Authors:**
 
@@ -3388,9 +3063,11 @@ Thanks also to the authors of previous editions, including Alex Benepe, Michael 
 
 To learn more about USQ, visit <www.usquadball.org>
 
-Copyright © 2022 by US Quadball. All rights reserved. No part of this book may be used or reproduced in any manner whatsoever without written permission except in the case of brief quotations embodied in critical articles and reviews.
+Copyright © 2024 by US Quadball. All rights reserved. No part of this book may be used or reproduced in any manner whatsoever without written permission except in the case of brief quotations embodied in critical articles and reviews.
 
 This book has not been written, prepared, approved, or licensed by Warner Bros, J.K. Rowling, or any of her publishers or licensees. It does not imply or claim any rights to her characters or creations, nor are the authors, staff members, or the publisher in any way affiliated with Warner Bros, J.K. Rowling, or any of her publishers or licensees.
+
+The term QUADBALL™  is a trademark of The Queue Project, LLC, a joint venture of US Quadball and Major League Quadball.
 
 [image1]: <data:image/png;base64,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>
 
