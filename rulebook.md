@@ -9,20 +9,14 @@
 1.2. Rosters And Players 7
 1.3. Substitutions 8
 1.4. Substitution Area And The Team Bench 10
-**2\. Equipment And Dimensions 11**
-2.1. Field Lines And Marks 11  
-2.2. Hoops 14
-2.3. Game Balls 15
-2.4. Brooms 16
-2.5. Player Equipment 17
 **3\. Game Procedures 21**
 3.1. Preliminaries 21
 3.2. Starting The Game 22
 3.3. Stoppages 24
 3.4. Regulating Game Time 36
 3.5. Forfeits 28
-3.6. Suspended Games 28  
-**4\. Scoring 29**
+3.6. Suspended Game 28  
+**4\. Buckets 29**
 4.1. Goal Scoring 29
 4.2. Restarting After A Goal 30
 4.3. Broken Or Fallen Hoops 31
