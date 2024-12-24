@@ -1,10 +1,10 @@
 ![][image1]
 
-**US Quadball Rulebook 2024**
+# US Quadball Rulebook 2024
 
-**Version 1.0**
+## Version 1.0
 
-*Contents*
+### Contents
 
 **[Basics of the Game](#basics-of-the-game)**\
 **[1\. Team Composition and Substitutions](#1-team-composition-and-substitutions)**\
@@ -53,7 +53,7 @@
 [7.5. Boundaries](#75-boundaries)\
 **[8\. The Flag Runner](#8-the-flag-runner)**\
 [8.1. Role of the Flag Runner](#81-role-of-the-flag-runner)\
-[8.2. The Flag Runner’s Timing](#82-the-flag-runners-timing)\
+[8.2. The Flag Runner's Timing](#82-the-flag-runners-timing)\
 [8.3. Flag Runner Requirements](#83-flag-runner-requirements)\
 [8.4. Ruled as Down](#84-ruled-as-down)\
 **[9\. Penalties](#9-penalties)**\
@@ -65,7 +65,7 @@
 [9.6. Delayed Penalties](#96-delayed-penalties)\
 **[10\. Game Officials](#10-game-officials)**\
 [10.1. The Officials](#101-the-officials)\
-[10.2. Officials’ Calls](#102-officials-calls)\
+[10.2. Officials' Calls](#102-officials-calls)\
 [10.3. Players and Officials](#103-players-and-officials)\
 **Appendix A: Changelog 82**  
 **Appendix C: Definitions 84**  
@@ -93,7 +93,7 @@ Game ball used: Quadball
 
 Headband color: Green (keeper) & White (chaser)
 
-Objective: Throw, kick, or in any way propel the Quadball through the opposing team’s hoops to score ten points and prevent opponents from propelling the Quadball through their own hoops.
+Objective: Throw, kick, or in any way propel the Quadball through the opposing team's hoops to score ten points and prevent opponents from propelling the Quadball through their own hoops.
 
 ### Beater Overview
 
@@ -120,19 +120,23 @@ Objective: Remove the flag from the flag runner to score 35 points.
 ### Chasers
 
 A. The chasers and keepers use the Quadball to score goals. Goals are worth ten points each.
+
 B. Chasers advance the ball down the field by running with it, passing it to teammates, or kicking it.
+
 C. Chasers defend against potential goals by the opposing team through positioning themselves or through initiating legal physical contact with other chasers.
-D. While in their team’s own keeper zone, the keeper is immune to the knockout effect and has several other unique powers (See: *7.2.2. Keeper-specific powers*). During this time, the keeper is considered to be a protected keeper. Otherwise, the keeper position is the same as the chaser position.
+
+D. While in their team's own keeper zone, the keeper is immune to the knockout effect and has several other unique powers (See: *[7.2.2. Keeper-specific powers](#722-keeper-specific-powers)*). During this time, the keeper is considered to be a protected keeper. Otherwise, the keeper position is the same as the chaser position.
 
 ### Beaters
 
-A. The beaters use dodgeballs to disrupt the flow of the game by “knocking out” any player from the opposing team who does not have knockout immunity (See: *5.5.2. Claiming Knockout Immunity*).
+A. The beaters use dodgeballs to disrupt the flow of the game by “knocking out” any player from the opposing team who does not have knockout immunity (See: *[5.5.2. Claiming Knockout Immunity](#552-claiming-knockout-immunity)*).
 
-B. Any player hit by a dodgeball propelled by an opponent is out until they complete the knockout procedure, unless they have knockout immunity (See: *5.3.1. Knockout Procedure*).
+B. Any player hit by a dodgeball propelled by an opponent is out until they complete the knockout procedure, unless they have knockout immunity (See: *[5.3.1. Knockout Procedure](#531-the-knockout-procedure)*).
 
 ### Seekers
 
 A. The seekers try to remove the flag from the flag runner to score 35 points.
+
 B. The flag is a ball attached to the waistband of the flag runner, a neutral official dressed in yellow, whose job is to remain fair to both teams while avoiding capture for as long as possible.
 
 ## FOULS OVERVIEW
@@ -141,19 +145,19 @@ From the time that players enter the player area for a game until after the game
 
 ### Back to Hoops
 
-A back to hoops foul indicates that a player must cease active play and complete the knockout procedure (See: 5.3.1. Knockout Procedure).
+A back to hoops foul indicates that a player must cease active play and complete the knockout procedure (See: *[5.3.1. Knockout Procedure](#531-the-knockout-procedure)*).
 
 ### Blue Card
 
-A blue card indicates that a player must spend one minute of game time in the penalty box and the player’s team must play a player down for this minute. If the opposing team scores a goal before the minute expires, the player may be released early and re-enter play. Blue cards do not stack to become higher penalties.
+A blue card indicates that a player must spend one minute of game time in the penalty box and the player's team must play a player down for this minute. If the opposing team scores a goal before the minute expires, the player may be released early and re-enter play. Blue cards do not stack to become higher penalties.
 
 ### Yellow Card
 
-A yellow card indicates that a player must spend one minute of game time in the penalty box and the player’s team must play a player down for this minute. If the opposing team scores a goal before the minute expires, the player may be released from the penalty box early and re-enter play. A player who receives three yellow cards in a single game must be issued a red card instead of their third yellow card.
+A yellow card indicates that a player must spend one minute of game time in the penalty box and the player's team must play a player down for this minute. If the opposing team scores a goal before the minute expires, the player may be released from the penalty box early and re-enter play. A player who receives three yellow cards in a single game must be issued a red card instead of their third yellow card.
 
 ### Red Card
 
-A red card indicates that a player is barred from the rest of the game and the player’s team must play a player down for two full minutes of game time.
+A red card indicates that a player is barred from the rest of the game and the player's team must play a player down for two full minutes of game time.
 
 ### Ejection
 
@@ -168,12 +172,19 @@ A referee may eject a player for egregious violations of the rules.
 Each team must designate one individual on their official roster to serve as the speaking captain for a game.
 
 A. The speaking captain has the power to speak for the team when conversing with officials.
+
 i. Players may speak to officials on their own behalf.
+
 ii. Officials may direct any person to stop speaking with any official.
-B. If the team’s speaking captain is unable to continue the duties of the position for any reason, their team must select an alternate speaking captain.
-i. If the team’s original speaking captain for the game legally returns to the bench or pitch, they shall resume the role of speaking captain.
+
+B. If the team's speaking captain is unable to continue the duties of the position for any reason, their team must select an alternate speaking captain.
+
+i. If the team's original speaking captain for the game legally returns to the bench or pitch, they shall resume the role of speaking captain.
+
 C. Speaking captains may only enter the pitch while play is stopped, unless they are entering as an active player.
+
 i. If the speaking captain substantially illegally enters the pitch or affects play while illegally on the pitch, they are encroaching on the pitch.
+
 D. The speaking captain may request to have a player from their own team ejected from the game. The head referee will enforce this when they determine it will not affect play.
 
 ⚑ *Blue Card*—Encroaching on the pitch
@@ -185,9 +196,13 @@ D. The speaking captain may request to have a player from their own team ejected
 Non-playing members of the team, including non-playing coaches, are team staff.
 
 A. Tournament directors may limit the number of team staff allowed in the player area.
+
 i. This number cannot be limited to less than three.
+
 B. The names of team staff must be communicated to the tournament director prior to the event if they are not on the roster as a coach.
+
 C. Team staff are not eligible to enter play.
+
 i. If a team staffer engages in any action that would result in a penalty for a substitute, the team staffer shall receive the same penalty.
 
 ⚑ *Blue Card*—Encroaching on the pitch
@@ -197,10 +212,15 @@ i. If a team staffer engages in any action that would result in a penalty for a 
 ### 1.2.1. Rosters
 
 A. Each team is made up of between seven and twenty-one players.
+
 i. A team must be able to field a legal set of required players to begin or continue a game.
+
 a. A team must be able to field six eligible players while the flag is not on the field.
+
 b. A team must be able to field seven eligible players while the flag is on the field.
-c. If a player’s injury would cause their team to forfeit, and the onsite medical staff believes the player can safely return to the field with approximately a minute or less of treatment, the game shall remain stopped until the player returns, rather than declaring a forfeit.
+
+c. If a player's injury would cause their team to forfeit, and the onsite medical staff believes the player can safely return to the field with approximately a minute or less of treatment, the game shall remain stopped until the player returns, rather than declaring a forfeit.
+
 B. Team rosters must abide by all USQ regulations regarding rosters.
 
 ⚑ *Forfeit*—Falling below seven eligible players
@@ -208,19 +228,33 @@ B. Team rosters must abide by all USQ regulations regarding rosters.
 ### 1.2.2. Positions
 
 A. A team shall have four chasers in play, one of which is the keeper.
+
 i. Keepers must wear a green headband on their forehead.
+
 ii. The remaining chasers must wear a white headband on their forehead.
+
 iii. Chasers may use the Quadball in any legal manner.
+
 iv. Keepers and chasers shall be considered separate positions for the purposes of substitution and position changes.
+
 B. A team shall have two beaters in play.
+
 i. Beaters must wear a black headband on their forehead.
+
 ii. Beaters may use the dodgeballs in any legal manner.
+
 C. A team shall have one seeker in play while the flag is in play.
+
 i. Seekers must wear a yellow headband on their forehead.
+
 D. Any players not in play are substitutes.
+
 i. Substitutes are not designated as being of any position.
+
 ii. Substitutes are not required to wear a headband.
+
 E. Players in the penalty box are considered in play and count toward the position requirements for their teams.
+
 F. No penalty shall be given if teams are lacking a full complement of players due to an active substitution or because a seeker neglects to enter the field at the end of the seeker floor.
 
 ⚑ *Speaking Captain Yellow Card*—Illegal set of players in play
@@ -230,7 +264,9 @@ F. No penalty shall be given if teams are lacking a full complement of players d
 ### 1.2.3. Legal Set of Players
 
 1. Teams must adhere to the current gameplay policy on fielding a legal set of players. An illegal set of players that impacts play will result in a yellow card to the speaking captain.  
+
    i. An illegal set of players that does not significantly impact play will be treated as no harm, no foul.  
+
    ii. When the card is given, the set of players on the field must be made legal with as few substitutions as possible before play is restarted.
 
 ⚑ *Speaking Captain Yellow Card—*Illegal set of players in play
@@ -240,13 +276,21 @@ F. No penalty shall be given if teams are lacking a full complement of players d
 ### 1.3.1. Substitution Restrictions
 
 A. Standard substitutions must be made while play is live.  
+
 B. Substitutions may be made while play is stopped in accordance with the following exceptions:
+
 i. During a timeout.  
+
 ii. During Intermission  
-iii. Replacing an injured player (See: 1.3.4. Substitutions Due to Injury).
-iv. A keeper changing positions with another player in play when sent to the penalty box (See: 9.4.2. Proceeding to the Penalty Box).  
+
+iii. Replacing an injured player (See: *[1.3.4. Substitutions Due to Injury](#134-substitutions-due-to-injury)*).
+
+iv. A keeper changing positions with another player in play when sent to the penalty box (See: *[9.4.2. Proceeding to the Penalty Box](#942-proceeding-to-the-penalty-box)*).
+
 v. Replacing an ejected player
-vi. Replacing a player in play with a fouling substitute (See: 9.4.5. Penalties to Substitutes and Team Staff).
+
+vi. Replacing a player in play with a fouling substitute (See: *[9.4.5. Penalties to Substitutes and Team Staff](#945-penalties-to-substitutes-and-team-staff)*).
+
 vii. Correcting an illegal set of players after a penalty has been given.
 
 ### 1.3.2. Live Play Substitution Procedure
@@ -254,17 +298,29 @@ vii. Correcting an illegal set of players after a penalty has been given.
 To replace a player with a substitute while play is not stopped, the following conditions must be observed:
 
 A. The exiting player is not knocked out.
-B. The exiting player leaves the pitch within the team’s substitution area and then promptly dismounts.
+
+B. The exiting player leaves the pitch within the team's substitution area and then promptly dismounts.
+
 i. The player must not dismount before crossing the boundary line.
+
 ii. The exiting player is no longer eligible to be knocked out once they have dismounted.
+
 C. Any equipment (including position headbands), must be traded while off the pitch.
+
 D. The entering player must mount the broom in the substitution area and step onto the pitch before interacting with play.
-i. The entering player enters the pitch along the boundary of the team’s substitution area.
-E. A substitution is complete when the entering player crosses the boundary of the team’s substitution area into the pitch and is only touching the ground inside the pitch.
+
+i. The entering player enters the pitch along the boundary of the team's substitution area.
+
+E. A substitution is complete when the entering player crosses the boundary of the team's substitution area into the pitch and is only touching the ground inside the pitch.
+
 i. The entering player is then immediately eligible to engage in gameplay and is eligible to be knocked out.
+
 F. A player that enters play through a substitution that violates this procedure has committed a substitution violation.  
+
 i. A player that repeatedly commits substitution violations may be penalized for an illegal substitution.  
+
 G. A player that enters play through a substitution that violates this procedure and interacts with play has committed a substitution violation.  
+
 i. The entering player receives the card for violations of this procedure.
 
 ⚑ *Repeat Procedure—*Substitution violation
@@ -274,21 +330,33 @@ i. The entering player receives the card for violations of this procedure.
 ### 1.3.3. Stopped Play Substitution Procedure
 
 A. The entering player replaces the exiting player at the spot of the exiting player when play was stopped.
+
 i. The substitute retains possession of any ball held by the exiting player.
+
 ii. If the exiting player was knocked out, the entering player is off broom when play is restarted.
 
 ### 1.3.4. Substitutions due to Injury
 
-A. An injured player is expected to follow all of the substitution procedures as outlined in *1.3.2. Live Play Substitution Procedure* unless they are unable to do so.  
+A. An injured player is expected to follow all of the substitution procedures as outlined in *[1.3.2. Live Play Substitution Procedure](#132-live-play-substitution-procedure)* unless they are unable to do so.  
+
 i. If an injured player is openly bleeding or too injured to follow the substitution procedure, play must be stopped.  
+
 a. If the player has sustained a serious injury, is obstructing gameplay, or has sustained a non-superficial head injury, play must be stopped immediately.  
+
 b. If the previous conditions are not met, the head referee should allow play to continue until stopping play would not significantly advantage either team.  
+
 ii. If play is stopped due to an injured player:  
+
 a. The player must leave the pitch and be replaced by a substitute.  
+
 1\. If a player is forced, by rule, to leave the pitch for an injury that requires no treatment and there is no eligible substitute, that player may take their broom and resume play at the boundary of their substitution area.
+
 a. If there is no penalty on the play related to the injury, the opposing team may also make a substitution of the same position.  
+
 B. The head referee may require that a player receive medical attention before allowing them to return if the player is bleeding, is suspected of a concussion, or their injury is otherwise severe.
+
 i. This player is ineligible to return to play until they receive permission from an official, who must be satisfied that any bleeding has stopped or a medical professional has cleared them.
+
 C. A player may not feign an injury for any reason.
 
 ⚑ *Yellow Card—*Feigning an injury
@@ -298,16 +366,23 @@ C. A player may not feign an injury for any reason.
 ### 1.4.1. Substitution Area Restrictions
 
 A. All substitutions must occur in the substitution area.
+
 B. Whenever play is live, substitutes, coaches, and team staff should never enter the pitch.  
+
 C. Teams should use the substitution area for players about to substitute into the game and the team bench for all others.  
+
 i. If a team is repeatedly illegally crowding the pitch boundary line, the officials may require all substitutes on that team to remain in the team bench unless about to substitute into the game.
+
 D. Any extra equipment or property not necessary for play should be kept out of the substitution area.  
+
 i. Any extra balls kept in the team bench must be stored in a bag or other storage container.  
-E. One substitute or team staffer at a time may leave the substitution area or team bench to check information with the scorekeeper or timekeeper, but must neither interfere with the scorekeeper or timekeeper’s duties, nor enter the pitch.
+
+E. One substitute or team staffer at a time may leave the substitution area or team bench to check information with the scorekeeper or timekeeper, but must neither interfere with the scorekeeper or timekeeper's duties, nor enter the pitch.
 
 ### 1.4.2. Sideline Interference
 
 A. Sideline interference occurs when a substitute or team staffer directly affects play in a way that disadvantages the opposing team.  
+
 B. Substitutes may not interact with game balls outside of the player area during live play.
 
 ⚑ *Speaking Captain Blue Card*—Sideline interference
@@ -325,8 +400,11 @@ B. Substitutes may not interact with game balls outside of the player area durin
 The pitch consists of four boundary lines which form a 36 by 66 yard rectangle.
 
 A. The 36 yard boundary lines are the endlines.  
+
 B. The 66 yard boundary lines are the sidelines.  
-i. The sideline closest to the scorekeeper’s table is the “scorekeeper’s sideline.”  
+
+i. The sideline closest to the scorekeeper's table is the “scorekeeper's sideline.”  
+
 C. Tournaments may apply to the Gameplay Department for a waiver to use a shorter field. That pitch must still consist of 36 yard endlines and 66 yard sidelines, but is not required to have the full 48 yard by 72 yard player area.
 
 ### 2.1.2. The Midfield Line
@@ -345,7 +423,7 @@ There are two goal lines, which run parallel to the endlines, connect the sideli
 
 Each team has a penalty box outside of the pitch.
 
-A. Each box is a 6 by 6 yard square area that begins at the midfield line and extends along the scorekeeper’s sideline in the direction of the team’s bench.
+A. Each box is a 6 by 6 yard square area that begins at the midfield line and extends along the scorekeeper's sideline in the direction of the team's bench.
 
 ### 2.1.6. Ball Positions
 
@@ -355,29 +433,40 @@ A. There are four starting ball positions on the midline. One dodgeball is place
 
 ### 2.1.7. Substitution Areas
 
-Each team’s substitution area is a 21 by 3 yard rectangle outside of the pitch and bordering their own keeper zone.
+Each team's substitution area is a 21 by 3 yard rectangle outside of the pitch and bordering their own keeper zone.
 
-A. One side of the substitution area is the scorekeeper’s sideline inside the keeper zone.  
+A. One side of the substitution area is the scorekeeper's sideline inside the keeper zone.  
+
 B. The substitution area extends 3 yards away from the sideline.
 
 ### 2.1.8. Team Benches
 
-Each team’s bench is a 21 by 3 yard rectangle that extends 3 yards farther from the pitch behind their substitution area.
+Each team's bench is a 21 by 3 yard rectangle that extends 3 yards farther from the pitch behind their substitution area.
 
 ### 2.1.9. The Player Area
 
 The player area is a rectangle enclosing the pitch with the pitch at its center.
 
 A. This rectangle is:
+
 i. 48 yards wide and 72 yards long.
+
 B. The player area must be clear of obstacles and dangerous terrain.
+
 i. No non-tournament specific obstructions, such as spectators, may be set up within the player area.
+
 C. During gameplay, the player area is reserved for:
+
 i. Players on the active roster of the teams in play.
+
 ii. Referees and officials assigned to the game currently in play.
+
 iii. Tournament staff given access to the player area (at their own risk) at the discretion of the head referee or tournament director.
-iv. Team staff (as designated in *1.1.2. Team Staff*).
+
+iv. Team staff (as designated in *[1.1.2. Team Staff](#112-team-staff)*).
+
 D. Spectators may not enter the player area.
+
 E. Tournaments may apply to the Gameplay Department for a waiver to use a field with a player area 48 yards wide and 54 yards long.
 
 ### 2.1.10. Field Markings
@@ -385,16 +474,27 @@ E. Tournaments may apply to the Gameplay Department for a waiver to use a field 
 Various parts of the pitch and surrounding area should be marked in a clear manner. These markings are usually made with cones or lines.
 
 A. The following must be marked in some way:
-i. The pitch boundary (as described in *2.1.1.*)
-ii. The midfield line (as described in *2.1.2.*)  
-iii. The keeper zone lines (as described in *2.1.3.*)
+
+i. The pitch boundary (as described in *[2.1.1.](#211-boundary-lines)*)
+
+ii. The midfield line (as described in *[2.1.2.](#212-the-midfield-line)*)  
+
+iii. The keeper zone lines (as described in *[2.1.3.](#213-keeper-zone-lines)*)
+
 B. The following markings are optional, though recommended:
-i. The goal lines (as described in *2.1.4.*)
-ii. The penalty boxes (as described in *2.1.5.*)
-iii. The ball positions (as described in *2.1.6.*)
-iv. The team benches (as described in *2.1.8.*)
-v. The player area (as described in *2.1.9.*)
-vi. The hoop positioning (as described in *2.2.3.*)
+
+i. The goal lines (as described in *[2.1.4.](#214-goal-lines)*)
+
+ii. The penalty boxes (as described in *[2.1.5.](#215-penalty-boxes)*)
+
+iii. The ball positions (as described in *[2.1.6.](#216-ball-positions)*)
+
+iv. The team benches (as described in *[2.1.8.](#218-team-benches)*)
+
+v. The player area (as described in *[2.1.9.](#219-the-player-area)*)
+
+vi. The hoop positioning (as described in *[2.2.3.](#223-hoop-positioning)*)
+
 a. These markings must not interfere with the stability of the hoops.
 
 ## 2.2. HOOPS
@@ -402,26 +502,39 @@ a. These markings must not interfere with the stability of the hoops.
 ### 2.2.1. Hoop Composition and Construction
 
 A. Each hoop must be made of a post and a circular loop attached to the top. These may be made of any material other than metal or concrete and must not be dangerous to players.
+
 B. A hoop must be attached to a base to keep it upright.
+
 i. This base should be included in the hoop pole height.
+
 ii. Other than metal fasteners, the base must not be made of hard metal or concrete.
+
 C. Hoops must be freestanding and able to withstand play.
+
 i. Referees must disallow any hoops or bases that they believe are dangerous to the players.
 
 ### 2.2.2. Hoop Shape
 
 A. Each set of hoops must have posts of three different heights.
+
 i. These heights must be 3 feet, 4.5 feet, and 6 feet.
+
 B. A hoop loop must be fastened to the top of each post.
+
 i. The inner diameter of each hoop loop must be 33 inches.
+
 ii. The attachment of the hoop loop must not make the total height of the post exceed the required post heights.
 
 ### 2.2.3. Hoop Positioning
 
 A. Three hoops are positioned on each goal line.
+
 i. The 6 foot hoop must be placed at the center of the goal line.
+
 ii. The other two hoops are placed on the goal line, 3 yards away from the 6 foot hoop on either side.  
+
 iii. Facing either set of hoops from midfield, the 3 foot hoop must be on the left and the 4.5 foot hoop must be on the right.
+
 B. The hoop loops must be in line with the goal line.
 
 ## 2.3. GAME BALLS
@@ -429,36 +542,55 @@ B. The hoop loops must be in line with the goal line.
 ### 2.3.1. The Quadball
 
 The Quadball must be:
+
 A. A volleyball.
+
 B. Between 25.6 and 26.4 inches in circumference.
+
 C. The Quadball must maintain its spherical shape and must be neither inflated all the way nor so deflated that the average player could grip a bulk of the leather in one hand.
 
 ### 2.3.2. Dodgeballs
 
 The three dodgeballs must be:
+
 A. Spherical balls made of flexible rubber or rubber-like covers (such as dodgeballs).
+
 B. 8.5 inches in diameter, 26.7 inches in circumference.
+
 C. The dodgeballs must maintain their spherical shape and must be neither inflated all the way nor so deflated that the average player could grip a bulk of the rubber in one hand.
 
 ### 2.3.3. The Flag
 
 The flag must be:
+
 A. A standard tennis ball held within a tail.
+
 i. The tail must have a visible and unobstructed length of between 10 and 12 inches.
+
 a. If the tail is attached to the outside of the shorts, up to 2 inches of the attachment may be counted toward this minimum length.
+
 B. The flag must be tucked in or attached to the shorts of the flag runner in a manner that is secure and allows for the removal of the tail by the seeker.
 
 ### 2.3.4. Defective Balls Mid-Play
 
 If a game ball becomes defective (e.g. deflates) while in play, the head referee must stop play to replace the ball. The following conditions apply:
+
 A. The head referee must stop play immediately when any ball becomes defective.
-B. If a ball was in midair when it became defective, the replaced or repaired ball is returned to the player who last held possession, except the Quadball after a good goal.  
-i. If this player is knocked out or dismounted before play is stopped, then the ball is given to the nearest eligible player on the same team to this player’s current location.     
-a. If no such player exists, then the ball shall be left at the player’s current location.
+
+B. If a ball was in midair when it became defective, the replaced or repaired ball is returned to the player who last held possession, except the Quadball after a good goal.
+
+i. If this player is knocked out or dismounted before play is stopped, then the ball is given to the nearest eligible player on the same team to this player's current location.
+
+a. If no such player exists, then the ball shall be left at the player's current location.
+
 C. No goals or knockouts may happen with a ball an official recognized as defective before the knockout or goal occurred.
+
 D. If a dodgeball becomes defective while hitting a player, the knockout counts and the dodgeball is considered dead.
+
 i. If the dodgeball becomes defective in the final motion of being otherwise successfully caught, that catch shall count.
+
 E. If the flag becomes defective during the flag catch (e.g. the tail breaks in half and the seeker gets half of it), the catch counts if the seeker cleanly removed the actual ball.
+
 i. If the flag becomes defective before the catch, the catch must be called no good.
 
 ## 2.4. BROOMS
@@ -468,9 +600,13 @@ i. If the flag becomes defective before the catch, the catch must be called no g
 All players in play must have a broom. The broom:
 
 A. Must consist of a rigid pole made of plastic.
+
 i. This pole must be between 39 and 41 inches long.
+
 ii. The outer diameter of this pole must be between .75 and 1.25 inches.
+
 B. Must not have splinters or sharp points.
+
 C. Must not be attached to the body, clothing, or other equipment of the player.
 
 ### 2.4.2. Broken Brooms
@@ -478,6 +614,7 @@ C. Must not be attached to the body, clothing, or other equipment of the player.
 If a broom breaks during the course of play, the head referee must immediately stop play and it must be replaced before its player may make any play
 
 A. It is illegal to knowingly initiate a new play while using a broken broom.  
+
 B. If a player removes their broom due to the danger of the broken broom, the player may remount upon the resumption of play, unless deemed off broom by another rule.
 
 ⚑ *Red Card—*Knowingly initiating a new play with a broken broom
@@ -489,10 +626,15 @@ The tournament director for a game must provide equal brooms to both teams. Team
 ### 2.4.4. Limited Brooms in the Player Area
 
 A. During the seeker floor, each team may have a maximum of six brooms within the player area, excluding any extra brooms securely stored in the team bench.
+
 B. The broom limit is increased to seven after the seeker floor ends.
-i. Seekers will receive the seventh broom when called to the scorekeeper’s table.
-C. All additional brooms, including replacements for broken brooms, must be stored outside the player area, at the scorekeeper’s table, or securely in the team bench.
+
+i. Seekers will receive the seventh broom when called to the scorekeeper's table.
+
+C. All additional brooms, including replacements for broken brooms, must be stored outside the player area, at the scorekeeper's table, or securely in the team bench.
+
 i. These additional brooms must not enter the pitch or substitution area unless replacing a broken broom during a stoppage of play.
+
 ii. If a team illegally brings an additional broom into the pitch or substitution area, they must be penalized for exceeding the broom limit.
 
 ⚑ *Speaking Captain Blue Card—*Exceeding the broom limit
@@ -507,20 +649,34 @@ Players must not use any equipment or wear anything that is dangerous to themsel
 
 While in play, each player must properly wear the following equipment:
 
-A. A colored headband at least half an inch wide and worn on the forehead distinguishing the player’s position.
+A. A colored headband at least half an inch wide and worn on the forehead distinguishing the player's position.
+
 B. A jersey.
+
 i. Jerseys for players on the same team must be readily identifiable, of the same base color, and distinguishable from the opposing team.
+
 ii. The primary jersey color may not be yellow or gold.
+
 iii. The jersey design must not primarily consist of vertical black and white stripes.
+
 C. Some sort of bottom (such as shorts, pants, or a skirt).
+
 i. The primary color of the outermost layer of the bottoms must not be yellow or gold.
+
 ii. Some form of undergarment must be worn under the bottoms.
+
 D. Shoes or cleats.
+
 i. Spikes or studs must not be sharp.
+
 ii. Spikes or studs must not be completely made of metal or affixed with metal caps.
+
 E. A mouthguard which shall:
+
 i. Include an occlusal (protecting and separating the biting surfaces) portion.
+
 ii. Include a labial (protecting the teeth and supporting structures) portion.
+
 iii. Cover the posterior teeth with adequate thickness.
 
  ⚑ *Blue Card*—Entering play without wearing mandatory equipment
@@ -531,19 +687,31 @@ iii. Cover the posterior teeth with adequate thickness.
 
 Position headbands are subject to the following standards.
 
-A. The color of the headband must be distinct enough to unambiguously identify the player’s position.
-B. The headband must be easily visible from a reasonable distance and be identifiable through a player’s hair or other equipment.
+A. The color of the headband must be distinct enough to unambiguously identify the player's position.
+
+B. The headband must be easily visible from a reasonable distance and be identifiable through a player's hair or other equipment.
+
 C. Hats or other headgear may not be used as headbands.
+
 i. The positional headband must be worn over the headgear and the headgear must be a color that is clearly distinguishable from the headband.
+
 ii. Headwear that is both in the shape of a band and is a positional color shall be considered a headband.
+
 a. No other positional headband may be worn over this item.
-D. If a player’s headband is lost mid-play, they may continue to play without it. However they must replace the headband whenever any of the following occur:
+
+D. If a player's headband is lost mid-play, they may continue to play without it. However they must replace the headband whenever any of the following occur:
+
 i. They are knocked out.
+
 ii. There is a stoppage in play.
+
 iii. A goal is scored.
+
 a. Seekers and beaters do not have to replace their headband when a goal is scored.
-E. If an official deems a player’s headband unacceptable for any reason, the player must immediately correct the issue.
-i. If this cannot be completed immediately on the pitch, the accidental equipment infringement procedure shall be applied (See: 2.5.7. Accidental Equipment Infringement).
+
+E. If an official deems a player's headband unacceptable for any reason, the player must immediately correct the issue.
+
+i. If this cannot be completed immediately on the pitch, the accidental equipment infringement procedure shall be applied (See: *[2.5.7. Accidental Equipment Infringement](#257-accidental-equipment-infringement)*).
 
 ⚑ *Back to Hoops*—Illegally failing to replace a lost headband
 
@@ -552,16 +720,27 @@ i. If this cannot be completed immediately on the pitch, the accidental equipmen
 Each player must have an integer between 0 and 99 clearly visible on the back of their jersey.
 
 A. The number may not exceed two digits including preceding zeros.
+
 B. No two players in the player area for the same team may share the same number.
-i. Leading zeros are ignored when determining a player’s number.
+
+i. Leading zeros are ignored when determining a player's number.
+
 ii. If a team is penalized for having two players wearing the same number in the player area, the speaking captain must designate one of the players to change their number.
+
 a. The designated player is ineligible to be in play until they have a new number affixed to their back and the new number is reported to the scorekeeper.
-C. If a player’s number becomes damaged beyond recognition while in play:
+
+C. If a player's number becomes damaged beyond recognition while in play:
+
 i. Play is not stopped.
+
 ii. The referee informs the player that their jersey number has been damaged.
+
 iii.The player must fix the number the next time they substitute out of the game, or during the next stoppage in play, whichever occurs first.
+
 a. If there is a stoppage in play and the number cannot be quickly fixed, the player must substitute out during that stoppage.
+
 b. If the issue can only be addressed by giving the player a new number, that new number must be reported to the scorekeeper.
+
 D. No player may enter play without a legal and recognizable number on their back.
 
 ⚑ *Blue Card*—Entering play without a legal and recognizable jersey number
@@ -573,19 +752,33 @@ D. No player may enter play without a legal and recognizable number on their bac
 The following are considered “additional equipment” and may be worn with the listed limitations.
 
 A. Padding—All padding must:
+
 i. Be one inch or less in thickness. If the player is wearing multiple pads, they may not exceed this total thickness.
+
 ii. Pass the “knock test,” i.e. when a referee raps on it with a knuckle, it should not make a knocking sound.
+
 iii. Bend easily when a minimal amount of force is applied to it.
+
 B. Braces—Athletic braces are allowed but must meet the standards of padding above.
+
 i. A brace may include a hard element; however, any hard plastic or metal must be covered at all times during a game and, once covered, must pass the knock test.
-ii. If any hard plastic or metal becomes exposed, the player must leave the pitch and fix the problem (See: *2.5.7. Accidental equipment infringement*).
+
+ii. If any hard plastic or metal becomes exposed, the player must leave the pitch and fix the problem (See: *[2.5.7. Accidental equipment infringement](#257-accidental-equipment-infringement)*).
+
 iii. Referees reserve the right to refuse any brace that they believe presents a danger to anyone on the field.
+
 C. Athletic supporters—Athletic supporters (cups) which protect the groin are allowed.
+
 D. Glasses and eyewear—Players may wear glasses, goggles, or other eyewear.  
+
 i. No eyewear actually made of glass is allowed unless it is worn underneath goggles so the glass is not exposed.
+
 ii. Goggles made of metal, such as lacrosse “cage” goggles, are not allowed.
+
 E. Gloves—Gloves are allowed and are subject to the same rules as padding.
+
 F. Special equipment—Equipment approved through the waiver process.
+
 G. Any additional equipment must be approved by the head referee before the game. Any equipment that the referee determines to be dangerous or unfair to either team must not be permitted.
 
 ⚑ *Blue Card*—Using illegal additional equipment in play
@@ -598,17 +791,23 @@ All padding, braces, and special equipment must be presented to the head referee
 
 ### 2.5.7. Accidental Equipment Infringement
 
-In the event that a player’s previously legal equipment becomes illegal as a result of play:
+In the event that a player's previously legal equipment becomes illegal as a result of play:
 
 A. Play is not stopped unless the referee determines the infringement presents a danger.
-B. The player at fault must leave the pitch to correct the infringement immediately and may be replaced with a substitute.
-i. Players do not need to leave the pitch to replace a broken broom.
-C. Any player required to leave the pitch to correct equipment must not re-enter until the equipment has been replaced, repaired, or removed.
-i. Mandatory equipment must be replaced or repaired.
-a. If there is no replacement for a broom or headband available, the head referee must stop play until the equipment is provided.
-D. If the player does not leave the pitch upon being informed of the infringement, or re-enters play without correcting the infringement, that player is subject to penalty for disregarding an official’s directive.
 
-⚑ *Yellow Card*—Disregarding an official’s directive
+B. The player at fault must leave the pitch to correct the infringement immediately and may be replaced with a substitute.
+
+i. Players do not need to leave the pitch to replace a broken broom.
+
+C. Any player required to leave the pitch to correct equipment must not re-enter until the equipment has been replaced, repaired, or removed.
+
+i. Mandatory equipment must be replaced or repaired.
+
+a. If there is no replacement for a broom or headband available, the head referee must stop play until the equipment is provided.
+
+D. If the player does not leave the pitch upon being informed of the infringement, or re-enters play without correcting the infringement, that player is subject to penalty for disregarding an official's directive.
+
+⚑ *Yellow Card*—Disregarding an official's directive
 
 ### 2.5.8. Venue Specific Equipment Restrictions
 
@@ -627,6 +826,7 @@ It is illegal to intentionally alter any game equipment, including the game ball
 The following are forbidden equipment and may never be worn by players while in play:
 
 A. Audio or visual recording devices.
+
 B. Grip enhancing substances which might transfer to and affect a ball.
 
 ⚑ *Red Card*—Wearing forbidden equipment
@@ -634,9 +834,13 @@ B. Grip enhancing substances which might transfer to and affect a ball.
 ### 2.5.11. Jewelry
 
 A. Players are not permitted to wear jewelry while in play.
+
 i. Piercing retainers which are flush with the skin are allowed.
+
 ii. Medical alert bracelets designed for contact sports by being soft and flush to the skin are allowed
+
 B. Players wearing forbidden jewelry that does not impact gameplay will be ejected.
+
 C. Players wearing forbidden jewelry that impacts gameplay or the other team must receive a red card.
 
 ⚑ *Ejection*—Wearing forbidden jewelry that does not impact the game.
@@ -645,7 +849,7 @@ C. Players wearing forbidden jewelry that impacts gameplay or the other team mus
 
 ### 2.5.12. Equipment Waivers
 
-Players may seek exceptions to equipment rules. Such equipment is considered special equipment and must be approved by USQ via USQ’s equipment waiver policy prior to its use in any official game.
+Players may seek exceptions to equipment rules. Such equipment is considered special equipment and must be approved by USQ via USQ's equipment waiver policy prior to its use in any official game.
 
 # 3\. Game Procedures
 
@@ -656,12 +860,19 @@ Players may seek exceptions to equipment rules. Such equipment is considered spe
 Before any game, the head referee calls together representatives of the two teams to go over general rules.
 
 A. Each team must designate one person to serve as speaking captain to represent the team during the game.
+
 i. The speaking captain must attend the pregame meeting.
+
 ii. Additional team representatives may also attend the pregame meeting.
+
 B. The head referee should discuss the following with the team representatives:
+
 i. Any ground rules specific to the field.
+
 ii. The identity of the flag runner.
+
 iii. Any players the officials should be aware of regarding fielding a legal set of players.  
+
 iv. Any other concerns from the attending parties that are specific to the game.
 
 ### 3.1.2. Coin Toss
@@ -669,9 +880,13 @@ iv. Any other concerns from the attending parties that are specific to the game.
 Teams will participate in a coin toss to decide starting offense, defense, and field position.
 
 A. The toss shall be called while the coin is in the air by the team with the lower USQ ranking.
+
 i. If the ranking is inapplicable or unknown, the team that has traveled farthest from its point of origin shall call the toss.
+
 B. The winner of the coin toss will get to choose one of the options below. The team that loses the coin toss will make the other decision.
+
 i. Choose whether to start on offense or defense.
+
 ii. Choose which set of hoops they are attacking.
 
 ## 3.2. STARTING THE GAME
@@ -683,30 +898,55 @@ ii. Choose which set of hoops they are attacking.
 In order to begin the game:
 
 A. The starters on each team must begin the game on the pitch.
+
 i. Each team must start the game with three chasers, one keeper, and two beaters.
+
 ii. Players may change position headbands and location until brooms down.
+
 iii. Any player who receives a penalty card prior to the start of the game (or their substitute in the case of a red card) must start the game in the penalty box instead.
+
 B. Offensive team:
+
 i. One chaser and one beater will be positioned on the half of their keeper zone farther from the score table.
+
 ii. All other players will be on or behind the half of their goal line further from the score table.
+
 C. Defensive team:  
+
 i. Two beaters will be positioned on the half of their opponents keeper zone line closer to the score table.
+
 ii. All other players will be on or behind the half of their goal line closer to the score table.
+
 D. The head referee confirms that both teams and all other officials are ready.
+
 E. The head referee shouts “Brooms down\!”
+
 F. Once brooms down has been called:
+
 i. Players may not change their position, headbands, or location.
-ii. No part of a player’s body may contact the ground on or in front of their starting line.
+
+ii. No part of a player's body may contact the ground on or in front of their starting line.
+
 iii. Each player must have a broom in hand.
+
 a. The broom must remain otherwise flat on the ground until brooms up.
+
 G. The head referee shouts “Ready\!”
+
 H. The head referee shouts “Brooms up\!”
+
 i. On the first “B” sound of brooms up, all players must immediately mount their brooms.
+
 ii. If there is a false brooms up call, the head referee resets the players and repeats the full brooms up procedure.
+
 iii. In the event of any foul prior to brooms up, the head referee adjudicates the penalty, resets the players, and repeats the full brooms up procedure.
+
 I. A player that does either of the following after the head referee calls “Ready” but before the referee calls “Brooms up” has committed a false start and should send themselves back to hoops.  
+
 i. The player already has their broom off the ground at brooms up call.  
+
 ii. The player moves early and touches the other side of their starting line before brooms up.  
+
 J. A player that commits a false start and continues to pursue active play shall be given a blue card.
 
 ⚑ *Blue Card*—Changing position headbands or location after brooms down.
@@ -722,11 +962,17 @@ J. A player that commits a false start and continues to pursue active play shall
 To stop play:
 
 A. The referee blows a whistle in paired short blasts.
+
 B. The timekeeper stops the game time and all other time clocks.
+
 C. All players currently in play must stop, drop their brooms, and hold their respective positions unless otherwise directed by a referee.
+
 i. The players maintain any balls they possessed at the stoppage whistle, unless the ball is turned over.
+
 a. Players must not take hold of or otherwise move any other balls during a stoppage.  
+
 ii. Any players who are paused in an illegal position are adjusted immediately to a legal position.
+
 iii. Any players who accidentally and significantly moved after the whistle are returned to their location at the time the whistle was blown.
 
 ⚑ *Blue Card*—Substantially illegally moving during a stoppage.
@@ -738,43 +984,76 @@ iii. Any players who accidentally and significantly moved after the whistle are 
 While play is stopped:
 
 A. The head referee consults with other officials as necessary.
+
 B. The head referee adjudicates any fouls and communicates the type of foul to the players, scorekeeper, and spectators:
+
 i. Any player who receives penalty time is sent to the penalty box.
+
 ii. Any person who is ejected is removed from the player area.
+
 C. If a change of possession occurs, the appropriate procedure shall be followed before play is restarted.
+
 D. Any loose ball rolling or bouncing on the ground after the stoppage is returned to the spot an official first sees it on the ground after the whistle.
-i. Players may not stop these balls unless directed to by an official.  
+
+i. Players may not stop these balls unless directed to by an official.
+
 E. Any loose live ball that was propelled and had not touched anything (including other players, equipment, or the ground) before the whistle to stop play is returned to the player who propelled it.
+
 i. This rule does not take effect if the ball is otherwise turned over.
+
 ii. If the propelling player is not eligible to receive the ball, it shall not be moved by this rule.
-F. Any loose ball out-of-bounds after the whistle to stop play follows the below inbounding procedures (also see *7.5.4. Inbounding Procedure*).
+
+F. Any loose ball out-of-bounds after the whistle to stop play follows the below inbounding procedures (also see *[7.5.4. Inbounding Procedure](#754-inbounding-procedure)*).
+
 i. If a dodgeball is out-of-bounds during a stoppage, the closest eligible beater will be given the option to move to the inbounding point and be provided possession of the dodgeball.  
-a. If the closest eligible beater declines the ball, the ball will instead be moved approximately 1 foot inside the boundary and left on the ground unpossessed.  
-ii. If the Quadball is out-of-bounds during a stoppage, the closest eligible player will be moved to the inbounding point and provided possession of the Quadball.  
+
+a. If the closest eligible beater declines the ball, the ball will instead be moved approximately 1 foot inside the boundary and left on the ground unpossessed.
+
+ii. If the Quadball is out-of-bounds during a stoppage, the closest eligible player will be moved to the inbounding point and provided possession of the Quadball.
+
 iii. The above two clauses do not apply to balls in the process of being inbounded through penalty adjudications, including turnovers and other rules moving the ball elsewhere.
+
 G. Any external interference is removed.
-H. Any other concerns, including injured players and defective equipment, are addressed.  
+
+H. Any other concerns, including injured players and defective equipment, are addressed.
+
 I. If the Quadball would be dead when play is restarted, it is given to the formerly defending keeper.
 
 ### 3.3.3. Restarting Play
 
 In order to restart play:  
-A. The head referee indicates to the players that play is about to resume by calling for the players to “Remount\!”  
+A. The head referee indicates to the players that play is about to resume by calling for the players to “Remount\!”
+
 i. Players must remount their brooms where the brooms were left when play was stopped.
+
 ii. Players must stand at the call to remount.
+
 a. If two or more players on the ground each had a grip on a ball at the moment when play was stopped, they still must stand. Once standing, each may retake hold of that ball. They do not need to hold it in the same way they had on the ground.
+
 iii. Players may otherwise reposition themselves to prepare for the restart but must not commit a false restart.
+
 a. It is a false restart if a player does any of the following before the restart whistle:
+
 1\. Begin the forward motion of a throw.
+
 2\. Initiate new contact.
+
 3\. Begin to move off their location.
+
 4\. Attempting to directly affect a ball which the player does not solely possess.
+
 b. If there is a false restart, play remains stopped, and any player who moved is returned to their previous location.
+
 c. The first false restart of a stoppage will result in a warning to all players on the field.
+
 1\. Any subsequent false restart by any player on the same stoppage shall result in a penalty.
+
 B. The head referee blows one short whistle blast. On this whistle blast:
+
 i. Play resumes.
+
 a. Any player who is not mounted on their broom at the restart whistle is dismounted.
+
 ii. The timekeeper resumes the game time and all other time clocks.
 
 ⚑ *Back to Hoops*—Second false restart
@@ -782,12 +1061,18 @@ ii. The timekeeper resumes the game time and all other time clocks.
 ### 3.3.4. Timeouts
 
 A. Once during regulation time, the speaking captain may call a timeout for a one minute stoppage.
+
 B. Procedure:  
+
 i. A speaking captain informs the head referee they would like to use their timeout.
-a. When play is stopped, the head referee must first follow all procedures of *3.3.2 Stoppage Procedures* before starting the timeout.  
+
+a. When play is stopped, the head referee must first follow all procedures of *[3.3.2 Stoppage Procedures](#332-stoppage-procedures)* before starting the timeout.  
+
 b. If requested during play, the head referee may stop play to accommodate a timeout if they determine there is no active play immediately occurring.
+
 ii. The head referee shall blow one long whistle blast 45 seconds into the timeout.
-iii. After the completion of the timeout, the head referee shall resume play using the standard restart procedure (see: *3.3.3. Restarting Play*).
+
+iii. After the completion of the timeout, the head referee shall resume play using the standard restart procedure (see: *[3.3.3. Restarting Play](#333-restarting-play)*).
 
 ## 3.4. REGULATING GAME TIME
 
@@ -824,18 +1109,30 @@ iv. If a stoppage occurs due to a penalty by the defending team during the final
 ### 3.4.4. Intermission
 
 A. The head referee will stop play for one minute once the last possession of the seeker floor period ends.
-B. Once all stoppage procedures are completed (see: *3.3.2. Stoppage Procedures*) the one minute intermission starts.
+
+B. Once all stoppage procedures are completed (see: *[3.3.2. Stoppage Procedures](#332-stoppage-procedures)*) the one minute intermission starts.
+
 C. During the intermission:
-i. All clocks remain stopped.  
+
+i. All clocks remain stopped.
+
 ii. The head referee will establish completion requirements following current gameplay policy, checking with speaking captains to confirm any necessary information (concession, legal set of players, etc).  
+
 iii. The head referee will establish and announce a set score of 60 points over the current leading score.
+
 a. This set score should be displayed at the score table where it can be easily seen by both teams for the remainder of the game.
+
 iv. A seeker from each team should report to the timekeeper.
+
 v. The flag runner must enter the player area.
+
 vi. Players may substitute during the intermission.
+
 D. Resuming after an intermission
+
 i. The head referee shall blow one long whistle blast 45 seconds into the intermission.
-ii. After the completion of the intermission, the head referee shall resume play using the standard restart procedure (see: *3.3.3. Restarting Play*).
+
+ii. After the completion of the intermission, the head referee shall resume play using the standard restart procedure (see: *[3.3.3. Restarting Play](#333-restarting-play)*).
 
 ### 3.4.5. Flag Period
 
@@ -857,7 +1154,7 @@ iii. Seekers return to their benches as substitutes.
 
 a. If a seeker would be serving time in the penalty box when play resumes, they must immediately switch positions with a player in play other than the keeper. They serve the remainder of the penalty in that position and the new seeker returns to the bench as a substitute.
 
-C. The game will end when either team reaches the set score (see: *3.4.4.C.ii.*)
+C. The game will end when either team reaches the set score (see: *[3.4.4.C.ii.](#334-timeouts)*)
 
 ⚑ *Blue Card—*Seeker false start.
 
@@ -866,37 +1163,55 @@ C. The game will end when either team reaches the set score (see: *3.4.4.C.ii.*)
 ### 3.5.1. Declaring a Forfeit
 
 A. The head referee must declare a game forfeit if:
+
 i. The speaking captain of a team officially requests a forfeit.  
+
 ii. A team refuses to resume a suspended game without the agreement of their opponent and the tournament director.
+
 iii. A forfeit penalty is administered.
+
 B. A game may be declared forfeit due to violations of league or tournament policy.
+
 C. In the event of a forfeit:
+
 i. The game is over immediately and the forfeiting team is declared the losing team.
+
 ii. All players should clear the pitch.
 
 ## 3.6. SUSPENDED GAMES
 
 ### 3.6.1. Declaring a Suspended Game
 
-A. The head referee or tournament director may declare a game suspended due to weather, safety concerns, extreme or inappropriate unsporting behavior (see: *6.6. Unsporting Behavior*), danger from spectators, or external interference.
+A. The head referee or tournament director may declare a game suspended due to weather, safety concerns, extreme or inappropriate unsporting behavior (see: *[6.6. Unsporting Behavior](#66-unsporting-behavior)*), danger from spectators, or external interference.
+
 B. Suspended games must be recorded with the current game time, score, players in play, and possession of all game balls.
+
 C. Suspended games should be resumed as soon as it has become safe to do so.
 
 ### 3.6.2. Resuming a Suspended Game
 
-A. If any of the game’s original officials are unavailable, the tournament director or head referee shall ensure they are replaced.
+A. If any of the game's original officials are unavailable, the tournament director or head referee shall ensure they are replaced.
+
 B. All players in play at the suspension must line up behind their respective keeper zone lines.
+
 i. If, while play was suspended, a player who was in play became unavailable to play for any reason, another player on the roster may replace them.
+
 C. Game balls must be given to the appropriate players based on the possession information recorded at the time the game was suspended.
+
 i. Any balls which were not possessed when play was stopped shall be placed at one of the four ball positions, filling the inner positions first, followed by the outer positions.
+
 a. If the Quadball was unpossessed, it must go on an inner position.
+
 D. If the suspension occurred after the seekers were released, the flag runner should enter the player area before the game resumes and the seekers must line up behind their keeper zone lines.
-E. The head referee begins play by following the brooms up procedure with the exception of ball possession (s*ee: 3.2.1. Brooms Up Procedure*).
+
+E. The head referee begins play by following the brooms up procedure with the exception of ball possession (see: *[3.2.1. Brooms Up Procedure](#321-brooms-up-procedure)*).
 
 ### 3.6.3. Abandoned Games
 
 A. If a suspended game cannot be resumed during the event at which it is being held, the tournament director must declare the game abandoned.
+
 B. If both teams and the tournament director mutually decide to not restart a suspended game, then the tournament director may declare the game abandoned.
+
 i. If one or both teams refuses to resume play without the agreement of the opposing team and the tournament director, the team(s) refusing to play shall be declared to have forfeited the game.
 
 # 4\. Scoring
@@ -905,36 +1220,52 @@ i. If one or both teams refuses to resume play without the agreement of the oppo
 
 ### 4.1.1. Good Goal
 
-Ten points are scored for a team when the Quadball passes entirely through their opponent’s hoops, regardless of who propelled it, and the goal is confirmed as good.
+Ten points are scored for a team when the Quadball passes entirely through their opponent's hoops, regardless of who propelled it, and the goal is confirmed as good.
 
 A. All of the following must be true for a goal to be counted as good:
+
 i. The whole Quadball passed through one of the hoops.
+
 a. Goals may be scored through either side of the hoops.
+
 ii. The Quadball was not dead.
-iii. The Quadball was not unscorable (see: *5.6.3 Unscorable Quadball*).
+
+iii. The Quadball was not unscorable (see: *[5.6.3 Unscorable Quadball](#563-unscorable-quadball)*).
+
 iv. The goal did not occur between a foul resulting in a red card, a yellow card, or a turnover by any member of the scoring team and the time the penalty was administered.
+
 v. The scoring player did not commit a foul resulting in a back to hoops penalty, penalty card, or ejection immediately before receiving the Quadball or while in contact with a live Quadball.
-vi. The hoop was not dislodged or otherwise unplayable (see: *4.3.1. Scoring Through a Dislodged Hoop*).
+
+vi. The hoop was not dislodged or otherwise unplayable (see: *[4.3.1. Scoring Through a Dislodged Hoop](#431-scoring-through-a-dislodged-hoop)*).
+
 B. The Quadball becomes dead as soon as a good goal has been scored.
+
 C. The head referee confirms that a goal is good by blowing one long whistle blast and raising both arms.
 
 ### 4.1.2. Goaltending
 
 A. A play is considered goaltending, and is scored as if the Quadball had gone through the hoop, if either of the following are true:
+
 i. A player within their own keeper zone, other than the keeper, touches the Quadball with a part of themselves or their equipment that is extended through a hoop from the side where the Quadball would exit.
+
 ii. A player within their own keeper zone, other than the keeper, touches the Quadball while it is part way through a hoop with a part of themselves or their equipment that is positioned on the opposite side of the hoop from where the Quadball entered.
 
 ## 4.2. RESTARTING AFTER A GOAL
 
 ### 4.2.1. Dead Quadball
 
-After a goal is scored, the Quadball is dead until the keeper restart procedure (see: *4.2.2 Keeper Restart*)  is completed.
+After a goal is scored, the Quadball is dead until the keeper restart procedure (see: *[4.2.2 Keeper Restart](#422-keeper-restart)*) is completed.
 
-A. Any player on the formerly defending keeper’s team may carry or pass the dead Quadball to the keeper in that keeper’s own keeper zone, but may not otherwise interact with the dead Quadball.
+A. Any player on the formerly defending keeper's team may carry or pass the dead Quadball to the keeper in that keeper's own keeper zone, but may not otherwise interact with the dead Quadball.
+
 i. Substitutes may pass the dead Quadball to their keeper in this manner, but must always remain in the substitution area or bench while doing so.
+
 ii. The formerly offensive team may not pick up or otherwise intentionally interact with the dead Quadball, unless they are providing it to the keeper at the request of the formerly defending team or an official.
+
 B. Players shall not be penalized for playing as if the Quadball is live before the goal is confirmed.
+
 i. This shall not apply if the player is ruled to be acting with the intent to affect the restart of the Quadball game.
+
 C. If a penalty turns over a dead Quadball to the formerly offensive team, the Quadball becomes live upon the restart after the turnover.
 
 ⚑ *Blue Card*—Intentionally and illegally interacting with a dead Quadball
@@ -942,11 +1273,16 @@ C. If a penalty turns over a dead Quadball to the formerly offensive team, the Q
 ### 4.2.2. Keeper Restart
 
 A. The keeper must possess the Quadball in their own keeper zone to make it live if:  
+
 i. The Quadball is touched by anyone else after the goal.
+
 ii. The Quadball leaves the pitch boundaries.
-iii.The Quadball enters the opposing team’s half.
+
+iii.The Quadball enters the opposing team's half.
+
 B. The referee shall pass the Quadball to the keeper either at their request or if the keeper must possess the Quadball in their zone and doing so would expedite the Quadball restart.
-C. The head referee shall blow one short whistle blast after Quadball play is restarted by the keeper’s possession.
+
+C. The head referee shall blow one short whistle blast after Quadball play is restarted by the keeper's possession.
 
 ## 4.3. BROKEN OR FALLEN HOOPS
 
@@ -955,12 +1291,19 @@ C. The head referee shall blow one short whistle blast after Quadball play is re
 A hoop that has become dislodged cannot be scored upon.
 
 A. A hoop is dislodged if:  
+
 i. The hoop loop touches the ground or the hoop otherwise comes to a rest even temporarily in a non-upright position, including on top of a player.
+
 ii. The hoop loop detaches from the pole, or the pole detaches from the base.
+
 iii. Any part of the hoop breaks such that it cannot serve its function.
+
 B. If a hoop is in the process of being dislodged when the Quadball passes completely through it, the goal is good.
+
 C. A hoop that is turned so that the hoop loop is no longer in line with the goal line is not dislodged and may be scored upon.
+
 i. Turned hoops should be returned to the proper position once active play leaves the area.
+
 D. A dislodged hoop must be fixed and returned to its correct position before a goal may again be scored on that hoop.
 
 ### 4.3.2. Dislodged Hoop Procedure
@@ -968,32 +1311,48 @@ D. A dislodged hoop must be fixed and returned to its correct position before a 
 When a hoop is dislodged, play generally continues.
 
 A. If a hoop is dislodged and any of the following occur, play must be stopped.
+
 i. A broken hoop poses a threat to the safety of the players.
+
 ii. A broken hoop requires extra parts or an unusually long time to fix and the team defending that broken hoop is the offensive team.
+
 a. The head referee may wait for a lull in play to initiate this stoppage.
+
 iii. All three hoops in the same keeper zone are dislodged.
+
 B. Any dislodged hoops shall be reset to their proper positions during any stoppage.
+
 C. If play is not stopped for a dislodged hoop, it shall be fixed while play has moved away from the area.
-D. The Quadball carrier may request play be stopped to fix an opponent’s dislodged hoop if the Quadball carrier is in their own half of the player area and is not contacted by an opposing player.
+
+D. The Quadball carrier may request play be stopped to fix an opponent's dislodged hoop if the Quadball carrier is in their own half of the player area and is not contacted by an opposing player.
 
 ### 4.3.3. Dislodging, Spinning, and Resetting Hoops
 
-A. Players may not reset their opponent’s dislodged hoops while their team is the offensive team.
+A. Players may not reset their opponent's dislodged hoops while their team is the offensive team.
+
 B. Players may not recklessly dislodge hoops.
+
 C. Players may not repeatedly dislodge hoops.  
+
 D. A player may not move or alter a hoop to affect whether the Quadball will pass through it.
+
 E. The above rules do not apply in the following instances:  
+
 i. A hoop is unintentionally dislodged or moved by a thrown ball.
+
 ii. An offensive chaser dislodges a hoop while attempting a contested score.
+
 iii. A player dislodges or moves a hoop as a result of their own physical interaction with an opposing player.
+
 F. If a player illegally dislodges a hoop while successfully attempting a goal, that goal shall not be negated by the penalty for dislodging the hoop.
+
 G. A player may not intentionally dislodge a hoop.
 
-⚑ *Blue Card*—Illegally resetting an opponent’s hoop
+⚑ *Blue Card*—Illegally resetting an opponent's hoop
 
 ⚑ *Blue Card*—Recklessly dislodging a hoop
 
-⚑ *Blue Card*—Recklessly moving hoops in the Quadball’s path
+⚑ *Blue Card*—Recklessly moving hoops in the Quadball's path
 
 ⚑ *Yellow Card*—Repeatedly dislodging a hoop
 
@@ -1008,15 +1367,25 @@ G. A player may not intentionally dislodge a hoop.
 Thirty-five points are scored for a team that caught the flag after the catch is confirmed good and the period ends.
 
 A. A flag catch is confirmed when all of the following are true:
+
 i. A seeker has detached the flag from the flag runner and holds sole possession of the flag during the instant that it is separated from the flag runner.
+
 ii. The flag was securely attached to the shorts of the flag runner before the catch.  
-iii. The flag runner was not down at the time of the catch (see: *8.4.1. Downed* F*lag* R*unner*).  
+
+iii. The flag runner was not down at the time of the catch (see: *[8.4.1. Downed Flag Runner](#841-downed-flag-runner)*).
+
 iv. The seeker did not catch the flag after committing a foul resulting in a back to hoops penalty, penalty card, or ejection and the time that penalty was administered.  
+
 v. The catch did not occur between a foul resulting in a red card, a yellow card, or a turnover by any member of the scoring team and the time the penalty was administered.
+
 vi. The flag was not physically impeded by any game official or member of the catching team in a way that may have contributed to the catch.
-a. Physical impediments caused solely by the actions listed under *6\.*4*.1. Seeker* I*nteractions with the* F*lag* R*unner* shall be ignored, if those actions were executed legally by the seeker.
+
+a. Physical impediments caused solely by the actions listed under *[6.4.1. Seeker Interactions with the Flag Runner](#641-seeker-interactions-with-the-flag-runner)* shall be ignored, if those actions were executed legally by the seeker.
+
 vii. The seeker was not knocked out at the time of the catch.
+
 viii. The seekers did not simultaneously remove the flag from the flag runner.
+
 ix. Play was not stopped when the flag was caught.
 
 ### 4.4.2. Signaling the Catch
@@ -1030,10 +1399,15 @@ B. If the catch is confirmed, the catching team is awarded thirty-five points an
 ### 4.5.1. Closely Timed Plays
 
 A. When a score and either a foul by the scoring team or another valid score by either team occur in quick succession, the head referee must determine which happened first based on the available evidence.
+
 i. Only statements by game officials shall be treated as evidence.
+
 ii. If a valid score that would end the game occurred before the foul, the score must be counted.
+
 iii. If, and only if, there is no evidence whatsoever available as to which event occurred first, the head referee may declare the events synchronous.
+
 a. If a score-negating foul and an otherwise good score are declared synchronous, the score shall be disallowed.
+
 b. If two good scores are declared synchronous, both scores must be counted.
 
 # 5\. Dodgeballs and the Knockout Effect
@@ -1045,14 +1419,18 @@ b. If two good scores are declared synchronous, both scores must be counted.
 All players must be mounted on a broom in order to participate in play.
 
 A. To mount the broom the player must have their broom between their legs and touching some part of their body.
+
 B. The player remains mounted until one of the following occurs:
-i. Their broom (or arm that is holding the broom) no longer crosses the plane between the player’s legs.
+
+i. Their broom (or arm that is holding the broom) no longer crosses the plane between the player's legs.
+
 ii. The player loses contact with their broom.
-iii.Their broom lays flat on the ground without the player’s hand underneath it.
+
+iii.Their broom lays flat on the ground without the player's hand underneath it.
 
 ### 5.1.2. Dismounting
 
-1. If a player becomes dismounted while in play, the player is immediately knocked out and must follow the knockout procedure (see: *5.3. The Knockout Procedure*).
+1. If a player becomes dismounted while in play, the player is immediately knocked out and must follow the knockout procedure (see: *[5.3. The Knockout Procedure](#53-the-knockout-procedure)*).
    i. If a player is dismounted by the illegal actions of an opponent, an official may allow the player to immediately remount and continue play. If the player does not immediately remount, then they must follow the knockout procedure.
 
 ## 5.2. KNOCKING OUT PLAYERS
@@ -1060,16 +1438,25 @@ iii.Their broom lays flat on the ground without the player’s hand underneath i
 ### 5.2.1. Incurring the Knockout Effect
 
 A. A player is “knocked out” when either of the following occur:
+
 i. The player becomes dismounted.
-ii. The player is struck by an opponent’s live dodgeball.
-a. This includes being struck on the player’s hair, clothing, or equipment other than a game ball.
-b. The following players are not knocked out when struck by an opponent’s live dodgeball:
-1\. Protected keepers (see: *7.2.2. Keeper-Specific Powers*).
-2\. Beaters with knockout immunity (see: *5.5.2. Claiming Knockout Immunity*).
-3\. Inbounding players while out-of-bounds to inbound a ball (see: *7.5.4.*
-*Inbounding Procedure*).  
-c. Beaters who are not immune may delay dismounting in order to attempt to catch the dodgeball that struck them, until it becomes dead (see: *5.4.3. Struck Beater*).
-B. Players must immediately follow the knockout procedure once knocked out (see: *5.3.1. The Knockout Procedure*).
+
+ii. The player is struck by an opponent's live dodgeball.
+
+a. This includes being struck on the player's hair, clothing, or equipment other than a game ball.
+
+b. The following players are not knocked out when struck by an opponent's live dodgeball:
+
+1\. Protected keepers (see: *[7.2.2. Keeper-Specific Powers](#722-keeper-specific-powers)*).
+
+2\. Beaters with knockout immunity (see: *[5.5.2. Claiming Knockout Immunity](#552-claiming-knockout-immunity)*).
+
+3\. Inbounding players while out-of-bounds to inbound a ball (see: *[7.5.4. Inbounding Procedure](#754-inbounding-procedure)*)
+
+c. Beaters who are not immune may delay dismounting in order to attempt to catch the dodgeball that struck them, until it becomes dead (see: *[5.4.3. Struck Beater](#543-struck-beater)*).
+
+B. Players must immediately follow the knockout procedure once knocked out (see: *[5.3.1. The Knockout Procedure](#531-the-knockout-procedure)*).
+
 i. Players must not willfully ignore being knocked out.
 
 ⚑ *Yellow Card*—Willfully ignoring being knocked out
@@ -1079,11 +1466,17 @@ i. Players must not willfully ignore being knocked out.
 In order to cause the knockout effect, a dodgeball must be live.
 
 A. To be live, a dodgeball must:
+
 i. Either be thrown, kicked, or otherwise intentionally propelled by a beater or be intentionally dropped by a beater when not required to be dropped by a rule.  
+
 ii. Must not have been in contact with an opponent at the moment it was released, or otherwise finished being propelled.
+
 iii. Must not have touched the ground or any hoop base, become out-of-bounds, or been caught.
+
 a. In these cases, the dodgeball is live until the action indicated has occurred.
-iv. Must not have been stripped by an opponent’s body, another dodgeball, or the Quadball.
+
+iv. Must not have been stripped by an opponent's body, another dodgeball, or the Quadball.
+
 B. Any dodgeball that is not live is considered dead.
 
 ### 5.2.3. Held Dodgeballs
@@ -1103,15 +1496,24 @@ A player cannot be knocked out by a dodgeball most recently made live by themsel
 If a player is struck by a dodgeball which cannot knock them out, the referee shall call that player “safe” or “clear” unless they otherwise become knocked out.
 
 A. Players struck by a dodgeball should dismount and begin the knockout procedure immediately (unless the player is a struck beater attempting to catch the live dodgeball).  
+
 i. If a player has been struck by a dodgeball, and is not called “safe” or “clear” by an official, then that player is subject to the knockout effect.  
-B. If the player dismounts due to being struck by a dodgeball but is then called “safe” or “clear,” the player may remount at an official’s direction and continue play.  
-i. If the player does not quickly remount at the official’s direction, that player must instead complete the knockout procedure.  
+
+B. If the player dismounts due to being struck by a dodgeball but is then called “safe” or “clear,” the player may remount at an official's direction and continue play.  
+
+i. If the player does not quickly remount at the official's direction, that player must instead complete the knockout procedure.  
+
 C. If the player fails to begin the knockout procedure immediately, a penalty may apply.  
+
 i. If the final call on that dodgeball hit is “safe” or “clear,” play shall continue and no penalty shall apply.  
+
 ii. If an official called the player “safe” or “clear” but the call changes to “beat,” the player shall receive no penalty for failing to dismount as long as the player responds to the “beat” call by dismounting.  
-iii. If no referee called the player “safe” or “clear” and the final call on that dodgeball hit is “beat,” the player shall be considered to be willfully ignoring being knocked out.  
-a. If the official believes that the player was unaware that the dodgeball touched them, then the official may treat it as an unnoticed knockout (see: *5.3.4. Unnoticed Knockout*).  
-1\. A player’s belief that they are otherwise safe from the dodgeball shall not be taken into consideration when determining any appropriate penalty.
+
+iii. If no referee called the player “safe” or “clear” and the final call on that dodgeball hit is “beat,” the player shall be considered to be willfully ignoring being knocked out.
+
+a. If the official believes that the player was unaware that the dodgeball touched them, then the official may treat it as an unnoticed knockout (see: *[5.3.4. Unnoticed Knockout](#534-unnoticed-knockout)*).
+
+1\. A player's belief that they are otherwise safe from the dodgeball shall not be taken into consideration when determining any appropriate penalty.
 
 ⚑ *Yellow Card*—Willfully ignoring being knocked out
 
@@ -1120,10 +1522,15 @@ a. If the official believes that the player was unaware that the dodgeball touch
 Propelled live dodgeballs whose first contact is with the head or neck of an opponent are considered headbeats.
 
 A. A headbeat is illegal unless:
+
 i. The struck player changes speed or direction into the path of the dodgeball after the possessing beater has begun the final motion of their knockout attempt.
+
 a. This includes moving a part of the body if that action moves their head into the path of the dodgeball.
+
 ii. The headbeat only grazes the head or makes contact with negligible force.
+
 iii. The headbeat was propelled when the opposing player was at least 6 yards away.
+
 B. A player who is struck by an illegal headbeat will be instructed to remount by an official.
 
 ⚑ *Yellow Card*—Illegal headbeat
@@ -1137,13 +1544,21 @@ B. A player who is struck by an illegal headbeat will be instructed to remount b
 Knocked out players remain knocked out until they complete the following procedure, in order:
 
 A. Immediately give up possession of any ball by dropping it and dismounting their broom.  
-i. The player must not pass, toss, roll, or kick the ball, unless completing a natural motion already begun (see: *5.6.2. Natural motion conditions*).  
+
+i. The player must not pass, toss, roll, or kick the ball, unless completing a natural motion already begun (see: *[5.6.2. Natural motion conditions](#562-natural-motion-conditions)*).
+
 ii. A dodgeball dropped in this way is dead.  
+
 iii. A Quadball dropped in this way is unscorable.  
+
 B. Touch the center (6ft) hoop.  
+
 i. The player must touch either the hoop loop or pole, not the hoop base.
+
 ii. The player must touch the hoop with some part of their body, not with their broom.  
+
 iii.If the 6ft hoop is dislodged, a player may tag in at any part of it still attached to the hoop base, including the base itself.  
+
 C. Remount their broom before leaving the vicinity of the hoops.
 
 ⚑ *Repeat Procedure*—Violating the knockout procedure
@@ -1155,10 +1570,15 @@ C. Remount their broom before leaving the vicinity of the hoops.
 Knocked out players must not interact with play and must therefore:
 
 A. Not make any plays.  
-B. Not propel or otherwise play any game ball other than in cases of natural motion (see: *5.6.2. Natural Motion Conditions*).  
+
+B. Not propel or otherwise play any game ball other than in cases of natural motion (see: *[5.6.2. Natural Motion Conditions](#562-natural-motion-conditions)*).
+
 i. If the player illegally propels a ball immediately after the player is knocked out, it shall be adjudicated as a natural motion violation.  
+
 C. Drop any balls that are currently possessed.  
+
 D. Actively avoid interactions with other players.  
+
 E. Not substitute out while play is not stopped.
 
 ⚑ *Blue Card*—Illegally interacting with play while knocked out
@@ -1166,27 +1586,34 @@ E. Not substitute out while play is not stopped.
 ### 5.3.3. Making Contact as a Knocked Out Player
 
 A. A knocked out player may not initiate any physical contact, other than incidental contact.  
+
 i. If a player is in the final motion of making contact before becoming knocked out by a dodgeball, they may complete that motion if it could not reasonably be stopped.  
+
 a. The player must immediately act to cease that contact.  
+
 b. If a player takes two steps between being knocked out and initiating contact with an opponent, then that contact is illegal.  
+
 ii. While knocked out, it is illegal for a player to initiate a push, body block, charge, or wrap.  
+
 B. If a knocked out player is already in contact with an opponent before becoming knocked out, they must immediately act to cease contact safely and with as little effect to the opponent as reasonably possible.
 
 ⚑ *Yellow Card*—Illegal contact while knocked out
 
 ### 5.3.4. Unnoticed Knockout
 
-If a player unintentionally continues play after dismounting or being hit by an opponent’s live dodgeball:
+If a player unintentionally continues play after dismounting or being hit by an opponent's live dodgeball:
 
 A. The referee verbally and visually informs the player that they have been knocked out.
+
 B. The referee may stop play in order to inform the player that they have been knocked out.
+
 i. If this occurs, any ball the player possessed when play was stopped is turned over to the opposing team.
 
-C. If a player affects play while unaware that they had been dismounted or hit by an opponent’s live dodgeball, they have affected play while unknowingly knocked out.
+C. If a player affects play while unaware that they had been dismounted or hit by an opponent's live dodgeball, they have affected play while unknowingly knocked out.
 
 i. If the player makes otherwise legal contact while unaware of being knocked out by a dodgeball, they are only subject to this penalty for that contact.
 
-ii. If a player propels a ball in violation of the natural motion rules immediately after being knocked out, they are not subject to this penalty for that propulsion (see: *5.6.2. Natural Motion Conditions*).
+ii. If a player propels a ball in violation of the natural motion rules immediately after being knocked out, they are not subject to this penalty for that propulsion (see: *[5.6.2. Natural Motion Conditions](#562-natural-motion-conditions)*).
 
 ⚑ *Blue Card*—Affecting play while unknowingly knocked out
 
@@ -1197,9 +1624,13 @@ ii. If a player propels a ball in violation of the natural motion rules immediat
 A player in possession of a ball may attempt to block or bat an incoming live dodgeball with the ball in their possession:
 
 A. The held ball may be used to bat or otherwise propel the incoming dodgeball.  
+
 B. A block or bat does not affect whether the dodgeball is live.  
+
 C. A dead Quadball may not be used to intentionally interact with a dodgeball.  
+
 D. Players may not intentionally use a held ball to interact with a Quadball, a dead dodgeball, or a dodgeball that was made live by a teammate.  
+
 i. If the referee determines that the player was not reasonably aware that the dodgeball was either dead or made live by their own teammate, and the play was otherwise legal, the player shall not be penalized.
 
 ⚑ *Blue Card*—Illegal bat
@@ -1209,13 +1640,15 @@ i. If the referee determines that the player was not reasonably aware that the d
 Any attempt to swat or otherwise intentionally propel a live dodgeball, other than through the use of another ball, is considered a dodgeball swat.
 
 A. Beaters and seekers may generally swat or make any attempt to alter the course of a live dodgeball, under the below conditions:  
-i. A struck beater may not swat any dodgeball, except as part of an attempt to catch it (see: *5.4.3. Struck Beater*).  
+
+i. A struck beater may not swat any dodgeball, except as part of an attempt to catch it (see: *[5.4.3. Struck Beater](#543-struck-beater)*).
+
 ii. A seeker may not begin the swatting motion of their swat after they are subject to the knockout effect. Judging a swatting motion will follow rules of natural motion.
 
 1. After a swat, if the first contact of the propelled ball is out-of-bounds (including a player), the swat shall be intentionally propelling a ball out-of-bounds.  
    iii. A beater who is in possession of a dodgeball may not swat another dodgeball.
 
-   a. This rule does not prohibit batting a live dodgeball with a held dodgeball (see: *5.4.1. Blocking and Batting Dodgeballs*).
+   a. This rule does not prohibit batting a live dodgeball with a held dodgeball (see: *[5.4.1. Blocking and Batting Dodgeballs](#541-blocking-and-batting-balls)*).
 
    iv. If the dodgeball was already live, it remains live for the original team.
 
@@ -1227,19 +1660,30 @@ a. If it was live for the opposing team, the swatting beater becomes a struck be
 
 ### 5.4.3. Struck Beater
 
-A non-immune beater is a struck beater, rather than knocked out, from the time they are hit by an opponent’s live dodgeball until that dodgeball becomes dead. A struck beater is subject to the following restrictions:
+A non-immune beater is a struck beater, rather than knocked out, from the time they are hit by an opponent's live dodgeball until that dodgeball becomes dead. A struck beater is subject to the following restrictions:
 
 A. A struck beater is unable to make a dodgeball live.  
+
 B. A struck beater must immediately drop any dodgeball which they are holding.  
-i. The player must not pass, toss, roll, or kick the dodgeball, unless completing a natural motion already begun (see: *5.6.2. Natural Motion Conditions*).  
+
+i. The player must not pass, toss, roll, or kick the dodgeball, unless completing a natural motion already begun (see: *[5.6.2. Natural Motion Conditions](#562-natural-motion-conditions)*).
+
 ii. Failure to release the dodgeball is a struck beater violation.  
+
 C. A struck beater must either attempt to catch the live dodgeball that struck them or immediately follow the knockout procedure after dropping any dodgeball formerly in their possession.  
+
 i. A beater is allowed to propel a dodgeball farther into the air in the process of attempting a catch.  
+
 ii. A struck beater is not eligible to be a helpless receiver.
+
 iii. After the initial hit, any intentional attempt by the struck beater to change the direction of any dodgeball, in any manner, other than to attempt to catch the dodgeball that struck them is a struck beater violation.  
-D. If a struck beater takes any actions other than those outlined in *5.4.3.A. through 5.4.3.C.*, they are subject to the same rules and penalties for those actions as a knocked out player.  
+
+D. If a struck beater takes any actions other than those outlined in *[5.4.3.A. through 5.4.3.C.](#543-struck-beater)*, they are subject to the same rules and penalties for those actions as a knocked out player.  
+
 E. If a struck beater catches the dodgeball before it otherwise becomes dead, that beater is no longer subject to the knockout effect.  
+
 i. A struck beater still incurs the knockout effect from all live dodgeballs propelled by opponents which hit them while they are a struck beater unless they also catch those dodgeballs before they become dead.  
+
 F. A struck beater who fails to catch the dodgeball before it becomes dead is knocked out and must immediately begin the knockout procedure.
 
 ⚑ *Blue Card*—Struck beater violation
@@ -1251,16 +1695,27 @@ F. A struck beater who fails to catch the dodgeball before it becomes dead is kn
 When one team has possession of two dodgeballs and the remaining dodgeball is unpossessed and dead, the dead dodgeball becomes the third dodgeball.
 
 A. This ball remains the third dodgeball until one of the following occurs:  
+
 i. The possessing team makes a reasonable beat attempt.  
+
 ii. The possessing team loses a dodgeball due to the direct actions of an opposing player.  
+
 iii.The team without a dodgeball gains possession of any dodgeball.  
+
 B. Players on the possessing team may not commit third dodgeball interference.  
+
 i. It is third dodgeball interference if either:  
+
 a. A player from the possessing team takes possession of or in any way attempts to move the third dodgeball.  
+
 b. A player from the possessing team prevents or delays the other team from getting to the third dodgeball by continually or intentionally moving into their path.  
-ii. The two dodgeballs turned over for third dodgeball interference are chosen at the referee’s discretion, but should:  
+
+ii. The two dodgeballs turned over for third dodgeball interference are chosen at the referee's discretion, but should:  
+
 a. Generally include the third dodgeball.  
-b. Ensure that the player who violated the rule doesn’t keep a dodgeball.  
+
+b. Ensure that the player who violated the rule doesn't keep a dodgeball.  
+
 c. Be relevant to active play.
 
 ⚑ *Back to Hoops and Double Dodgeball Turnover*—Third dodgeball interference
@@ -1270,13 +1725,21 @@ c. Be relevant to active play.
 When there is a third dodgeball, a beater on the team with no dodgeballs may raise a hand above their shoulder, fist closed, to claim immunity from being knocked out by live dodgeballs.
 
 A. It is an improper immunity claim if a player claims immunity when the opposing team has two dodgeballs, but:  
+
 i. The remaining dodgeball is still live.  
+
 ii. The third dodgeball was released by that player without attempting to incur the knockout effect.  
-iii.Their team’s other beater is also claiming immunity.
+
+iii.Their team's other beater is also claiming immunity.
+
 a. If both beaters on a team attempt to claim immunity, one of them must put their fist back down to avoid a penalty. If neither beater puts their fist down, only one shall be penalized.  
+
 B. An immunity claim is invalid if a beater claims immunity when there is no third dodgeball, unless two dodgeballs are possessed by the opposing team and the remaining dodgeball was made live by the opposing team.  
+
 i. If the claim was unintentionally invalid, and did not affect play, the player may instead be penalized for a minor invalid immunity claim.  
+
 C. An immune beater is not immune to dodgeballs made live before immunity was claimed.  
+
 D. If an opponent begins the final singular natural motion on an attempted knockout before the immune beater loses their immunity, the formerly immune beater cannot be knocked out by that attempt.
 
 ⚑ *Back to Hoops*—Improper immunity claim
@@ -1290,14 +1753,23 @@ D. If an opponent begins the final singular natural motion on an attempted knock
 While a beater is claiming immunity, they are subject to the following restrictions:
 
 A. The beater must directly and immediately proceed to gain possession of the third dodgeball.
+
 i. The beater may approach the ball from any direction they prefer.
+
 ii. Taking any other action while immune is an immunity violation.
+
 iii.The beater loses their immunity once they gain possession of the dodgeball.  
+
 a. The beater remains immune while attempting to pick up the third dodgeball, even if their fist is lowered in doing so.  
+
 B. Once a beater claims immunity, they may not voluntarily give up their immunity and must continue pursuing the dodgeball unless one of the following exceptions occur:  
+
 i. they lose their immunity by rule.  
+
 ii. their partner has also claimed immunity.  
+
 C. When one of the exceptions occur, the beater must immediately give up their immunity  
+
 i. Failure to give up immunity due to an exception is an immunity violation.
 
 ⚑ *Blue Card*—Immunity violation
@@ -1311,6 +1783,7 @@ When a player is knocked out or becomes a struck beater, that player may finish 
 ### 5.6.2. Natural Motion Conditions
 
 A. For natural motion to be called for propelling a ball, the following conditions apply:  
+
 i. The player must release any possessed ball as part of the singular natural motion begun before becoming knocked out.
 
 a. Any motion begun after the player is knocked out is not natural motion.
@@ -1318,7 +1791,9 @@ a. Any motion begun after the player is knocked out is not natural motion.
 ii. The player must already be in contact with the ball when knocked out.
 
 B. If a player propels a ball immediately after being knocked out without meeting the above conditions for natural motion, it is a natural motion violation.  
+
 C. A dodgeball released by completing natural motion is considered dead.  
+
 D. For the purpose of this rule, a struck beater is treated as knocked out.
 
 ⚑ *Turnover*—Natural motion violation
@@ -1330,9 +1805,13 @@ D. For the purpose of this rule, a struck beater is treated as knocked out.
 If a player is touching the Quadball when they become knocked out and releases it or otherwise propels it according to natural motion, the Quadball becomes an unscorable Quadball.
 
 A. An unscorable Quadball cannot result in a goal.  
+
 B. The Quadball remains live and play continues normally.  
+
 C. The Quadball becomes scorable again once either of the following occur:  
+
 i. It is touched by an eligible chaser teammate of the player who released it.  
+
 ii. It is possessed by any player.
 
 # 6\. Physical Contact and Interactions
@@ -1374,22 +1853,28 @@ ii. It is possessed by any player.
 Fouls listed as a “Contact Foul” have the following nuances:
 
 A. The default penalty for a contact foul is a yellow card.
+
 B. Incidental contact may receive a back to hoops penalty instead of a yellow card.
+
 C. Violent, reckless or egregious fouls receive a red card instead of a yellow card.
 
 ### 6.2.2. Defining “From Behind”
 
 A. In order for contact to not be considered “from behind,” the navel of the contacting player must be in front of the frontal plane of the contacted player. The [frontal plane](https://training.seer.cancer.gov/anatomy/body/terminology.html#:~:text=Coronal%20Plane%20\(Frontal%20Plane\)) is the plane that bisects the body into a front and back half.  
+
 i. As long as this occurs, the actual first point of contact may be made on the front or the back of the contacted player.  
+
 B. Once contact has been legally established, a player may continue contact even when it results in contact from behind, so long as contact is not broken.  
+
 i. This includes changing the type of contact.  
+
 C. Contact is not considered “from behind” when a player leads with their back or spins or turns just prior to contact.
 
 ## 6.3. CONTACT LEGALITIES
 
 Some forms of contact are always illegal:
 
-⚑ *Contact Foul*—Making contact with an opponent’s head, neck, or groin.
+⚑ *Contact Foul*—Making contact with an opponent's head, neck, or groin.
 
 ⚑ *Contact Foul*—Initiating contact or exerting force at or below the knees of an opponent.
 
@@ -1420,17 +1905,24 @@ Some forms of contact are illegal when initiated from behind:
 A wrap consists of encircling any part of an opponent with an arm or arms. The arm includes the hand.
 
 A. It is illegal to wrap an opponent who is not in possession of a ball.  
+
 B. If a player in possession of a ball is being or has been wrapped and releases possession of the ball:  
+
 i. The referee must shout “ball out” to signal to the wrapping player that the ball has been released.  
+
 ii. Once aware of the ball being released, the wrapping player cannot continue contact beyond previously created momentum.  
-C. It is illegal to pull on an opponent’s clothing.  
-D. A yank is an illegal form of contact wherein a wrap or grab is applied to an opposing player’s arm and sudden, rapid force is applied.  
+
+C. It is illegal to pull on an opponent's clothing.  
+
+D. A yank is an illegal form of contact wherein a wrap or grab is applied to an opposing player's arm and sudden, rapid force is applied.  
+
 E. It is illegal to wrap an opponent from behind with momentum.  
+
  i. If the wrapping player is stationary, a wrap may be initiated from behind.
 
 ⚑ *Contact Foul*—Wrapping an opponent who is not in possession of a ball
 
-⚑ *Contact Foul*—Pulling an opponent’s clothing
+⚑ *Contact Foul*—Pulling an opponent's clothing
 
 ⚑ *Contact Foul*—Yanking an opponent
 
@@ -1441,8 +1933,11 @@ E. It is illegal to wrap an opponent from behind with momentum.
 A tackle is the act of bringing a player to the ground with a wrap.
 
 A. It is illegal to tackle an opponent who is not in possession of a ball.  
+
 B. It is the tackling player's responsibility to attempt to ensure the safety of the player being tackled. Reckless or dangerous tackles are illegal.  
- i. Whip tackles, wherein the tackling player slings the tackled player’s body around with significant momentum in an uncontrolled manner, are illegal.  
+
+ i. Whip tackles, wherein the tackling player slings the tackled player's body around with significant momentum in an uncontrolled manner, are illegal.  
+
 a. Whip tackles where players are lifted or slammed are considered dangerous tackles.
 
 ⚑ *Contact Foul*—Whip Tackle
@@ -1454,6 +1949,7 @@ a. Whip tackles where players are lifted or slammed are considered dangerous tac
 A push consists of applying force upon an opponent with an extended arm, be it extended during or before the initiation of contact.
 
 A. Only one arm may be used to push.  
+
 i. Laying a hand on another player without applying force is not considered a push.
 
 B. It is illegal to push using the point of an elbow.
@@ -1469,11 +1965,17 @@ C. It is illegal to push from behind
 A charge consists of forcefully initiating contact with an opponent without attempting to wrap or tackle.
 
 A. It is illegal to charge from behind  
+
 B. It is illegal to charge an opponent when neither the player nor their opponent have a ball.  
+
 C. It is illegal to initiate a charge using a single point of the body, such as leading with the point of a shoulder or elbow.  
+
 i. Side by side point-of-shoulder to point-of-shoulder contact is allowed.  
-D. It is illegal for the charging player’s feet to leave the ground while executing a charge in a manner that they spring forward and upward into their opponent.
+
+D. It is illegal for the charging player's feet to leave the ground while executing a charge in a manner that they spring forward and upward into their opponent.
+
 E. It is illegal to charge a stationary opponent  
+
 i. If the stationary player has not been stationary long enough for the charging player to adjust their movement, that charging player will not be penalized.
 
 ⚑ *Contact Foul*—Charging from behind
@@ -1500,7 +2002,7 @@ B. A player who the referee determines to have thrown a ball to themselves in an
 
 ### 6.3.6. Body Blocking
 
-A body block consists of applying force to an opponent using body parts other than arms or hands not pinned to the torso, where any significant force of the contact is applied after non-forceful contact has already been established by the blocking player’s aforementioned body parts.
+A body block consists of applying force to an opponent using body parts other than arms or hands not pinned to the torso, where any significant force of the contact is applied after non-forceful contact has already been established by the blocking player's aforementioned body parts.
 
 A. It is illegal to body block using the head or feet.
 
@@ -1513,10 +2015,15 @@ B. It is illegal to extend the point of the elbow or knee into an opponent durin
 When a player places themselves in the path of an opponent, usually in an effort to force the opponent into a less advantageous position, without initially engaging in a push, charge, tackle, or wrap it is considered a pick.
 
 A. It is illegal to pick a player of another position.
-B. It is illegal to extend a single point of one’s body during a pick, such as the elbow or point of the shoulder, causing the picked player to run into it.
+
+B. It is illegal to extend a single point of one's body during a pick, such as the elbow or point of the shoulder, causing the picked player to run into it.
+
 C. A pick set from behind must give the picked player time to brace for contact.  
-D. A pick set on a moving player must be set with enough time for the player to stop and/or change direction, as determined by the picked player’s speed at the time that the pick is set, not by their actual awareness of the pick.  
+
+D. A pick set on a moving player must be set with enough time for the player to stop and/or change direction, as determined by the picked player's speed at the time that the pick is set, not by their actual awareness of the pick.  
+
 i. If neither player has possession of a ball, the picked player must make every attempt to avoid charging the picking player, either by slowing down so that the initiation of contact is non-forceful or by avoiding the opposing player entirely.  
+
 ii. A player charging through an illegal pick shall not be penalized provided they do not increase their force in response to the pick.
 
 ⚑ *Contact Foul*—Picking a player of another position
@@ -1529,10 +2036,12 @@ ii. A player charging through an illegal pick shall not be penalized provided th
 
 ### 6.3.8. Stealing
 
-A steal consists of a player’s attempt to extract a ball from an opponent by either stripping or poking it loose.
+A steal consists of a player's attempt to extract a ball from an opponent by either stripping or poking it loose.
 
 A. A player may not wind up or swing at the ball in an attempt to punch it loose.
+
 B. During a steal attempt, contact that requires possession of a ball is allowed until the player being stolen from loses direct control of the ball.  
+
 C. Incidental contact from behind is allowed during a steal attempt.
 
 ⚑ *Contact Foul*—Winding up or swinging in an attempt to steal
@@ -1542,8 +2051,11 @@ C. Incidental contact from behind is allowed during a steal attempt.
 It is generally legal to kick a ball that they may legally possess. However, a player must not perform a dangerous kick. The following restrictions apply:
 
 A. It is illegal to kick a player.  
+
  i. If the kick would have been illegal if the opponent had not reacted to the kick by actively getting out of the way, the kick shall be ruled a dangerous kick.  
+
 B. Kicking a ball that an opponent is touching with anything other than their feet is illegal.  
+
 C. It is illegal to kick the flag.
 
 ⚑ *Contact Foul*—Dangerous kick
@@ -1555,7 +2067,9 @@ Players may slide and dive. However, it is illegal to:
 A. Slide or dive into an opposing player.
 
 B. Slide or dive toward an opponent or into the path of an opponent in a way that forces the opponent to change their movement to avoid the slide or dive.
+
 i. The opponent does not count as forced if they have to take two or more steps before they would contact the sliding or diving player.
+
 a. This is determined once the slide intersects their path, not when the slide or dive is initiated.
 
 ⚑ *Contact Foul*—Sliding or diving into an opposing player
@@ -1574,7 +2088,8 @@ ii. If a player jumps without attempting a hurdle but falls over another person 
 
 ### 6.3.12. Contact Through a Teammate
 
-A. It is illegal for any player to primarily contact a teammate with the intent of causing or otherwise affecting that teammate’s physical interaction with any opponent.  
+A. It is illegal for any player to primarily contact a teammate with the intent of causing or otherwise affecting that teammate's physical interaction with any opponent.  
+
 B. Incidental or secondary contact through a teammate shall not be penalized.
 
 ⚑ *Contact Foul*—Illegal contact through a teammate
@@ -1584,9 +2099,13 @@ B. Incidental or secondary contact through a teammate shall not be penalized.
 Egregious contact is illegal. The following are always egregious contact:
 
 A. Greatly exceeding the necessary force to complete an action in a way that jeopardizes the safety of an opponent.  
-B. Deliberately injuring or attempting to deliberately injure any person by using one’s body or any equipment including the balls.  
+
+B. Deliberately injuring or attempting to deliberately injure any person by using one's body or any equipment including the balls.  
+
 C. Striking or attempting to strike another person including but not limited to intentionally kneeing, elbowing, or headbutting an opponent.
-D. Intentionally physically contacting another person’s head, neck, or groin.
+
+D. Intentionally physically contacting another person's head, neck, or groin.
+
 E. Intentionally physically contacting an official other than the flag runner.
 
 ⚑ *Ejection*—Egregiously illegal contact against a teammate
@@ -1600,51 +2119,73 @@ E. Intentionally physically contacting an official other than the flag runner.
 While seekers have the standard contact and interaction rules with regard to each other, different rules apply to interactions with the flag runner.
 
 Some interactions are legal for a seeker to do to a flag runner:  
-A. Body blocking the flag runner, subject to standard body block rules (see: *6.3.6. Body Blocking*).  
-B. Pushing or moving the flag runner’s arms with one or both arms.  
+
+A. Body blocking the flag runner, subject to standard body block rules (see: *[6.3.6. Body Blocking](#636-body-blocking)*).
+
+B. Pushing or moving the flag runner's arms with one or both arms.  
+
 C. Reaching around or over or under the flag runner with one or both arms.  
+
 i. An arm reaching around the flag runner must only have incidental contact with them.
-ii. It is illegal to squeeze or otherwise restrict the flag runner’s body with an arm that is reaching around them.  
+
+ii. It is illegal to squeeze or otherwise restrict the flag runner's body with an arm that is reaching around them.  
+
 Some interactions are illegal for a seeker to do to a flag runner:
 
-⚑ *Contact Foul*—Making contact with the flag runner’s head, neck, or groin.
+⚑ *Contact Foul*—Making contact with the flag runner's head, neck, or groin.
 
 ⚑ *Contact Foul*—Charging the flag runner.
 
-⚑ *Contact Foul*—Pushing the flag runner’s legs, waist, or torso. If the flag runner’s arms are held tight against or are otherwise pinned against their torso, they shall be treated as part of their torso.
+⚑ *Contact Foul*—Pushing the flag runner's legs, waist, or torso. If the flag runner's arms are held tight against or are otherwise pinned against their torso, they shall be treated as part of their torso.
 
-⚑ *Contact Foul*—Grabbing or pinning the flag runner’s arms.
+⚑ *Contact Foul*—Grabbing or pinning the flag runner's arms.
 
 ⚑ *Contact Foul*—Tackling or attempting to tackle the flag runner.
 
-⚑ *Contact Foul*—Grabbing the flag runner’s clothing.
+⚑ *Contact Foul*—Grabbing the flag runner's clothing.
 
 ⚑ *Contact Foul*—Making forceful contact with the flag runner while sliding or diving.
 
-⚑ *Contact Foul*—Making egregiously illegal contact with the flag runner (see: *6.3.13. Egregious Contact*).
+⚑ *Contact Foul*—Making egregiously illegal contact with the flag runner (see: *[6.3.13. Egregious Contact](#6313-egregious-contact)*).
 
 ## 6.5. RIGHT OF WAY
 
 ### 6.5.1. Interpositional Right of Way
 
-Players of different positions may not physically interact with each other’s movement. The following rules apply to these interactions:
+Players of different positions may not physically interact with each other's movement. The following rules apply to these interactions:
 
 A. The following is the order of priority for right of way between two players of different positions from highest to lowest priority:
+
 i. A stationary player with a ball.  
+
 ii. A stationary chaser without a ball.  
+
 iii. A moving player with a ball.  
+
 iv. A stationary beater or seeker without a ball.  
+
 v. A moving player without a ball.  
+
 vi. A knocked out player.  
+
 B. Players with lower priority must yield to players with higher priority which may include moving out of the way.  
+
 i. Players of lower priority who fail to yield are generally “at fault.”  
+
 C. When two players of the same priority interact, the player whom the referee judges to be at fault for the interaction shall be deemed at fault.  
+
 i. If the players are judged to be equally at fault for the interaction, no penalty is given.
+
 D. If a player clearly acts with the intent of causing an illegal interpositional interaction, that player shall be deemed at fault, regardless of their priority.  
+
 E. If a player moves with the intent of causing an opponent to enter an illegal interpositional interaction with or yield to another player of equal or higher priority, that player shall be deemed at fault rather than either of the interacting parties.  
+
 F. If the referee determines that there was not enough time for the at fault player to reasonably react and yield, the interaction is incidental and no penalty shall be given.  
+
 i. This provision shall not activate if the at fault player could be reasonably expected to be aware or acted to ensure they would be unaware of the opposing player with whom they interacted.  
+
 G. Only the at fault player is penalized for an illegal interpositional interaction.  
+
 i. If the illegal interpositional interaction was accidental, and overall gameplay was unaffected, it is a minor illegal interpositional interaction and the player is sent back to hoops.
 
 ⚑ *Back to Hoops*—Minor illegal interpositional interaction
@@ -1670,14 +2211,22 @@ ii. If a knocked out player initiates contact with an opponent that is on broom,
 ### 6.6.1. Unsporting Conduct
 
 A. Players must not engage in unsporting conduct such as taunting or rude or antagonistic behavior with players, spectators, officials, or event staff.
+
 B. Use of explicit, vulgar, extreme, or abusive language, behavior or gestures at any time is considered unsporting conduct.
+
 i. It is egregious unsporting conduct if the language is directed at another person and any of the following are true:
+
 a. The language is extreme or abusive.
+
 b. The language includes vulgar words used for their meaning, rather than solely for emphasis.
+
 c. The language is discriminatory, including but not limited to racial epithets, ethnic slurs, or other phrases which demean or debase any person or group of people based on their race, sex, gender, sexual orientation, religion, or country of origin.
+
 ii. It is egregious unsporting conduct to direct obscene, explicit, or vulgar gestures at another person.
+
 iii. Egregiously rude or hostile behavior, including directed threats or spitting, are egregious unsporting conduct.
-C. Unsporting conduct that is undirected or solely directed at one’s teammates or oneself is instead internal unsporting conduct and will be penalized if it is repeated use of explicit or vulgar language, or egregious.
+
+C. Unsporting conduct that is undirected or solely directed at one's teammates or oneself is instead internal unsporting conduct and will be penalized if it is repeated use of explicit or vulgar language, or egregious.
 
 ⚑ *Yellow Card*—Unsporting conduct
 
@@ -1718,16 +2267,24 @@ It is illegal to attempt to deceive referees.
 Players may possess, touch, kick, throw, or otherwise use the ball associated with their own position.
 
 A. A player is considered to have possession of a ball when that player has sole and complete control of it.
+
 i. This includes when a player is the only player in contact with the ball during a kick.  
-ii. Swatting a ball out of an opponent’s hands or out of the air is not considered possession.
+
+ii. Swatting a ball out of an opponent's hands or out of the air is not considered possession.
+
 a. Swatting a ball that is on the ground is considered possession.  
+
 B. Players may only possess, touch, kick, throw, or otherwise use one ball associated with their position at any given time.  
+
 i. A beater may temporarily possess two dodgeballs if they are in the process of catching a live dodgeball propelled by an opponent.  
+
 a. The beater must drop one of the two dodgeballs immediately after completing the catch in order to avoid being penalized.  
+
 C. Players may not use a ball associated with their position to mimic the actions of a ball of a different position.  
+
 D. Players may not use a ball of their position to intentionally interact with the flag runner.
 
-⚑ *Blue Card*—Illegally using a ball of one’s own position
+⚑ *Blue Card*—Illegally using a ball of one's own position
 
 ⚑ *Yellow Card*—Using a ball to intentionally interact with the flag runner
 
@@ -1736,23 +2293,37 @@ D. Players may not use a ball of their position to intentionally interact with t
 Players may not possess, touch, kick, throw, or in any way use a ball not associated with their position with the following exception:
 
 A. Any mounted player may allow a live dodgeball to hit them or intentionally get in the way of a live dodgeball.  
+
 i. Players may allow a live dodgeball to bounce off of any part of their body or equipment at any angle.  
+
 a. It is illegal for chasers and seekers to interact with a dead dodgeball.  
+
 1\. If the referee determines that the player was not reasonably aware that the dodgeball was dead and the play was otherwise legal, the player shall not be penalized.
-ii. An attempt to propel a live dodgeball with any part of one’s body is considered a dodgeball swat.  
+
+ii. An attempt to propel a live dodgeball with any part of one's body is considered a dodgeball swat.  
+
 a. Beaters and seekers may swat a live dodgeball as long as the final motion before contacting the dodgeball begins before they are stuck (natural motion).  
+
 b. It is illegal for chasers to swat a dodgeball.
 
 The following outlines specific violations of this rule:
 
-B. A mounted beater or seeker must avoid a propelled Quadball. Not doing so and being hit is a blue card.  
-i. If the player attempts to avoid a propelled Quadball and fails but the overall play is not affected, the player shall instead be sent back to hoops.  
-ii. Intentionally moving into, or remaining in, the path of the Quadball to block it or prevent a goal is a yellow card.  
-iii. A player unaware of an incoming Quadball is not penalized for not avoiding it unless they have acted to ensure they would be unaware.  
-a. If the player acted to ensure they would be unaware, the interaction shall be a yellow card.  
-iv. A player without time to reasonably avoid an incoming Quadball is not penalized for failing to avoid it.  
-C. All players may legally possess a dead Quadball to return it to the formerly defending keeper after a score (see: *4.2.1. Dead Quadball*).  
-D. Unintentionally illegally acting on a ball in a manner that significantly affects the position or trajectory of that ball is a turnover.  
+B. A mounted beater or seeker must avoid a propelled Quadball. Not doing so and being hit is a blue card.
+
+i. If the player attempts to avoid a propelled Quadball and fails but the overall play is not affected, the player shall instead be sent back to hoops.
+
+ii. Intentionally moving into, or remaining in, the path of the Quadball to block it or prevent a goal is a yellow card.
+
+iii. A player unaware of an incoming Quadball is not penalized for not avoiding it unless they have acted to ensure they would be unaware.
+
+a. If the player acted to ensure they would be unaware, the interaction shall be a yellow card.
+
+iv. A player without time to reasonably avoid an incoming Quadball is not penalized for failing to avoid it.
+
+C. All players may legally possess a dead Quadball to return it to the formerly defending keeper after a score (see: *[4.2.1. Dead Quadball](#421-dead-quadball)*).
+
+D. Unintentionally illegally acting on a ball in a manner that significantly affects the position or trajectory of that ball is a turnover.
+
 E. Intentionally blocking a score by committing interpositional ball interference is a red card.
 
 ⚑ *Blue Card*—Illegally contacting a dead dodgeball
@@ -1780,11 +2351,16 @@ Substitutes and knocked out players must make a reasonable effort, at the discre
 ### 7.1.4. Dodgeball vs Quadball
 
 A. Players may not propel or use a held ball of their position to interact with a ball of another position with the following exceptions:
+
 i. Beaters may propel dodgeballs at a live Quadball.
+
 ii. Chasers may use a held or propelled Quadball to hit or deflect a live dodgeball.
+
 a. If the referee determines that the player was not reasonably aware that the airborne dodgeball was dead and the play was otherwise legal, the player shall not be penalized.
-B. Any intentional illegal use of a held ball to interact with a ball not associated with one’s position is interpositional ball interference.
-C. Unintentionally and illegally acting on a ball not associated with one’s position by using a held ball in a manner that significantly affects the position or trajectory of that ball is incidental interpositional ball interference and results in a turnover of the affected ball.
+
+B. Any intentional illegal use of a held ball to interact with a ball not associated with one's position is interpositional ball interference.
+
+C. Unintentionally and illegally acting on a ball not associated with one's position by using a held ball in a manner that significantly affects the position or trajectory of that ball is incidental interpositional ball interference and results in a turnover of the affected ball.
 
 ⚑ *Turnover*—Incidental interpositional ball interference
 
@@ -1798,21 +2374,21 @@ A keeper with all parts of their body touching behind their own keeper zone line
 
 ### 7.2.2. Keeper-Specific Powers
 
-A keeper within their own keeper zone, except in the situation described in *7.2.2.B.*, is considered to be a protected keeper.
+A keeper within their own keeper zone, except in the situation described in *[7.2.2.B.](#722-keeper-specific-powers)*, is considered to be a protected keeper.
 
 A. A protected keeper has the following powers:
 
-i. While a protected keeper has sole possession of the Quadball, opposing players may not contact, interact with, or attempt to steal the Quadball from the keeper (see: *6.3. Contact Legalities*).
+i. While a protected keeper has sole possession of the Quadball, opposing players may not contact, interact with, or attempt to steal the Quadball from the keeper (see: *[6.3. Contact Legalities](#63-contact-legalities)*).
 
 a. Sole possession of the Quadball must be established before this immunity from contact goes into effect.
 
 ii. A protected keeper is immune from being knocked out by live dodgeballs.
 
-B. Once any player on the keeper’s team possesses the (live) Quadball outside their keeper zone:
+B. Once any player on the keeper's team possesses the (live) Quadball outside their keeper zone:
 
 i. The keeper loses all powers listed above.
 
-ii. The powers listed above can be regained when their team’s drive ends.
+ii. The powers listed above can be regained when their team's drive ends.
 
 ## 7.3. OFFENSE, DEFENSE, AND DRIVES
 
@@ -1822,20 +2398,21 @@ A. A drive is initiated for a team when one of the following occurs:
 
 i. A player on that team is the first player to gain possession of the Quadball at the beginning of a period.
 
-ii. A player on that team gains possession of the Quadball during the opposing team’s drive, thus ending the opposing team’s drive.
+ii. A player on that team gains possession of the Quadball during the opposing team's drive, thus ending the opposing team's drive.
 
 iii. A player on that team makes the Quadball live after a good goal.
 
 B. A drive ends for a team when one of the following occurs.
 
 i. The opposing team gains possession of the Quadball, initiating their own drive.
+
 ii. A period ends.
 
 iii. A goal is scored for either team.
 
 7.3.2. Offense and Defense
 
-A. During a team’s drive, they are the “offensive team.”
+A. During a team's drive, they are the “offensive team.”
 
 i. The opposing team is the “defensive team.”
 
@@ -1846,14 +2423,23 @@ i. The opposing team is the “defensive team.”
 Delay of game is defined as an attempt to stop or significantly impede the Quadball game from continuing. The exact determination of what constitutes delay of game is at the discretion of the referee, within the following guidelines:
 
 A. A beater or beaters may guard a Quadball to prevent the opposing team from gaining possession of it. However, a beater commits delay of game if they continue to protect the Quadball while their chasers are making no reasonable attempt to retrieve it.
+
 B. Keeper delays:
+
 i. A protected keeper must directly and immediately advance the Quadball out of the keeper zone, attempt to complete a pass, or drop the Quadball to the ground.
+
 ii. After a goal, the keeper on the formerly defensive team must not substitute out of the game until they have made the Quadball live.
+
 C. The Quadball carrier must at least advance the Quadball at a normal walking pace until they have crossed the midfield line.
+
 i. If the Quadball carrier is taking a non direct path, their forward progress must equal or exceed the forward progress of a normal walking pace on a path perpendicular to the midfield line.
+
 ii. If the Quadball carrier is blocked by a defender, they may temporarily delay their forward progress but must clearly attempt to find a way to bypass the defender.
-a. The Quadball carrier is considered blocked by a defender if that defender is between the Quadball carrier and any part of the defender’s endline and that defender is:
+
+a. The Quadball carrier is considered blocked by a defender if that defender is between the Quadball carrier and any part of the defender's endline and that defender is:
+
 1\. An opposing chaser or keeper within approximately 2 yards of the Quadball carrier.
+
 2\. An opposing beater in possession of a dodgeball within approximately 4 yards of the Quadball carrier.
 
 D. Stalling:
@@ -1879,7 +2465,7 @@ i. If the keeper is not in their keeper zone, they shall be moved to the center 
 
 ii. If the keeper is currently knocked out, they shall be remounted at the center hoop.
 
-iii. The keeper shall receive immunity (See: *7.2.2. Keeper-Specific Powers*.)
+iii. The keeper shall receive immunity (See: *[7.2.2. Keeper-Specific Powers](#722-keeper-specific-powers)*.)
 
 ### 7.4.3. Restrictor Lines
 
@@ -1887,20 +2473,30 @@ Teams are partially restricted from carrying or propelling the Quadball backward
 
 A. Each team has two restrictor lines during their drives, each of which extend completely across the width of the pitch:
 
-i. The team’s own keeper zone line is a hard restrictor line.
+i. The team's own keeper zone line is a hard restrictor line.
+
 ii. The midfield line is a soft restrictor line.
+
 B. The Quadball is considered to have crossed a restrictor line when it touches either the ground or an object or person that is on or past the line.  
+
 i. A player touching the ground on both sides of the restrictor line is considered to have crossed the line.  
+
 C. The Quadball cannot be moved backwards across the hard restrictor line with the following exceptions:  
+
 i. The first action of a drive; either by throwing the ball or by walking it backwards if:  
+
 a. The ball does not also cross the midpoint restrictor line.  
+
 ii. A defensive player deflects the Quadball, during or after the propulsion.  
+
 iii. A defensive player strips the Quadball.  
+
 D. If an offensive player carries or propels the Quadball backward across the midpoint line for any reason, it shall be ruled a reset, with the following exceptions:
 
 i. If a defensive player deflects the Quadball, during or after the propulsion and before it travels backward across a restrictor line, this shall not be considered a reset.
 
 a. This includes deflections done with a dodgeball.
+
 ii. If a defender forces the Quadball carrier backwards across the midpoint line through physical contact or strips the Quadball causing it to travel across the midpoint line, this shall not immediately be considered a reset.
 
 a. Once the Quadball carrier is free from contact they or their teammates must act to carry or propel the Quadball forward across the midpoint restrictor line.
@@ -1908,13 +2504,14 @@ a. Once the Quadball carrier is free from contact they or their teammates must a
 1\. The referee will start a three second countdown as soon as contact ends. If the Quadball is not across the midpoint restrictor line by the time the referee says “Zero,”  it shall be considered a reset.
 
 iii. The player who initiates a drive may carry or propel the Quadball backwards across one restrictor line immediately upon the beginning of the drive without it counting as a reset.  
+
 a. If the player started the drive while engaged in physical contact with an opponent, they may carry or propel the Quadball backwards across the midpoint line during or immediately after that contact without it counting as a reset, provided they did not significantly advance the Quadball during that contact.
 
 b. This does not apply to the start of the first drive of the game.
 
 iv. This action is still subject to all other rules, including delay of game and stalling.
 
-E. Upon the first legal reset of each drive, the head referee shall loudly declare “reset used” and signal the same by swinging one arm out, palm down, toward the offensive team’s hoops.
+E. Upon the first legal reset of each drive, the head referee shall loudly declare “reset used” and signal the same by swinging one arm out, palm down, toward the offensive team's hoops.
 
 F. There are two types of illegally crossing restrictor lines:
 
@@ -1936,23 +2533,36 @@ A. The area within the boundary lines is inbounds.
 
 B. The boundary lines, and any area beyond them, are out-of-bounds.
 
-C. If a player becomes out-of-bounds, any ball they possess will be turned over to the opposing team (see: *7.5.5 Determining the Inbounding Player* and *9.1.4 Turnovers*)
+C. If a player becomes out-of-bounds, any ball they possess will be turned over to the opposing team (see: *[7.5.5 Determining the Inbounding Player](#755--determining-the-inbounding-player)* and *[9.1.4 Turnovers](#914-turnovers)*)
 
 ### 7.5.2. Boundaries and Balls
 
 A. A possessed ball becomes out-of-bounds only when the player possessing it becomes out-of-bounds.
+
 B. An unpossessed ball becomes out-of-bounds when one of the following occur:
+
 i. The ball touches anything that is out-of-bounds, including the boundary line.  
+
 ii. The Quadball is in contact with a player who is out-of-bounds.  
+
 C. A live dodgeball becomes dead immediately upon becoming out-of-bounds.
+
 D. Play is not stopped for a dodgeball going out-of-bounds.
+
 E. When a live Quadball goes out-of-bounds, the referee shall declare “boundary” and indicate the inbounding player.
+
 i. If a player on the opposing team possesses the Quadball, they must drop it.
+
 ii. All chasers on the non-inbounding team must return or remain inbounds and cease interfering with the inbounding player.
+
 iii. Play is stopped if the non-inbounding team fails to follow the above requirements, or if the head referee judges that retrieval of the Quadball may unnecessarily delay the game.
+
 F. When a dead Quadball goes out-of-bounds after a score, it is returned to the formerly defending keeper, and does not need to be inbounded.
+
 i. Play is not stopped for a dead Quadball going out-of-bounds unless the head referee judges that retrieval of the Quadball may unnecessarily delay the game.
+
 G. It is illegal to propel a ball with the intent of sending any ball out-of-bounds.
+
 H. A ball that is out-of-bounds cannot be used to knock out an opponent or score a goal until it has been properly inbounded.
 
 ⚑ *Blue Card*—Propelling a ball with the intent of sending any ball out-of-bounds  
@@ -1961,18 +2571,31 @@ H. A ball that is out-of-bounds cannot be used to knock out an opponent or score
 ### 7.5.3. Players Out-of-Bounds
 
 A. Players are considered out-of-bounds upon touching a boundary line or the ground out-of-bounds.
+
 i. A player remains out-of-bounds until the player re-establishes themselves inbounds by touching the ground only inbounds.  
+
 ii. If a ball possessed by a player touches the ground out-of-bounds, that player is also out-of-bounds.  
+
 B. Players may not go out-of-bounds unless specifically allowed or required by rule.
+
 i. A player who accidentally steps out-of-bounds for a short time shall not be penalized.
+
 a. This does not negate any out-of-bounds turnovers.  
+
 ii. A player who legally goes out-of-bounds must directly and immediately return inbounds once the reason for legally going out-of-bounds no longer applies.  
+
 C. Players may attempt to force opponents out-of-bounds through otherwise legal contact.  
+
 i. Once the opposing player is out-of-bounds, the forcing player must discontinue contact as soon as they can safely do so.  
+
 ii. There is no penalty for being forced out-of-bounds by an opponent.
+
 a. This does not negate any out-of-bounds turnovers.  
+
 b. The player must directly and immediately act to return inbounds.  
+
 iii. If the ball carrier is forced out by a player who is knocked out, they are not considered out-of-bounds.  
+
 a. To avoid being called out, the ball carrier must act to return inbounds immediately.
 
 D. Players may go out-of-bounds while attempting to force a ball carrier out-of-bounds.
@@ -1982,26 +2605,41 @@ D. Players may go out-of-bounds while attempting to force a ball carrier out-of-
 ### 7.5.4. Inbounding Procedure
 
 A. The inbounding procedure begins (during live play):
+
 i. For the Quadball when the ball leaves the pitch boundary.
-ii. For dodgeballs when the inbounding beater leaves the pitch boundary (see: *7.5.5 Determining the Inbounding Player*).
+
+ii. For dodgeballs when the inbounding beater leaves the pitch boundary (see: *[7.5.5 Determining the Inbounding Player](#755--determining-the-inbounding-player)*).
+
 B. The inbounding player takes possession of the out-of-bounds ball and moves to the inbounding point.
+
 i. The inbounding point for the Quadball is the approximate location where the Quadball crossed the boundary line.
+
 ii. The inbounding point for a dodgeball is approximately at the closest point on the boundary line to the inbounding beater when they take possession of the out-of-bounds dodgeball.
+
 iii. The inbounding player is immune from being knocked out by live dodgeballs while out-of-bounds to inbound a ball.
+
 C. If play was stopped, the head referee shall restart play.
+
 D. An official shall count down 5 seconds.
+
 E. The inbounding player must inbound the ball by either carrying the ball back inbounds or throwing the ball inbounds before the official starts saying “zero.”
+
 i. If the ball is thrown, it is considered inbounds once it crosses the sideline or endline. The ball will still be dead until:
 
 1. A dodgeball is possessed by a live player  
+
 2. A Quadball is propelled by a live player  
    ii. If the ball is carried inbounds, it is considered inbounds once the player re-establishes themselves inbounds.
    iii. No player on the opposing team may physically prevent the inbounding player from fully re-entering the pitch at the inbounding point. Inbounding players should be given 1 foot of re-entry space inside the boundary line.
 
 F. The inbounding player may only move in a primarily perpendicular direction to the boundary line.
+
 i. This does not prevent a player from stepping into their throw.
+
 G. A dodgeball inbounded by a throw is dead.  
-H. A Quadball inbounded by a throw is unscorable (see: *5.6.3. Unscorable Quadball*).
+
+H. A Quadball inbounded by a throw is unscorable (see: *[5.6.3. Unscorable Quadball](#563-unscorable-quadball)*).
+
 I. If there is an inbounding procedure violation, the player receiving the resulting turnover does not need to inbound the ball.
 
 ⚑ *Back to Hoops and Turnover*—Inbounding procedure violation
@@ -2011,7 +2649,9 @@ I. If there is an inbounding procedure violation, the player receiving the resul
 ### 7.5.5.  Determining the Inbounding Player
 
 A. An inbounding player must be eligible.
+
 i. An eligible player is a player who meets all of the following conditions.
+
 a. The player is not knocked out.
 
 b. The player is legally allowed to possess the ball.
@@ -2019,14 +2659,19 @@ b. The player is legally allowed to possess the ball.
 c. The player is not in possession of another ball.
 
 d. The player is not already the inbounding player for another currently out-of-bounds ball.
+
 B. When a ball goes out-of-bounds while in the possession of a player, the inbounding player is the nearest eligible player on the opposing team.
+
 C.  When the Quadball goes out-of-bounds, the inbounding chaser is immune from being knocked out by live dodgeballs from the time they are designated as the inbounding player until they return to the pitch after the Quadball is inbounded.
+
 D. When a loose dodgeball goes out-of-bounds, the inbounding player is the nearest eligible player to the ball at the time when the dodgeball went out-of-bounds.
 
 i. If the inbounding player becomes ineligible for any reason before gaining possession of the out-of-bounds dodgeball or declines to pursue the out-of-bounds dodgeball, the next nearest eligible beater shall be designated as the inbounding player.
 
 ii. If there are no eligible beaters near the inbounding point and no beater on either team is attempting to pursue the out-of-bounds dodgeball, the nearest official shall retrieve the dodgeball and place it approximately two yards inside the inbounding point.
+
 a. This ball no longer needs to be inbounded.
+
 E. When a possessed dodgeball goes out-of-bounds, if there is no eligible inbounding player of the opposing team, the dodgeball is placed at the base of the hoops of the team who did not previously possess the dodgeball.
 
 # 8\. The Flag Runner
@@ -2035,23 +2680,23 @@ E. When a possessed dodgeball goes out-of-bounds, if there is no eligible inboun
 
 ### 8.1.1. Role of the Flag Runner
 
-The role of the flag runner is to prevent the flag from being caught by either team’s seeker for as long as possible while also serving as a fair and impartial official.
+The role of the flag runner is to prevent the flag from being caught by either team's seeker for as long as possible while also serving as a fair and impartial official.
 
-### 8.1.2. The flag Runner’s Uniform
+### 8.1.2. The flag Runner's Uniform
 
 A. The flag runner must wear shorts or pants with the flag affixed.
 
-i. The flag shorts and tail must meet all the requirements in section *2.3.3. The Flag*.
+i. The flag shorts and tail must meet all the requirements in section *[2.3.3. The Flag](#233-the-flag)*.
 
 B. The flag runner must wear a shirt or jersey and be easily identifiable as distinct from either team.
 
-C. The flag runner’s shorts or pants should be all yellow or gold.
+C. The flag runner's shorts or pants should be all yellow or gold.
 
-## 8.2. THE FLAG RUNNER’S TIMING
+## 8.2. THE FLAG RUNNER'S TIMING
 
-### 8.2.1. The Flag Runner’s Release
+### 8.2.1. The Flag Runner's Release
 
-A. The flag runner must be released onto the pitch from the scorekeeper’s table after the seeker period concludes.
+A. The flag runner must be released onto the pitch from the scorekeeper's table after the seeker period concludes.
 
 ### 8.2.2. Flag Boundaries
 
@@ -2060,6 +2705,7 @@ A. Once the flag runner has been released onto the pitch, the flag runner may no
 B. Upon the release of the seekers, the flag runner is required to remain between the keeper zone lines.
 
 i. Flag runners may choose to further handicap themselves during a game, however, tournament staff and game officials must neither order nor request that they do so.
+
 C. Upon the release of the seekers, flag runners must remain within 3 steps inside the pitch boundary where they will not repeatedly be leaving the pitch.
 
 i. If a flag runner is actively engaged by a seeker within 2 arms lengths of the runner, the flag runner may temporarily ignore this requirement.
@@ -2072,24 +2718,37 @@ D. Repeated violations of the boundaries are grounds for the replacement of the 
 
 A flag runner must not intentionally engage in any of the below actions, unless to protect the safety of an individual on pitch:
 
-A. Physically contact a seeker’s head, neck, or groin.  
-B. Physically contact a seeker’s legs at or below the knee unless contact with the seeker has already been established in another manner.  
+A. Physically contact a seeker's head, neck, or groin.  
+
+B. Physically contact a seeker's legs at or below the knee unless contact with the seeker has already been established in another manner.  
+
 C. Physically interact with any individuals other than the seekers.  
+
 D. Act in a manner deemed continuously reckless or dangerous.  
+
 E. Show bias towards any team, including but not limited to continuously remaining more than 5 yards from the midline on either side.  
+
 F. Leave the pitch.
+
 G. Attempt to become down in any manner.
-i. Unless injured, unable to play, avoiding a dangerous situation, adjusting equipment, or asked to do so by a referee (see: *8.4.1. Downed Flag Runner*).
+
+i. Unless injured, unable to play, avoiding a dangerous situation, adjusting equipment, or asked to do so by a referee (see: *[8.4.1. Downed Flag Runner](#841-downed-flag-runner)*).
+
 H. Touch any ball, including interfering in any way with the flag.
-I. Pull a seeker’s headband, clothing, or equipment other than the broom.
+
+I. Pull a seeker's headband, clothing, or equipment other than the broom.
+
 J. Make an incorrect call or lie about a call to deceive an individual.
+
 K. Disobey a directive from the head referee.
+
 L. Throw brooms excepts directly down onto the ground.
 
 ### 8.3.2. Breach of Standards by the Flag Runner
 
-A. The head referee may remove any flag runner due to injury, breach of the standards listed in *8.3.1. Flag Runner Code of Conduct*, or for being overly aggressive or irresponsible.  
-B. A referee may warn the flag runner of minor violations or breaches of the standards listed in *8.3.1. Flag Runner Code of Conduct* prior to replacement.
+A. The head referee may remove any flag runner due to injury, breach of the standards listed in *[8.3.1. Flag Runner Code of Conduct](#831-flag-runner-code-of-conduct)*, or for being overly aggressive or irresponsible.  
+
+B. A referee may warn the flag runner of minor violations or breaches of the standards listed in *[8.3.1. Flag Runner Code of Conduct](#831-flag-runner-code-of-conduct)* prior to replacement.
 
 i. Major violations may warrant removal of the flag runner without a previous warning.
 
@@ -2108,29 +2767,41 @@ B. The flag runner must not delay the restart of play.
 ### 8.4.1. Downed flag runner
 
 A. A flag runner is considered down when:  
-i. Any part of the flag runner’s body, other than their hands or feet, touches the ground.  
+
+i. Any part of the flag runner's body, other than their hands or feet, touches the ground.  
+
 a. The flag itself touching the ground does not cause the flag runner to be considered down.  
+
 ii. Any part of the flag runner contacts the ground on or outside the boundary of the pitch.  
-iii. The flag runner’s clothing needs to be adjusted, as described in *8.4.2. Adjusting the Flag Runner’s Clothing*.  
+
+iii. The flag runner's clothing needs to be adjusted, as described in *[8.4.2. Adjusting the Flag Runner's Clothing](#842-adjusting-the-flag-runners-clothing)*.
+
 iv. Play is restarted after any stoppage.  
+
 B. When the flag runner is down, the flag is uncatchable, regardless of whether the flag runner went down intentionally or unintentionally.  
-i. The flag runner is considered down until the completion of their three second head start (see: *8.4.3. Resetting a Downed Flag Runner*).
 
-### 8.4.2. Adjusting the Flag Runner’s Clothing
+i. The flag runner is considered down until the completion of their three second head start (see: *[8.4.3. Resetting a Downed Flag Runner](#843-resetting-a-downed-flag-runner)*).
 
-A. The flag runner’s clothing needs to be adjusted if the flag runner’s shorts are notably low or off center, the flag runner’s other clothing obscures the flag, or the flag runner’s clothing impedes the flag runner.
+### 8.4.2. Adjusting the Flag Runner's Clothing
 
-B. If the flag runner’s clothing needs to be adjusted, the flag runner is considered down and the flag is uncatchable from the moment the clothing is askew, at the discretion of the referee.
+A. The flag runner's clothing needs to be adjusted if the flag runner's shorts are notably low or off center, the flag runner's other clothing obscures the flag, or the flag runner's clothing impedes the flag runner.
 
-i. If the clothing is made askew because a seeker had grabbed the flag and it did not release from the shorts, the flag runner shall not be considered down due to this movement of clothing until the seeker lets go of the flag so long as the seeker did not also grab other parts of the flag runner’s clothing.
+B. If the flag runner's clothing needs to be adjusted, the flag runner is considered down and the flag is uncatchable from the moment the clothing is askew, at the discretion of the referee.
+
+i. If the clothing is made askew because a seeker had grabbed the flag and it did not release from the shorts, the flag runner shall not be considered down due to this movement of clothing until the seeker lets go of the flag so long as the seeker did not also grab other parts of the flag runner's clothing.
 
 ### 8.4.3. Resetting a Downed Flag Runner
 
 Once a flag runner has been ruled down, the seekers must:
+
 A. Cease directly pursuing the flag.
-B. Release all parts of the flag runner’s body, clothing, and the flag.
+
+B. Release all parts of the flag runner's body, clothing, and the flag.
+
 C. Allow the flag runner to rise to their feet.
+
 D. Allow the flag runner to adjust all clothing and equipment as necessary.
+
 E. Allow an additional three-second head start as counted off by the lead assistant referee before directly pursuing the flag again.
 
 ⚑ *Back to Hoops*—Illegally pursuing the flag
@@ -2156,32 +2827,55 @@ B. The player is ineligible to otherwise interact with play until the procedure 
 If a player commits a foul that results in a back to hoops penalty:
 
 A. Play should generally not be stopped.
+
 B. A referee informs the player of the infringement and tells them “back to hoops.”
+
 C. The player must dismount and follow the knockout procedure.
+
 D. If any ball is propelled by a player while or immediately after commiting a foul for which they are sent back to hoops, that ball must be turned over to the opposing team under the turnover procedure.
 
 ### 9.1.4. Turnovers
 
 Turnovers result in possession of a specific ball being given to the opposing team. If a player commits a foul that results in a turnover:
+
 A. The referee may choose to stop play or complete the turnover while play continues unless required to stop play by rule.
+
 B. If play is not stopped to complete the turnover:
+
 i. The referee calls for the turnover.
+
 ii. If a player on the fouling team has the ball, they must drop it.
+
 iii. If the ball is loose, any eligible player for the receiving team may retrieve it.  
+
 iv. The referee may pass the ball to the nearest eligible player.
+
 v. The fouling team may not touch the ball until the receiving team gains possession of it or declines the turnover.
+
 vi. The fouling team may not delay the receiving team from getting the ball.
+
 vii. The receiving team must immediately move to possess the ball or decline the turnover.
+
 a. Failure to do either after being clearly informed of the turnover shall be treated as declining the turnover.
+
 C. If play is stopped to complete the turnover:
+
 i. The referee gives the ball to the closest eligible player to the location of the ball.
+
 a. If the ball was thrown during or after the foul, the ball is turned over to the closest eligible player from the point of the throw.
+
 D. If there is no eligible player to receive the ball, the ball is placed at or thrown to the center hoop of the receiving team.
-i. If there are no eligible players to receive a dodgeball because all the receiving team’s beaters already have dodgeballs, the ball is dropped or left in place instead of being turned over.
+
+i. If there are no eligible players to receive a dodgeball because all the receiving team's beaters already have dodgeballs, the ball is dropped or left in place instead of being turned over.
+
 E. A Quadball to be turned over is unable to result in a goal against the receiving team until the procedure is complete.
+
 F. If both teams have committed fouls which would turn over the same ball, possession of that ball is determined by:
+
 i. The procedure for the foul receiving the most severe penalty card, if any.
+
 ii. If multiple fouls tie for the most severe penalty card, among the tied fouls, the procedure for the foul committed last.
+
 iii. If both teams commit fouls that tie for the most severe and one team has committed more fouls than the other, the procedure for the last of those fouls committed by that team shall be followed.
 
 ⚑ *Back to Hoops*—Delaying the completion of the turnover procedure
@@ -2193,17 +2887,29 @@ iii. If both teams commit fouls that tie for the most severe and one team has co
 If a foul results in a penalty card:
 
 A. Play is stopped.
+
 B. The referee signals that there was a penalty by showing the appropriate card(s) and communicating the nature of the foul.  
+
 C. The player who committed the foul is sent to the penalty box.
+
 i. The fouling team must play down a player at the position of the fouling player for the duration of the penalty time.
+
 a. The player serving the penalty time may not be substituted while in the penalty box unless they are injured or ejected.
+
 ii. A player who receives a red card is ejected and their substitute is sent to the penalty box.
-a. All requirements and procedures for ejected players must be followed (see: *9.1.8. Ejection*).
+
+a. All requirements and procedures for ejected players must be followed (see: *[9.1.8. Ejection](#918-ejection)*).
+
 D. Penalty cards result in the following turnovers:
+
 i. Any ball that the fouling player possessed or acted on from the time of the foul until play was stopped must be turned over to the opposing team. This includes any balls that the fouled team was prevented from possessing by the foul.
+
 ii. If a delayed penalty results in a card and the fouled team lost the Quadball between the time of the foul and the stoppage of play, the Quadball is turned over to the fouled team.
+
 iii. For yellow and red cards, if the fouling team is in possession of the Quadball or if the Quadball is loose, the Quadball is turned over to the opposing team.
+
 E. If a player receives a third yellow card in the same game, the player must receive a red card after being shown the yellow card.
+
 F. Play is resumed.
 
 ### 9.1.6. Contact Foul
@@ -2211,28 +2917,41 @@ F. Play is resumed.
 When a penalty for a foul is listed as a contact foul, the following set of penalties shall apply to that foul:
 
 A. The default penalty for the foul is a yellow card.
+
 B. Minor fouls that do not affect overall gameplay and were, if applicable, immediately adjusted may receive a back to hoops penalty in place of a yellow card.
+
 C. Violent or egregious fouls must receive a red card instead of a yellow card.
 
 ### 9.1.7. Speaking Captain Penalty Cards
 
-When a penalty for a foul is listed as a speaking captain card, the listed penalty card is given to the team’s speaking captain rather than the individual directly committing or causing the foul.
+When a penalty for a foul is listed as a speaking captain card, the listed penalty card is given to the team's speaking captain rather than the individual directly committing or causing the foul.
 
 ### 9.1.8. Ejection
 
 If a penalty results in an ejection:
 
 A. The ejected player must leave the player area and may not return for the remainder of the game.
+
 B. If the player refuses to leave the player area:
-i. The player’s team must assist in escorting the player away from the player area.
-ii. If the player persists in refusing to leave or becomes dangerous, the head referee may end the game resulting in a forfeit for the fouling player’s team.
+
+i. The player's team must assist in escorting the player away from the player area.
+
+ii. If the player persists in refusing to leave or becomes dangerous, the head referee may end the game resulting in a forfeit for the fouling player's team.
+
 C. The referee may require the player to leave the vicinity of the pitch.
+
 D. Ejected players must not re-enter the player area or communicate with anyone inside the player area.
+
 i. This rule does not prohibit the ejected player from cheering for their team.
+
 E. If the ejected player was in play, the team must substitute a player in for the fouling player.
+
 i. The substitute is off broom.  
+
 F. If the ejected player had any penalty time assessed which had not been fully served, their substitute must serve the remainder of the penalty time.
+
 i. If the ejected player was not in play, then the speaking captain must designate a player on the pitch to go to the penalty box and serve that time.
+
 ii. If the player was serving time for their own penalty and was ejected with a red card, the remaining time for the previous penalty is waived, and only the two minutes for the red card are served.
 
 ⚑ *Speaking Captain Blue Card*—Illegally communicating with people in the player area as an ejected player
@@ -2243,13 +2962,13 @@ ii. If the player was serving time for their own penalty and was ejected with a 
 
 ### 9.1.9. Forfeit
 
-If a foul results in a forfeit penalty, the fouling team forfeits the game (see: 3.5.1. *Declaring a Forfeit*).
+If a foul results in a forfeit penalty, the fouling team forfeits the game (see: *[3.5.1. Declaring a Forfeit](#351-declaring-a-forfeit)*).
 
 A. If both teams receive forfeit penalties on the same play or incident, a double forfeit shall be declared.
 
 ## 9.2. GENERAL FOUL PROCEDURES
 
-### 9.2.1. Violations Caused by Opponents’ Fouls
+### 9.2.1. Violations Caused by Opponents' Fouls
 
 A. Any player who violates a rule as a direct result of the illegal actions of an opponent may avoid a penalty if they correct the violation as soon as possible.
 
@@ -2264,14 +2983,23 @@ A. If either advantage or a delayed penalty are called, the fouling player may k
 In certain limited cases, when substitutes or team staff commit fouls, the penalty may be assessed to the speaking captain.
 
 A. If a single identifiable substitute or team staffer commits a foul, only the fouling individual shall be assessed the penalty.
+
 B. If a single substitute or team staffer commits a foul but the individual cannot be identified, the penalty shall be assessed to the speaking captain instead.
+
 C. If multiple substitutes or team staff jointly commit the same or directly related offenses, only the speaking captain shall receive a penalty card, if applicable, for the foul committed.
+
 i. The speaking captain shall only receive a single penalty card for the offense.
+
 ii. If the penalty for the offense is a straight red card or ejection, all substitutes and team staff who are identified as having committed the red card or ejection offense themselves shall be ejected from the game.
+
 D. If multiple unconnected offenses are committed by substitutes or team staff, they shall be treated as separate incidents for the purposes of applying this rule.
+
 i. If this would result in multiple penalty cards being given to the speaking captain, including multiple red cards, on a single stoppage, then the speaking captain or their replacement shall serve only the single most severe of the cards. A separate player must be pulled off of the pitch to serve the time for each of the remaining cards.
+
 a. The players pulled off the pitch do not get credited with the cards.
+
 b. If the speaking captain is given three yellow cards in this manner, they shall be shown a red card.
+
 1\. If these are their first three yellow cards of the game, the penalty time for the red card shall be served by their replacement and the three yellow cards shall not be separately served.
 
 ## 9.3. TIMING OF THE FOUL
@@ -2302,9 +3030,9 @@ iii.The goal does not negate any penalty time for the foul.
 
 If a player receives a penalty card before the game begins:
 
-A. The offending team begins the game with the offending player (or the player’s replacement in the case of a red card) in the penalty box and one less player in the keeper zone.
+A. The offending team begins the game with the offending player (or the player's replacement in the case of a red card) in the penalty box and one less player in the keeper zone.
 
-B. The player’s penalty time officially begins at brooms up.
+B. The player's penalty time officially begins at brooms up.
 
 ### 9.3.5. Fouls after the End of the Game
 
@@ -2315,38 +3043,64 @@ A. If a player is assessed a foul after the game ends, the penalty must be noted
 ### 9.4.1. Penalty Times
 
 A. Blue cards and yellow cards result in one minute of game time in the penalty box for the penalized player, unless the opposing team scores during that minute.
+
 i. When the opposing team scores by any method, the player with the least amount of penalty time remaining from a blue or yellow card is released from the penalty box.
+
 a. A single score may only count toward the release of one player.
+
 1\. If two players on the same team have the same amount of time remaining in the penalty box for releasable penalties, the head referee shall use their discretion to designate which one is released first.
+
 2\. If a player is serving time for multiple penalty cards simultaneously, scores will only count toward their release if no other player on their team has less time remaining for a blue card or yellow card penalty.
+
 b. An own goal counts as a score by the team for which the goal is counted.
+
 ii. If the fouled team scores between the time of the foul and when play is stopped, and no other players would be released by the score, the penalized player does not go to the penalty box and restarts play dismounted at their current location instead.
+
 a. If there are multiple blue or yellow cards, only the penalty time of the player who would have been released on a score first is negated.
-b. If the penalized player receives multiple penalty cards for fouls occurring prior to play being stopped and the score would count against their time, the penalized player still goes to the penalty box, and their opponent’s score counts as the first score toward their release.
-B. A red card results in two full minutes of game time in the penalty box for the offending player’s replacement.
+
+b. If the penalized player receives multiple penalty cards for fouls occurring prior to play being stopped and the score would count against their time, the penalized player still goes to the penalty box, and their opponent's score counts as the first score toward their release.
+
+B. A red card results in two full minutes of game time in the penalty box for the offending player's replacement.
+
 i. Scores cannot release this player.
+
 C. Stacking penalty time:
+
 i. Whenever a person receives a red card for any reason, they are ejected, all other penalty time for fouls by that individual is negated, and only the penalty time for the red card is served.
+
 ii. If a person receives multiple penalty cards on a single stoppage without receiving a red card, the penalty time shall be one minute per card received, or until the opposing team scores a number of times equal to the number of cards received, whichever occurs first.
+
 iii. If a person who is serving time in the penalty box for their own penalty receives another penalty card without receiving a red card, they shall have a minute added to their penalty time and an additional score shall be required to release them per card.
-iv. If a player receives a penalty card while serving time for a teammate’s penalty:  
+
+iv. If a player receives a penalty card while serving time for a teammate's penalty:  
+
 a. Another substitute must serve the remainder of the original penalty.
-b. The offending player’s penalty shall then be treated as a foul by a substitute (see: *9.2.3. Bench Fouls*).
+
+b. The offending player's penalty shall then be treated as a foul by a substitute (see: *[9.2.3. Bench Fouls](#923-bench-fouls)*).
 
 ### 9.4.2. Proceeding to the Penalty Box
 
 Play is stopped while the penalized player, team staffer, or appropriate substitute is sent to the penalty box.
 
 A. Any substitution or position change made by the fouling player after the foul and before receiving the penalty card must be undone, and the fouling player must serve their penalty time at the position at which they committed the initial foul.
+
 i. If the foul is illegal substitution, the entering player receives the penalty card and time.
+
 B. If the keeper in play is sent to the penalty box, they must switch positions with a chaser on their team who is in play before they go to the penalty box.
+
 i. The keeper must not switch with a player who is serving time in the penalty box.
-ii. If all of the team’s chasers are already serving time in the penalty box, the keeper must switch headbands with a seeker or beater on their team instead.
+
+ii. If all of the team's chasers are already serving time in the penalty box, the keeper must switch headbands with a seeker or beater on their team instead.
+
 C. The person going to the penalty box must proceed immediately to the penalty box without delay and remain there until the penalty expires.
+
 i. If a player is given a blue or yellow card but is deemed to be too injured to serve their penalty by the head referee or the fouling player themselves, the speaking captain must choose an eligible substitute to serve the penalty.
+
 a. If a carded player is replaced in the penalty box due to an injury, that player may not re-enter play until their substitute is released from the penalty box.
+
 D. Penalty time begins as soon as the head referee resumes play.
-E. If the player’s penalty time is negated by a score before they are shown the penalty card, the player shall not be moved to the penalty box and shall restart play dismounted at their current location.
+
+E. If the player's penalty time is negated by a score before they are shown the penalty card, the player shall not be moved to the penalty box and shall restart play dismounted at their current location.
 
 ⚑ *Yellow Card*—Failing to immediately proceed to the penalty box after being carded
 
@@ -2354,9 +3108,9 @@ E. If the player’s penalty time is negated by a score before they are shown th
 
 A. Players serving penalty time are considered in play for the purposes of fielding a legal set of players.
 
-B. If a player is serving time for another player’s card, the carded player, not the player serving the time, is considered in play for the purposes of fielding a legal set of players for the duration of the penalty.
+B. If a player is serving time for another player's card, the carded player, not the player serving the time, is considered in play for the purposes of fielding a legal set of players for the duration of the penalty.
 
-i. This does not apply to cases where a player is serving time for a team staffer’s penalty.
+i. This does not apply to cases where a player is serving time for a team staffer's penalty.
 
 C. Players in the penalty box are subject to the same restrictions and penalties regarding interacting with play as substitutes.
 
@@ -2370,8 +3124,10 @@ E. If a player illegally substitutes while serving time in the penalty box, the 
 
 A. Penalty time begins when the referee blows the whistle to restart play.
 
-B. As soon as a player’s penalty time expires, the timekeeper must release the player from the penalty box.
+B. As soon as a player's penalty time expires, the timekeeper must release the player from the penalty box.
+
 i. When a player is released from the penalty box they are dismounted and must follow the knockout procedure to re-enter play.
+
 ii. Any player serving time in the penalty box may return to the pitch as soon as their penalty time expires.
 
 ### 9.4.5. Penalties to Substitutes and Team Staff
@@ -2379,14 +3135,22 @@ ii. Any player serving time in the penalty box may return to the pitch as soon a
 If a substitute or team staff receives a penalty card, that team must play a player down. The following procedure applies:
 
 A. The speaking captain must designate a player in play who is not already serving penalty time.
+
 i. If more than one substitute or team staffer is sent to the penalty box, a separate player in play must be designated for each.
+
 B. If a substitute receives a blue or yellow card, they substitute into the game for the designated player.
+
 i. The fouling substitute proceeds to the penalty box.
+
 ii. The designated player returns to the bench and is eligible to substitute back into the game through the normal substitution procedure.
+
 C. If a substitute receives a red card, they are ejected and the designated player must proceed to the penalty box to serve the two minutes of penalty time.
+
 D. If a team staffer receives a penalty card, the designated player proceeds to the penalty box and serves the penalty time.
+
 i. If the team staffer was not ejected, they must join the designated player in the penalty box.
-a. Once the team staffer’s penalty time expires, the player is released and the team staffer shall return to the team bench.
+
+a. Once the team staffer's penalty time expires, the player is released and the team staffer shall return to the team bench.
 
 ### 9.4.6. All Players in the Penalty Box
 
@@ -2428,7 +3192,7 @@ i. If no penalty is assessed against the team that was on defense during the adv
 
 Play is restarted as follows after an advantage call:
 
-A. If a goal is scored for the non-fouling team, play restarts according to standard procedure for a goal (see: 4.2. *Restarting after a Goal*).
+A. If a goal is scored for the non-fouling team, play restarts according to standard procedure for a goal (see: *[4.2. Restarting after a Goal](#42-restarting-after-a-goal)*).
 
 B. If the originally fouled team did not score before the advantage abated:
 
@@ -2477,13 +3241,21 @@ D. After all penalties are adjudicated, play is restarted.
 ### 10.1.1. The Head Referee
 
 A. Tournament officials must appoint a head referee for each game.
+
 B. The head referee has the authority to enforce the rules and take disciplinary action from the moment they enter the player area until they leave the player area after the final whistle.
+
 C. The head referee may stop play at any time in order to enforce rules or otherwise facilitate safe and fair gameplay.
+
 D. The head referee is the only official who may directly issue penalty cards.
+
 i. Other officials may advise the head referee to issue penalty cards.
+
 E. The head referee may replace any official with an appropriate replacement if the official is injured or, in the opinion of the head referee, needs to be dismissed.
+
 F. The head referee may be replaced at the discretion of the tournament director if, and only if, the head referee has demonstrated gross violation of their responsibilities or is too injured to continue officiating.
+
 i. The replacement referee must review the scorecard prior to resuming the game.
+
 G. All other officials must defer to the authority of the head referee.
 
 ### 10.1.2. Appointing Additional Officials
@@ -2515,7 +3287,9 @@ B. The Lead assistant referee will act as an assistant referee but may be given 
 A. May be assigned responsibilities at the discretion of the head referee, but after the flag is released, the primary focuses of the seeker referee, subject to the discretion of the head referee, are:
 
 i. Watching plays around the flag runner including knockouts and potential catches.
+
 ii. Ruling whether the flag runner is down and counting the three second head start.
+
 iii. Making sure the flag stays within the flag boundaries and follows the flag code of conduct.
 
 B. The seeker referee must not provide any additional advice or warnings to the flag runner during the game to help them avoid being caught, including but not limited to the locations, substitutions, and tactics of the seekers.
@@ -2525,6 +3299,7 @@ C. The seeker referee may stop play only if they believe that a flag catch may h
 ### 10.1.6. Goal Judges
 
 A. The primary focuses of the goal judges, subject to the discretion of the head referee, are:
+
 i. Watching shots taken toward the goals.
 
 ii. Ruling whether the Quadball is out of bounds on their endline.
@@ -2533,9 +3308,9 @@ ii. Ruling whether the Quadball is out of bounds on their endline.
 
 A. The primary focuses of the scorekeeper are:
 
-i. Keeping track of the game’s score.
+i. Keeping track of the game's score.
 
-ii. Updating the game’s scoreboard.
+ii. Updating the game's scoreboard.
 
 iii. Recording the player number and reason for all penalty cards.
 
@@ -2551,7 +3326,7 @@ i. Keeping track of game time.
 
 ii. Keeping track of penalty time and releasing players from the penalty box after their penalty time is served.
 
-iii. Acknowledging the seekers and flag runner when they report to the scorekeeper’s table and releasing them onto the pitch at the appropriate time.
+iii. Acknowledging the seekers and flag runner when they report to the scorekeeper's table and releasing them onto the pitch at the appropriate time.
 
 iv. Watching for seeker false starts.
 
@@ -2572,6 +3347,7 @@ b. If a displayed game clock malfunctions or otherwise ceases to be the official
 ### 10.1.9. The Flag Runner
 
 A. The flag runner is an official and may advise the other officials on any call.
+
 B. The flag runner may only make direct calls on the following:
 
 i. Knockouts, including dismounts, around the flag runner.
@@ -2582,9 +3358,9 @@ iii. Down calls when their clothing is askew and needs to be adjusted.
 
 C. If the flag runner and another official disagree on a direct call, the flag runner must defer to the other official while play is live.
 
-## 10.2. OFFICIALS’ CALLS
+## 10.2. OFFICIALS' CALLS
 
-### 10.2.1. Referee’s discretion
+### 10.2.1. Referee's discretion
 
 In cases where intent or severity are relevant to a call, the referee retains full discretion in judging that severity or intent.
 
@@ -2612,7 +3388,7 @@ B. Players and team staff must not show disrespect to any official including per
 
 ⚑ *Blue or Yellow Card*—Disrespecting an official
 
-⚑ *Yellow Card*—Disregarding an official’s directive
+⚑ *Yellow Card*—Disregarding an official's directive
 
 ### 10.3.2. Using Referee Commands
 
@@ -2634,7 +3410,7 @@ Players and team staff may not use verbal or visual referee signals or commands.
 *Why:* Align to player intuition and increase consistency with MLQ
 
 **1.4 Sideline Interference**  
-*Was:* Don’t touch a ball that rolls out of bounds  
+*Was:* Don't touch a ball that rolls out of bounds  
 *Now:* Modified sideline interference to only include disadvantaging the opposing team
 
 *Why:* Rewrote for clarity, should now allow a sideline members to stop balls that have rolled out of bounds
@@ -2684,39 +3460,39 @@ Reformatted 7.1.2 and changed the names of fouls to be more intuitive
 
 **Appendix B: Definitions**
 
-**Bat**—To propel a ball by hitting it with another ball that is still in one’s possession at the time of the hit.
+**Bat**—To propel a ball by hitting it with another ball that is still in one's possession at the time of the hit.
 
 **Beaters**—Two players on each team who must wear black headbands and throw, kick, or in any way propel the dodgeballs by “knocking out” other players.
 
-**Dodgeball**—One of three 8.5 inch diameter inflated rubber balls which may only be used by the beaters and are used to temporarily knock opponents out (see: *2.3.2. Dodgeballs*).
+**Dodgeball**—One of three 8.5 inch diameter inflated rubber balls which may only be used by the beaters and are used to temporarily knock opponents out (see: *[2.3.2. Dodgeballs](#232-dodgeballs)*).
 
 **Brooms down**—A call made by the referee at the start of the game. After brooms down, players may no longer change position headbands or location behind the keeper zone line.
 
 **Brooms up**—A call made by the referee at the beginning of a period. At the first “B” sound of brooms up, play begins.
 
-**Chasers**—Three players on each team who must wear white headbands and throw, kick, or in any way pass the Quadball through the opposing team’s hoops to score 10 points and attempt to stop the other team from doing so.
+**Chasers**—Three players on each team who must wear white headbands and throw, kick, or in any way pass the Quadball through the opposing team's hoops to score 10 points and attempt to stop the other team from doing so.
 
-**Dead dodgeball**—A dodgeball which cannot inflict the knockout effect due to not being live (see: *5.2.2. Live Dodgeball)*.
+**Dead dodgeball**—A dodgeball which cannot inflict the knockout effect due to not being live (see: *[5.2.2. Live Dodgeball](#522-live-dodgeball)*).
 
-**Dead Quadball**—A Quadball which must be made live before it can be played normally or used to score. (see: *4.2.1. Dead Quadball*).
+**Dead Quadball**—A Quadball which must be made live before it can be played normally or used to score. (see: *[4.2.1. Dead Quadball](#421-dead-quadball)*).
 
 **Flag period**—The period of play after the seeker floor where seekers and the flag are added into regular game play.
 
-**Flag Runner**—A game official who is tasked with protecting the flag from being caught (see: *10.1.9. The Flag Runner*).
+**Flag Runner**—A game official who is tasked with protecting the flag from being caught (see: *[10.1.9. The Flag Runner](#1019-the-flag-runner)*).
 
-**Flag tail**—The fabric sleeve which contains a ball and must be attached to the back of the flag runner’s shorts. It is worth 35 points and may end the game (see: *2.3.3. The Flag*).
+**Flag tail**—The fabric sleeve which contains a ball and must be attached to the back of the flag runner's shorts. It is worth 35 points and may end the game (see: *[2.3.3. The Flag](#233-the-flag)*).
 
 **Free dodgeball**—A dodgeball that is not in the possession of a beater on either team.
 
 **Game time**—The official time of any given game, measured from the start of brooms up until the end of the final period of the game but paused for stoppages in play and between periods.
 
-**Good goal**—Ten points are scored for a team when the Quadball in any way passes entirely through their opponent’s hoops and the goal is confirmed as good (See: 4.1.1. Good Goal).
+**Good goal**—Ten points are scored for a team when the Quadball in any way passes entirely through their opponent's hoops and the goal is confirmed as good (see: *[4.1.1. Good Goal](#411-good-goal)*).
 
-**Helpless receiver**—A receiver who is in the process of catching a ball that is in the air. A player does not have to leave the ground in order to be considered a helpless receiver. A receiver remains helpless until they establish their footing on the ground and have time to brace for contact. It is illegal to push, charge, tackle, or wrap a helpless receiver (see: *6.3.5. Helpless Receiver*).
+**Helpless receiver**—A receiver who is in the process of catching a ball that is in the air. A player does not have to leave the ground in order to be considered a helpless receiver. A receiver remains helpless until they establish their footing on the ground and have time to brace for contact. It is illegal to push, charge, tackle, or wrap a helpless receiver (see: *[6.3.5. Helpless Receiver](#635-helpless-receiver)*).
 
-**Hoop**—A hoop-loop and the pole it is attached to (see: *2.2.2. Hoop Shape*). The hoop base is not considered part of the hoop. Players must touch one of their non-dislodged hoops before remounting to complete the knockout procedure.
+**Hoop**—A hoop-loop and the pole it is attached to (see: *[2.2.2. Hoop Shape](#222-hoop-shape)*). The hoop base is not considered part of the hoop. Players must touch one of their non-dislodged hoops before remounting to complete the knockout procedure.
 
-**Hoop loop**—The 33” inner diameter circle through which the Quadball must pass to score a goal (see: *2.2.2. Hoop Shape*).
+**Hoop loop**—The 33” inner diameter circle through which the Quadball must pass to score a goal (see: *[2.2.2. Hoop Shape](#222-hoop-shape)*).
 
 **Incidental Contact** \- Contact that occurs for a short duration and does not affect the overall state of the game. Incidental contact should **not** transfer enough force between players to move a player from their current position.
 
@@ -2726,45 +3502,45 @@ Reformatted 7.1.2 and changed the names of fouls to be more intuitive
 
 **Kick**—To strike with a foot or feet, or with any part of the leg below the knee. At the time of a kick, the player striking the ball is considered to have control of that ball, if they are the only player in contact with it. It is illegal to kick an opponent.
 
-**Knockout immunity**—A player with knockout immunity is not knocked out by live dodgeballs. This can include an immune keeper or beater (see: *5.5.2 Claiming Knockout Immunity* and *7.2.2 Keeper-Specific Powers*).
+**Knockout immunity**—A player with knockout immunity is not knocked out by live dodgeballs. This can include an immune keeper or beater (see: *[5.5.2 Claiming Knockout Immunity](#552-claiming-knockout-immunity)* and *[7.2.2 Keeper-Specific Powers](#722-keeper-specific-powers)*).
 
-**Live dodgeball**—A dodgeball that has been thrown, kicked, or otherwise intentionally propelled by a beater who is in play, unless they are inbounding the ball, knocked out, or struck. A live dodgeball can inflict the knockout effect upon opponents (see: *5.2.2. Live Dodgeball*).
+**Live dodgeball**—A dodgeball that has been thrown, kicked, or otherwise intentionally propelled by a beater who is in play, unless they are inbounding the ball, knocked out, or struck. A live dodgeball can inflict the knockout effect upon opponents (see: *[5.2.2. Live Dodgeball](#522-live-dodgeball)*).
 
-**Live Quadball**—A Quadball that is neither dead nor unscorable and may be used to score (see: *4.2.1. Dead Quadball* and *5.6.3. Unscorable Quadball*).
+**Live Quadball**—A Quadball that is neither dead nor unscorable and may be used to score (see: *[4.2.1. Dead Quadball](#421-dead-quadball)* and *[5.6.3. Unscorable Quadball](#563-unscorable-quadball)*).
 
-**Natural motion**—A player’s continued movement in making a play, a singular motion that the player had already started, if that motion cannot be stopped (see: *5.6.1. Natural Motion*).
+**Natural motion**—A player's continued movement in making a play, a singular motion that the player had already started, if that motion cannot be stopped (see: *[5.6.1. Natural Motion](#561-natural-motion)*).
 
-**Opponents’ keeper zone**—The keeper zone containing the hoops that a team is assigned to attack.
+**Opponents' keeper zone**—The keeper zone containing the hoops that a team is assigned to attack.
 
-**Opponents’ half**—The half of the pitch or player area containing the hoops that a team is assigned to attack.
+**Opponents' half**—The half of the pitch or player area containing the hoops that a team is assigned to attack.
 
-**Opponents’ live dodgeball**—A live dodgeball most recently made live by the player’s opponent.
+**Opponents' live dodgeball**—A live dodgeball most recently made live by the player's opponent.
 
 **Own keeper zone**—The keeper zone containing the hoops that a team is assigned to defend.
 
 **Own half**—The half of the pitch or player area containing the hoops that a team is assigned to defend.
 
-**Penalty box**—A 6x6 yard box bordering the midfield line, the pitch, and the player area boundary (see: *2.1.5. Penalty Boxes*).
+**Penalty box**—A 6x6 yard box bordering the midfield line, the pitch, and the player area boundary (see: *[2.1.5. Penalty Boxes](#215-penalty-boxes)*).
 
 **Penalty time**—The time a player must spend in the penalty box due to a foul. Penalty time is measured in game time and therefore does not run during a stoppage of play.
 
 **Period**—A segment of a game. There are two periods in any given game: the seeker floor and the flag period.
 
-**Pitch boundary**—The 72 x 48 yard rectangular area marked by the boundary lines into which play is generally restricted (see: *2.1.1. Boundary Lines*).
+**Pitch boundary**—The 72 x 48 yard rectangular area marked by the boundary lines into which play is generally restricted (see: *[2.1.1. Boundary Lines](#211-boundary-lines)*).
 
-**Player**—Any person on a team’s roster who is eligible to be in play.
+**Player**—Any person on a team's roster who is eligible to be in play.
 
-**Player area**—The 66 x 36 yard rectangular area which includes and surrounds the pitch. Spectators may not enter the player area. Anything outside the player area is the spectator area (see: *2.1.9. The Player Area*).
+**Player area**—The 66 x 36 yard rectangular area which includes and surrounds the pitch. Spectators may not enter the player area. Anything outside the player area is the spectator area (see: *[2.1.9. The Player Area](#219-the-player-area)*).
 
 **Player identifier**—Verbal signal used to specify which player a ref is addressing. Usually a combination of the player's team name or jersey color and their jersey number.
 
 **Possessing team**—In the context of the third dodgeball, the possessing team is the team that possessed two dodgeballs when the remaining free dodgeball became the third dodgeball.
 
-**Possession**—Complete and sole control of the ball. A player who is intentionally kicking or swatting a ball on the ground is considered to have possession (see: *7.1.1. Use of the Ball*).
+**Possession**—Complete and sole control of the ball. A player who is intentionally kicking or swatting a ball on the ground is considered to have possession (see: *[7.1.1. Use of the Ball](#711-use-of-the-ball)*).
 
-**Protected keeper**—A keeper within their own keeper zone, except in the situation described in *7.2.2.B.*
+**Protected keeper**—A keeper within their own keeper zone, except in the situation described in *[7.2.2.B.](#722-keeper-specific-powers)*
 
-**Quadball**—The ball used by chasers and keepers to score goals (see: *2.3.1. The Quadball*).
+**Quadball**—The ball used by chasers and keepers to score goals (see: *[2.3.1. The Quadball](#231-the-quadball)*).
 
 **Quadball carrier**—The player in possession of the Quadball.
 
@@ -2772,31 +3548,31 @@ Reformatted 7.1.2 and changed the names of fouls to be more intuitive
 
 **Regulation time**—The duration of a game from brooms up until the score cap is reached. Regulation time includes both the seeker floor and flag period.
 
-**Scorekeeper’s table**—The location outside the player area, approximately along the extension of the midfield line, where the scorekeeper and timekeeper are stationed.
+**Scorekeeper's table**—The location outside the player area, approximately along the extension of the midfield line, where the scorekeeper and timekeeper are stationed.
 
 **Scoring team**—The team for which a flag catch is made or a goal is scored, regardless of which team directly caused the score.
 
 **Seeker**—The player on each team who must wear a yellow headband and who attempts to remove the flag from the flag runner to score 35 points.
 
-**Seeker floor**—The time during a period in which the flag is ineligible to be caught. In regulation time the seeker floor is 20 minutes. (see: *3.4.3. Seeker Floor*).
+**Seeker floor**—The time during a period in which the flag is ineligible to be caught. In regulation time the seeker floor is 20 minutes. (see: *[3.4.3. Seeker Floor](#343-seeker-floor)*).
 
-**Speaking captain**—The designated individual on the team who is the only person who may speak for the team when conversing with officials (see: *1.1.1. Mandatory Speaking Captain*).
+**Speaking captain**—The designated individual on the team who is the only person who may speak for the team when conversing with officials (see: *[1.1.1. Mandatory Speaking Captain](#111-mandatory-speaking-captain)*).
 
 **Spectator area**—The area outside of the 72 x 48 yard player area.
 
 **Stoppage**—The time within a period between a referee stopping play and when the head referee resumes play. The time between two periods is not a stoppage.
 
-**Struck beater**—A struck beater is a beater who has been hit by a live dodgeball propelled by an opponent (see: *5.4.3. Struck Beater*).
+**Struck beater**—A struck beater is a beater who has been hit by a live dodgeball propelled by an opponent (see: *[5.4.3. Struck Beater](#543-struck-beater)*).
 
 **Substitute**—A player who is not currently in play.
 
-**Substitution area**—A designated zone for each team existing outside of the pitch boundary where all of that team’s substitutions must take place (see: *2.1.7. Substitution Areas*).
+**Substitution area**—A designated zone for each team existing outside of the pitch boundary where all of that team's substitutions must take place (see: *[2.1.7. Substitution Areas](#217-substitution-areas)*).
 
-**Third dodgeball**—The only free dodgeball when one team has possession of the other two. The dodgeball can remain the third dodgeball when the possessing team loses a dodgeball under certain conditions (see: *5.5.1. The Third Dodgeball*)
+**Third dodgeball**—The only free dodgeball when one team has possession of the other two. The dodgeball can remain the third dodgeball when the possessing team loses a dodgeball under certain conditions (see: *[5.5.1. The Third Dodgeball](#551-the-third-dodgeball)*)
 
 **Tripping**—Any attempt to knock a player off their feet through contact below their knees. Tripping is always illegal physical contact.
 
-**Unscorable Quadball**—A Quadball that is live but cannot result in a goal (see: *5.6.3. Unscorable Quadball*).
+**Unscorable Quadball**—A Quadball that is live but cannot result in a goal (see: *[5.6.3. Unscorable Quadball](#563-unscorable-quadball)*).
 
 **Yank**—To pull with sudden, sharp force.
 
@@ -2813,7 +3589,7 @@ The following are offenses for which the offending player must repeat the action
 
 B-1.2 Back to Hoops Offenses
 
-The referee must send any player who commits a back to hoops offense back to that player’s hoops with the player completing the entirety of the knockout procedure as described in *5.3.1. The Knockout Procedure*. The following are back to hoops offenses:
+The referee must send any player who commits a back to hoops offense back to that player's hoops with the player completing the entirety of the knockout procedure as described in *[5.3.1. The Knockout Procedure](#531-the-knockout-procedure)*. The following are back to hoops offenses:
 
 2.5.3. Illegally failing to replace a lost headband
 3.3.3. Second false restart
@@ -2833,7 +3609,7 @@ B-1.3. Turnover Offenses
 The following offenses result in a turnover of either a Quadball or a dodgeball:
 5.5.1 Third dodgeball interference—two dodgeballs are turned over (also results in back to hoops)
 5.6.2. Natural motion violation
-7.1.2. Incidental interpositional ball interference (also 7.1.4.)
+7.1.2. Incidental interpositional ball interference (also [7.1.4.](#714-dodgeball-vs-quadball))
 7.4.1 Delay of game (also results in blue card)  
 7.4.3. Illegal reset
 7.5.4. Inbounding procedure violation (also results in back to hoops)
@@ -2841,7 +3617,7 @@ The following offenses result in a turnover of either a Quadball or a dodgeball:
 B-1.4. Blue Card Offenses
 
 The following are blue card offenses:
-1.1.1. Encroaching on the pitch (also 1.1.2.)
+1.1.1. Encroaching on the pitch (also [1.1.2.](#112-team-staff))
 1.3.1. Illegal Substitution
 1.4.2. Sideline interference
 2.4.4. Exceeding the broom limit (issued to speaking captain)
@@ -2854,9 +3630,9 @@ The following are blue card offenses:
 3.2.1. False start
 3.4.5. Seeker false start
 4.2.1. Intentionally and illegally interacting with a dead Quadball
-4.3.3. Illegally resetting an opponent’s hoop
+4.3.3. Illegally resetting an opponent's hoop
 4.3.3. Recklessly dislodging a hoop
-4.3.3. Recklessly moving hoops in the Quadball’s path
+4.3.3. Recklessly moving hoops in the Quadball's path
 5.2.3. Illegally contacting an opponent with a held dodgeball
 5.3.2. Illegally interacting with play while knocked out
 5.3.4. Affecting play while unknowingly knocked out
@@ -2866,19 +3642,19 @@ The following are blue card offenses:
 5.5.2. Invalid immunity claim
 5.5.3. Immunity violation
 6.6.1. Repeated internal unsporting conduct
-7.1.1. Illegally using a ball of one’s own position
+7.1.1. Illegally using a ball of one's own position
 7.1.2. Failure to avoid a propelled Quadball
 7.1.2. Illegal dodgeball interference
 7.1.3. Illegally failing to make a reasonable effort to avoid a ball  
 7.4.1. Delay of game (also results in Quadball turnover)
 7.5.2. Propelling a ball with the intent of sending any ball out of bounds
 9.1.8. Illegally communicating with people in the player area as an ejected player (Issued to speaking captain)
-10.3.1. Disrespecting an official (may be blue card or yellow card at referee’s discretion)
+10.3.1. Disrespecting an official (may be blue card or yellow card at referee's discretion)
 10.3.2. Illegally using verbal or visual referee signals or commands
 
 B-1.8. Contact Fouls
 
-The following offenses result in the application of the standard contact penalty (found in rules *6.2.1. Contact Fouls* and *9.1.6. Contact Foul*) :
+The following offenses result in the application of the standard contact penalty (found in rules *[6.2.1. Contact Fouls](#621-contact-fouls)* and *[9.1.6. Contact Foul](#916-contact-foul)*) :
 6.3.1. Illegal wrap  
 6.3.2. Illegal whip tackle  
 6.3.3. Illegal push  
@@ -2902,7 +3678,7 @@ The following are yellow card offenses:
 3.3.1. Intentionally illegally moving during a stoppage
 3.3.1. Intentionally illegally moving or taking hold of a ball during a stoppage
 4.3.3. Repeatedly dislodging a hoop
-5.2.1. Willfully ignoring being knocked out (also 5.2.5.)
+5.2.1. Willfully ignoring being knocked out (also [5.2.5.](#525-safe-calls))
 5.2.6. Illegal Headbeat
 5.3.1. Intentionally or repeatedly violating the knockout procedure
 5.3.3. Illegal contact while knocked out
@@ -2917,13 +3693,13 @@ The following are yellow card offenses:
 6.6.1. Unsporting conduct
 6.6.4. Pretending to be fouled
 7.1.1. Using a ball to intentionally interact with the flag runner
-7.1.2. Interposition ball interference (also 7.1.4.)
+7.1.2. Interposition ball interference (also [7.1.4.](#714-dodgeball-vs-quadball))
 7.5.2. Intentionally or blatantly ignoring a “boundary” call
 9.1.4. Willfully ignoring a turnover call
 9.4.2. Failing to immediately proceed to the penalty box after being carded  
 9.4.3. Illegal substitution in the penalty box (issued to speaking captain)
-10.3.1. Disrespecting an official (may be blue card or yellow card at referee’s discretion)
-10.3.1. Disregarding an official’s directive (also 2.5.7.)
+10.3.1. Disrespecting an official (may be blue card or yellow card at referee's discretion)
+10.3.1. Disregarding an official's directive (also [2.5.7.](#257-accidental-equipment-infringement))
 
 B-1.6. Red Card Offenses
 
@@ -2947,7 +3723,7 @@ The following are red card offenses:
 6.6.1. Intentionally spitting at or on an opponent, spectator, official, or event staffer  
 6.6.2. Engaging in a physical altercation with an opponent, spectator, official, or event staffer
 6.6.3. Serious foul play
-7.1.2. Intentionally and illegally blocking a score (also 7.1.3.)
+7.1.2. Intentionally and illegally blocking a score (also [7.1.3.](#713-interference-by-substitutes-and-knocked-out-players))
 
 B-1.7. Ejection Offenses
 
@@ -2971,7 +3747,7 @@ Except where explicitly listed, speaking captains are subject to the same penalt
 
 B-2.2. Speaking Captain Blue Card Offenses
 
-The following fouls result in a blue card for the team’s speaking captain, regardless of which team member caused the foul:
+The following fouls result in a blue card for the team's speaking captain, regardless of which team member caused the foul:
 
 2.4.4. Exceeding the broom limit
 
@@ -2981,9 +3757,9 @@ The following fouls result in a blue card for the team’s speaking captain, reg
 
 B-2.3. Speaking Captain Yellow Card Offenses.
 
-The following fouls result in a yellow card for the team’s speaking captain, regardless of which team member caused the foul:
+The following fouls result in a yellow card for the team's speaking captain, regardless of which team member caused the foul:
 
-1.2.2. Illegal set of players in play (also 1.2.3.)
+1.2.2. Illegal set of players in play (also [1.2.3.](#123-legal-set-of-players))
 
 1.2.2. Intentionally failing to send a seeker into the game
 
@@ -3011,7 +3787,7 @@ USQ offers support and certification for referees and flag runners. A certified 
 
 **Credits**
 
-USQ Rulebook 2024 is brought to you by staff members in USQ’s Gameplay Department, especially those on the rules team.
+USQ Rulebook 2024 is brought to you by staff members in USQ's Gameplay Department, especially those on the rules team.
 
 **Authors:**
 David Banas Jr.  
